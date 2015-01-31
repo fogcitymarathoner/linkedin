@@ -1,0 +1,6 @@
+<a href="/vidalityresumeservice">Load Another Resume</a>
+<ul>
+<?py for s in skills: ?>
+        <li>${s}</li>
+<?py #endfor ?>
+</ul>

@@ -1,0 +1,499 @@
+Christian Kissner
+
+1550 Armacost Ave. #104
+Los Angeles, CA, 90025
+Phone: (310) 866 8915 
+Email: b8kich@gmail.com
+Skype: chrispsmw
+
+Objective
+
+Acquire a leadership position in a professional, results-oriented software development environment.
+
+Background
+
+Sixteen years work experience in web development and project management, focussing on n-tier, 
+scalability, dynamic web, content management, wireless systems. BS in Computer Sciences and 
+graduate studies in Biomathematics. 
+
+Soft Skills
+
+Proactive, cooperative, solution oriented, objective, motivating and performing well under stress.
+Languages: German (native), English (fluent), French (good), Spanish (some).
+
+Professional Skills
+
+Management: agile and waterfall project management, resource planning, reporting, risk management, 
+software configuration management, requirements gathering, architecture and design
+System Architecture: OOD/A, SOA, Database, Security, Networking, Scalability, UML
+Coding: Java, SQL, PHP, shell, Actionscript, Flex,  Python, C++ 
+Java Technology: Spring, Hibernate, JPA, J2EE, EJB, Servlets/JSP , SAX, DOM , J2ME, MIDP, 
+CLDC, JDBC, maven, jUnit
+Web Technologies: HTML, CSS, Javascript, Ajax,  XML, XSL/XSLT, Flash, Webservices,  RDF
+Products: Eclipse, Rational Rose, MS Project, Visio, Visibroker, Mule Enterprise Service Bus, Apache, 
+Tomcat, jBoss, Mingle, Cruisecontrol, Hudson
+Operating Systems: Linux, Microsoft Windows, FreeBSD, OSX, Sun Solaris, HP-UX , AIX
+Other: TCP/IP , Routing
+Databases: MySQL, Postgres, Informix, Oracle, SAP db, MS SQL, Access.
+Science: Computer Science, Biology, Biochemistry, Machine Learning (Bayes, NN & SVM), 
+Multivariate Statistics, Calculus & Algebra, Complex Systems
+
+CV
+
+1993 - 1997 Biology & Biomathematics studies
+1996 Freelance IT development
+1996 Published UNI-Online.de for BURDA Verlag
+1997 Founded IT-Operation Gbr
+1998 Systems Administration for Compaq/Commerzbank
+1999 Development Lead for welcomehome.de
+1999 System Architecture for Efonds24.de
+2000 Java Development for German Exchange
+2002 Sun Java 2 Platform Programmer Certification
+2002 Started working with PSM&W New Media 
+2003 Stelllent CMS Administration Certification
+2003 IBM OO Analysis and Design w/ UML Certification
+2004 Founded IKONODIGITAL network, studied Bioinformatics at University of Frankfurt
+2005 System Architecture for 20th Century Fox 
+2006 System Architecture for Fox Atomic
+2007 CEO of PSM&W Solutions Inc.
+2008 Made $800,000 in revenue for PSM&W Solutions in 18 months
+2009 Scrum Master Certification
+since 2009 Systems Architecture for Planetwide Games
+
+Project History
+
+MashON.com Rearchitecture
+
+Planetwide Games Inc. (05 2010 - date)
+Architecture and Development of SOA Ecommerce Backend
+Position: Systems Architect / Development Lead
+Responsibilities:
+
+Systems architecture for SOA platform
+
+•
+• Core implementation of business process and services
+•
+
+Integration of partner interfaces
+
+Environment:
+
+•
+
+Spring, Mule ESB, Hibernate, Groovy, MongoDB, MySQL, jUnit, Amazon EC2, Scalr, axis
+
+MashON.com Platform Development
+
+PSM&W Solutions Inc. (02 2008 - 05 2010)
+Architecture and Development for creative flash application
+Position: Manager / Development Lead
+Responsibilities:
+
+Systems architecture
+
+•
+• Development
+• Management of network, backend and CMS resources
+• DB and software architecture
+
+Environment:
+
+•
+
+Zend Framework, Mysql, Adobe Flash/Flex/Air, RPC, VMWare ESX Virtualization
+
+Sony Online Entertainment Comicbook Creator
+
+PSM&W Solutions Inc. (01 2008 - 03 2008)
+Complete AJAX based Comicbook Creator
+Position: Manager / Development Lead
+Responsibilities:
+
+Project management
+
+•
+• Consulting
+• Deployment
+
+Environment:
+
+•
+
+ExtJS, PHP5
+
+FOX International Sites Relaunch
+
+PSM&W Solutions Inc. (11 2007 - 03 2008)
+Major CMS and Design Upgrade for all international sites (www.foxinternational.com)
+Position: Manager / Development Lead
+Responsibilities:
+
+•
+•
+
+Server-side architecture 
+Project management
+
+Environment:
+
+•
+
+PHP5, Agility CMS
+
+Fox Security Audit
+
+PSM&W Solutions Inc. (08 2007 - 10 2007)
+Audit of 800 websites for code injections, rootkits and back doors.
+Position: Consultant
+Responsibilities:
+
+•
+•
+•
+•
+
+Implemented a code vulnerability scanner
+Scanned 1.000.000 lines of code
+Verified 50.000 LOC 
+Eliminated backdoors and vulnerabilities
+
+Environment:
+
+•
+
+PHP, perl, shell
+
+PSM&W Solutions Inc.
+
+PSM&W Solutions Inc. (07 2007 - to date)
+Leading the Los Angeles Based subsidiary office of PSM&W new media GmbH
+Position: CEO
+Responsibilities:
+
+• Company strategy
+•
+• Human resources
+
+Project management
+
+Achievements:
+
+•
+•
+
+$800.000 in revenue within 18 months
+Secured contracts from a new major account for the company
+
+FOX Atomic
+
+PSM&W new media GmbH / 
+ 
+Development of high volume flash driven community and video website foxatomic.com
+Position: Lead Developer
+Responsibilities:
+
+  (06 2006 - 06 2007)
+
+ Fox Atomic
+ 
+
+Server-side architecture and flash remoting solution
+Implementation of flash remoting through amfphp
+
+•
+•
+• Development and integration of server-side backend
+•
+•
+
+Integration with Jumpcut video hosting
+Integration with Clipblast video search
+
+Environment:
+
+•
+
+Amfphp, symfony 
+
+FOX Agility / Web CMS Project
+
+PSM&W new media GmbH / 
+ 
+CMS reengineering, web 2.0 development and consulting
+Position: Consultant / Lead Developer 
+Responsibilities:
+
+ 20th Century Fox
+ 
+
+ . (03 2005 - 09 2006)
+
+Architecture and development 
+
+•
+• Consulting on web strategy
+• Roll-out and support of various web technologies, including AJAX, XML-RPC and SOAP 
+
+interfaces
+
+• CMS implementation and website integration for: 
+
+Fox Int’l Marketing distributor sites - all centralized territories, e.g. Fox.co.uk
+Sunshinedna.com
+FoxExhibitor.com
+FoxInflight.com
+FoxAtomic.com 
+
+Environment:
+
+•
+
+Agility CMS, PHP, Mysql, Unix, Web 2.0
+
+FOX International Website Centralization
+
+PSM&W new media GmbH / 20th Century Fox. (05 2003 - 02 2005)
+Consulting and integration for the content management system of the centralized FOX distributor sites
+Position: Consultant
+Responsibilities:
+
+Analysis and specification 
+Assistance and consulting for hosting and environment 
+System design 
+
+•
+•
+•
+• Development of prototype, CMS-managed distributor site 
+• Roll-out and Maintenance 
+
+Environment:
+
+•
+
+Stellent Content Server, Site Studio, Publisher, Connection Server 
+
+CTO / Web Administration 
+
+PSM&W new media GmbH / 20th Century Fox (11 2001 - 05 2003)
+Design, development and administration for the agency and clients, mainly 20th Century Fox. 
+Position: Chief Technical Officer
+Responsibilities:
+
+•
+
+20th Century Fox Europe Centralization Pitch: Design and specification for FOX Content 
+Management RFP 
+
+• Database administration: administration and tuning (20th Century Fox Website among others) 
+• Content Syndication: Framework for content syndication (RSS und RDF) 
+•
+
+20th Century Fox website frontend: administrative content update frontend for FOX employees 
+
+Achievements:
+
+•
+
+PSM&W new media won 20th Century Fox Europe Centralization Pitch against Foresight (UK) 
+and Ogilvy (FR)! 
+
+• Content update process clearly simplified and improved: better timeliness, less erroneous, 
+
+better quality 
+
+Environment:
+
+•
+
+PHP, apache, mysql, perl, bash 
+
+Mobile Development and Various Projects 
+
+IT-Operation (02 2001 - 08 2003)
+Position: Freelance Developer 
+Projects:
+
+• MMS and J2ME training 
+• Mobile Marketing: Development of Mobile Marketing Services Portfolio 
+• Mobile Proof of Concept: Mobile Application Development 
+• Consulting for constition of a web agency
+•
+• Development of embedded drivers for Xilinx FPGA boards 
+•
+•
+•
+
+Training XML (XSLT,XPath,XUpdate) 
+Training Webservices und Semantic Web (RDF) Content Model 
+Training Java (Swing) 
+
+Server administration 
+
+Achievements:
+
+•
+Sun Certified Java Programmer 
+•
+IBM Certified UML and OOA Designer 
+• Mobile Marketing brochure developed 
+•
+
+3 J2ME games developed 
+
+Jamaica German Exchange Trading Platform
+
+Deutsche Boerse (11 2000-01 2001)
+Development of a web supported trading system for metal derivates based on a 
+Corba/webserver/applets framework
+
+Position: Java Developer (Team of 15)
+Responsibility:
+
+•
+•
+
+Import of London Metal Exchange data 
+Interface architecture for 3rd party applications 
+
+Environment:
+
+•
+
+Visibroker, TogetherJ, apache, Oracle, PVCS, Sun UltraSparc 60 
+
+Efonds24 Closed Funds Web Platform 
+
+Efonds24/Equinet AG (05 2000 - 11 2000) 
+Position: Project Management and Java Development (Team of 5)
+Responsibility:
+
+• Design and development of a web platform for closed funds, including catalog and counselling 
+service. Implementation using J2EE platform with XML messaging between EJB, web-tier and 
+legacy counselling application, and decoupled front end using XSLT/XSP 
+
+Environment:
+
+•
+
+JBuilder, Cocoon, Rational Rose, Orion Server, apache, postgres, JDK, Linux, Solaris, Sun 
+E450 
+
+Welcomehome Java-Webshopping System
+
+GfM AG (12 1999 - 05 2000) 
+Position: Lead Java Developer (Team of 7)
+Project:
+
+•
+
+Java based web shop system for internet startup, integrating with 3rd party database. 
+UML/OO Design impemented using servlets and JDBC 
+
+Environment:
+
+•
+
+VisualAge, postgres, JDK, apache, Linux, HP LH3 
+
+ZAS/P2000 Support, Administration, Integration and Specification
+
+Compaq/Commerzbank (11 1998-11 1999) 
+
+Position: Administration / support, later integration, finally planning and specification
+Responsibilities:
+
+•
+
+•
+
+Software integration and planning for high-availability solution. Specification for Tivoli 
+management system, integration of banking software. 4 months, team of 20. 
+Software integration and planning for high-availability solution. Build out of Development Area, 
+network planning, also installation packaging. 4 months, team of 20. 
+
+• Monitoring of server farm (50 Proliant servers) and infrastructure (high-availability solution), 
+monitoring of mainframe transactions (MVS), troubleshooting, 2nd level support. 4 months, 
+team of 30. 
+
+Environment:
+
+•
+
+50 Compaq Proliant 7000, Siemens Primergy 470, Cisco LocalDirector 
+
+• MQSeries, MVS, CICS, IMS, Tivoli, BMC Patrol, MS IIS, MS Transaktion Server, MS SQL, 
+
+Oracle, Perl, InstallShield 
+
+Achievements:
+
+•
+
+Advanced from support to integration, from integration to design 
+
+Web Index Generator in ESQL/C
+
+germany.net/Dresdner Bank (07 1998-03 1998)
+Position: Coder (team of 2)
+Responsibility:
+
+•
+
+Programming of a web index generator in ESQL/ANSI C, including parsing of intranet pages 
+for tags, word indexing, creation of HTML pages, CGI interface for user and inventory 
+management. 
+
+Environment:
+
+•
+
+Informix SQL Server, ESQL/C, Sun Solaris 
+
+Administration
+
+Various clients (03 1995 - 04 2001)
+Position: Administrator
+Projects:
+
+•
+
+Prowokulta.org (1995-2000): Network/system administration
+of heterogeneous LAN witht Unix + Novell servers, Windows-95 +
+NT4 PCs, PPC MacOs 8.0. Server administration + coding,
+dialup analog and Isdn routing, firewall, IP-tunnelling/masquerading,
+news spool, mail feed, DNS + HTTP
+
+• Max-Planck-Institute for Haemostaseology (1997): Network/server
+
+administration, heterogeneour Network with NextStep + NetBSD Servers,
+Windows Clients, Novell 3.11 Backup + PrintServer, Cisco-Router
+
+• Webserver administration (1995-2001): Own Linux/Apachne/MySQL
+
+rootserver for diverse clients
+
+Web Development (HTML, Javascript, CSS)
+
+Various clients (11 1993 - 09 1998) 
+Position: Freelance Developer 
+Projects:
+
+• Neue-digitale.de 1998-1999: Implementation of screen design in HTML+Javascript, for 
+
+Daimler, Dunlop und MIT 
+Passage (1997-1998): Implementation of the SAG journal in HTML 
+
+•
+• Uni-online.de (1996): Internet/web site development for student web journal, local editorial 
+
+office 
+
+Achievements:
+
+•
+
+First web page back in 1993, first Frankfurt index page and course minutes on the web 
+
+

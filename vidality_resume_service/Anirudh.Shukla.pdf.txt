@@ -1,0 +1,124 @@
+ANIRUDH SHUKLA 
+
+355 Serrano Dr. Apt #9B, San Francisco, CA 94132 
+
+shukla_anirudh1@yahoo.co.in (415)-694-9528          http://www.linkedin.com/in/anirudhshukla 
+
+ 
+
+Java,C 
+
+ 
+OBJECTIVE: 
+Seeking a challenging full time position in the software industry. 
+ 
+EDUCATION: 
+MS Computer Science, San Francisco State University, August 2010. 
+BE Computer Science. 
+ 
+SKILLS: 
+Programming 
+Languages 
+Web Technologies 
+Database 
+Middleware 
+Directory Servers 
+Mail Servers 
+Content Management 
+System 
+Tools 
+Mobile Technologies 
+OS 
+ 
+WORK EXPERIENCE: 
+Software Developer, San Francisco State University, DOIT                                                                  Current 
+
+PHP,LAMP,CakePHP,JSP,JDBC,Servlets,Jquery,Ajax,Json,XML,HTML,CSS,WebServices 
+MySQL 
+Java RMI 
+Active Directory 
+Microsoft Exchange 
+Drupal 
+
+Eclipse,NetBeans,Visual Studio,Tortoise svn,Jmeter 
+Google Android 
+Linux ,Windows 
+
+•  Analyze and prepare  Low Level Design document.  
+•   Develop custom code to invoke the Exchange cmdlets using PHP and SSH.  
+•   Complete Drupal modules such as Single Sign On using the Shiboleth. 
+•   As a member of development team created a module for muni transportation. 
+•   Developed the cmdlets for add, modify, terminate, and activate users in the AD. 
+•   Complete comprehensive Unit testing for the Drupal modules. 
+
+ 
+Intern, RentBuddy, UK.                                                                                                                             Current 
+Project: Online Property Management System. 
+Property solution platform for connecting the landlord and tenants for efficient and transparent renting process. 
+ 
+
+•  Design and Implementing Directory system using CakePhp framework. 
+•  Design the User Interface using HTML,CSS,Ajax.  
+•  Design and developed the data base  for Directory module. 
+
+ 
+ 
+PHP Intern, Vishwatech Ltd, India.                                                                                           May 09 - Aug 09 
+Project: News Management System. 
+The subscriber can view his favorite news using this web based system. Subscriber can create and manage his 
+account. User can view, Edit, Delete his choices.Administrator of the system can manage all the content as well as 
+the subscribers. 
+
+•   Requirement analysis and preparation of Low Level Design document.  
+•   Designed the User Interface using HTMl,CSS.  
+•   Developed PHP classes and SQL scripts.  
+•   Design and develop data base using Mysql. 
+
+ 
+
+ANIRUDH SHUKLA 
+
+355 Serrano Dr. Apt #9B, San Francisco, CA 94132 
+
+shukla_anirudh1@yahoo.co.in (415)-694-9528          http://www.linkedin.com/in/anirudhshukla 
+
+ 
+
+ 
+OTHER EXPERIENCE: 
+Junior Java Developer,Bharti Infotech,India                                                                        Aug 07 - March 08  
+Project: Online Examination System. 
+ 
+
+•   Requirement analysis and preparation of Low Level Design document.  
+•   Design and developed UI Layout using web based technologies like JSP,CSS in 4 person team. 
+•   Designed database and created the SQL scripts.  
+•   Developed the MVC framework using servlets, Java and JSP.  
+•   Involved and developed the User Identity transactions such as Create, Modify, and Delete using 
+     with JDBC API. 
+
+ 
+ACADEMIC PROJECTS:  
+Online Restaurant Reservation System 
+Developed a web site, using HTML/CSS, Javascript, MySQL, PHP to perform & maintain business activities for 
+a Restaurant. http://hci.cs.sfsu.edu/~group4/index.php 
+ 
+Google Android App:Virtual GeoCaching  
+This application will provide the geo tagged data to the user and keep track of all the information related to 
+locations. It uses google maps to display the item such as text, image and these can be tagged and viewed on the 
+map as well as in form of a list. 
+http://code.google.com/p/green668/source/browse/#svn/trunk/FinalProject 
+ 
+Invoice Generator Software using Java Swing and RMI 
+Developed to be used for usage at any shopping store .It will generate the invoice/receipt for the relevant purchase 
+done by the customer. http://code.google.com/p/green668/source/browse/#svn/trunk/rmipost 
+ 
+Scheduling and Event Management  
+To be used to schedule or make appointments with the help of calendar using PHP and AJAX. 
+ 
+“Really Simple Syndication” Management system  
+Subscriber can subscribe for an account;manage the Rss feeds;view the Rss Feeds parsed in collapsible,drag and 
+drop widgets.It uses PHP, Jquery, MySQL and XML. 
+ 
+
+

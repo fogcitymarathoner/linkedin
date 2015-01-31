@@ -1,0 +1,81 @@
+Alex Song
+
+1290 Mildred Ave, San Jose CA 95125
+Cell: 510.830.7751 | alexsong@gmail.com
+
+OBJECTIVE
+A full-time position in a software related ﬁeld where my skills can be utilized to develop cutting edge products.
+Key areas of expertise include:
+• Multi-threaded programming
+• Digital audio/video
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer, Maxim Integrated Products, Sunnyvale, CA !
+
+• Real-time embedded systems
+• Linux kernel, drivers and apps
+
+• Low latency video streaming
+• DSP ﬁrmware development
+
+ Aug 2006 - Present
+
+• Designed and developed embedded realtime ﬁrmware for the companyʼs H.264 codec processor.
+• Lead software engineer architect for entire video input/output subsystem.
+• Developed multiple virtual video input, preprocessor and output software instances per hardware instance.
+• Designed and developed a video rendering engine utilizing virtual video preprocessors.
+• Worked closely with FAEʼs and customers to resolve customer issues.
+• Worked directly with key customers on integrating multiprocessor based 16ch surveillance DVR products.
+• Developed veriﬁcation ﬁrmware and unit test programs for board bring up and FPGA processor prototype.
+
+Software Engineer, XVD Corporation, San Jose, CA !
+Contract work carried out in Brisbane, Australia !
+
+ Apr 2002 - Aug 2006
+ Apr 2002 - Jan 2003
+
+• Designed and developed products based on the companyʼs proprietary audio and video codec.
+• Project lead for decoder performance, low system latency and OEM product integration.
+• Developed ﬁrmware for single/multiple DSP based broadcast grade real-time encoders and decoders.
+• Developed a scalable, live streaming video Linux server for surveillance and consumer markets.
+• Developed an embedded Linux consumer set-top box, video drivers and multi-view media player.
+• FAE role with various broadcasters and solution providers such as ABC, NHK and Harris.
+
+Software Engineer, EDMI Ltd, Brisbane, Australia !
+
+• Developed custom token ring based network protocol for companyʼs industrial power meters.
+
+Software Engineer, Ravisent Technologies Inc, San Jose, CA !
+Contract work carried out in Brisbane, Australia.
+
+ Feb 2002 - Apr 2002
+
+ Nov 2000 - Jan 2001
+
+• Optimized the font engine memory footprint for a web browser and email client on an ARM set-top box.
+
+DSP/BIOS RTOS, Embedded/Desktop/Server Linux, Windows 2K/XP, Mac OS X.
+Expert C, C++, Assembly, MMX/SSE, TI 64x, ObjC, Java, UNIX Shell, HTML, JavaScript.
+Video over IP/Satellite, ProMPEG FEC, TCP/IP, RTP/UDP, Multicast, HTTP.
+GNU tool chain, TI Code Composer, Subversion, CVS, SourceSafe, Bugzilla, Cygwin.
+Linux kernel/drivers/network stack, DirectFB graphics driver.
+
+TECHNICAL SKILLS
+OS:
+Languages:
+Protocols:
+Tools:
+Open source:
+EDUCATION
+University of Queensland, Australia - Bachelor of Engineering, Elec/CompSys (Honors I) !
+• Awarded the University Medal as well as attaining the highest departmental GPA (6.86/7.0).
+• Honors thesis “A Wireless Ad Hoc Network for Mobile Handheld Devices” (http://piconet.sourceforge.net).
+• Honors thesis cited in IETF Mobile Ad-hoc Networks RFC 4728 (http://tools.ietf.org/html/rfc4728).
+
+ 2001
+
+PERSONAL PROJECTS
+www.axoniclabs.com - personal software projects for Mac OS X.
+REFERENCES
+Available upon request.
+
+

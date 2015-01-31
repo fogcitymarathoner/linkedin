@@ -1,0 +1,225 @@
+DWALU Z. KHASU
+
+415.763.7637
+
+Email: dwalu@bu.edu or dwalu@me.com
+
+Professional Summary:  Experienced technology architect and visionary,
+personable manager and skilled programmer with acute business
+understanding, entrepreneurial skills and "can-do" attitude
+
+Technology Expertise/Skills:
+OS / Environments: AWS (EC2, S3, SimpleDB), *BSD, *Linux, Mac OS X, Windows
+Studies: Design Patterns, Database Design and Optimization, Agile/Extreme
+Programming
+Languages: C/C++, perl, java/J2EE, RoR, python, PHP, JavaScript/JQuery, 
+ 
+ 
+Web Servers: Apache, Lighthttpd, IIS, Nginx, Websphere, Weblogic, Tomcat, JBOSS, Jetty
+Databases: MySQL, Oracle, PostgreSQL, FireBird, MS SQL, Informix, Sybase 
+
+       tcl/tk, expect, Visual Basic/C/C++, .NET/ASP/C#, ESQL/C, Pro*C, 
+       PL/SQL, T-SQL, Lisp, Prolog, Scheme
+
+Technology Summary: Technology intuitive; Player/Coach of high-performance teams; 
+       Scalable Platforms; Highly-focused and results-driven process builder; 
+       Creative problem solver and decisive decision-maker
+
+Professional Experience: 
+
+KDM Technology Solutions  (Self-Owned)
+Consultant (Data and Systems Architect, DBA, Manager) (10/05 - present)
+
+Business and Technology Processes, Database and System Architecture,
+Development for various clients in Mobile Messaging, Advertising, Data Mining, Data 
+Warehousing, Customer Acquisition/Direct Marketing and Ecommerce.
+
+Technologies: EC2, S3, SimpleDB, OpenX, Catalyst, Drupal, Zope, Yii, Kohana,  
+LAMP, PHP, perl, java, Solaris 10, FreeBSD, Linux, Windows, Oracle, MySQL, 
+PostgreSQL, MS SQL
+
+IntopicMedia, LLC 
+Consultant / Architect (April 10 - October 10)
+
+Operations and re-architecture of contextual advertising platform, strategies for business 
+development and advertising sales
+
+Waterfall Mobile, Inc.  (May 09 - Aug 09)
+Consultant / Performance Architect
+
+Profiling, benchmark and re-architecture of mobile advertising and alerts/messaging platform to 
+high performance and scalable deployment on AWS for online voting and similar applications
+
+BigTent, LLC
+Database Administrator/Architect  (Aug. 08 - April 09)
+
+Implemented migration from MyISAM to InnoDB, backup/restore automation, replication
+fail-over, performance tuning and training, including optimization, caching and load tuning.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Juicr 
+ 
+CTO/Co-Founder (09/06 - 09/08)
+  
+Product Development, Financials and Fund Raising, Technology
+Management--research, analysis, specification, architecture, and
+development of fully-functional production-ready professional
+network product using best practices in a fault-tolerant, 
+MVC-based web3.0 platform ( Local and remote teams )
+
+Key components included:
+o Layered hierarchy using open-source and proprietary algorithms in
+   unstructured search, voting, faceted-search, collaborative filtering
+o Fault-tolerant distributed collection/crawler subsystem
+o MVC-based web3.0 architecture with partitioning and caching (data and media)
+
+Xapian, Catalyst, perl, C/C++, Postgres, FreeBSD, Solaris x86, Memcache, Hadoop, 
+BigTable, S3, OpenSocial, OpenID, Bayesian Classifiers, Contextual Network Graph,
+Collaborative Filtering, Apache, Lighthttpd, modperl, fastcgi, perlbal, pound, 
+squid, varnish, and various NLP methods
+
+Research Technologies: RoR, Pylons, Django, Heretrix, Nutch, MySQL, Lucene, Sphinx, 
+ 
+   
+   
+ 
+   
+Technologies Used:  Apache/modperl, MySQL, Catalyst, Amazon EC2/S3, varnish, memcached, 
+Xapian
+    
+
+Netblue, Inc. (Alias YFDirect)
+Director of Technology, Product Development and Operations 11/04 - 10/05
+
+Player/Coach responsible for the design, implementation and maintenance 
+of highly-available, software and hardware systems used for LeadGen,
+Search, Email, Affiliate Networks in Internet Advertising, Marketing
+and other customer acquisition/distribution channels
+Platform: JAVA/JSP on Tomcat, perl/mod_perl on Apache, MySQL, Linux
+
+o Implemented enhancements to NetBlue's proprietary platform, resulting in 30% 
+   Increase in user-response time and 50% increase in platform uptime
+o Designed and implemented a declarative language (XML-based) to simplify 
+   deployment of new products and its supporting framework for next generation 
+   platform, reducing customer/offer deployment time from 1-1.5 weeks. to
+   4 hours or less on average
+o Delivered prototype for reliable self-healing logging, collection and 
+   data distribution system in an Object Oriented perl framework 
+o Benchmarked, optimized and maintained ~750G MySQL instance to reduced  
+   connection overhead, server loads and increased response time as DBA
+o Liaised with product team to collect user stories and define product strategy
+o First-line of client engagement for technical/operational issues 
+o Day-to-day management of local and remote (Vietnam) teams--started
+   with 3-member EngOps team and grew to 30 Eng + 10 Ops
+
+  
+ 
+
+VibrantMedia, Inc. 
+ Consultant/Director of Engineering and Operations 08/03 - 05/04 
+
+Design and development of information retrieval/NLP framework in a
+distributed server architecture; architecture of proxy, load-balanced
+service clusters; liaising with management and peers in UK and US
+offices; recruiting and management of US engineering; day-to-day
+management of IT infrastructure and purchases;  
+Platforms: WINDOWS, IIS, MS-SQL, VB, FreeBSD, MySQL, perl, Apache2
+
+o Architecture of high-availability and highly scalable, secure high volume
+   server platform using design patterns to create extensible/pluggable 
+   infrastructure adding NLP/semantic algorithms to increase contextual relevancy
+o Optimized various layers of legacy platform, at network, hardware
+   and software, including MS SQL replication, reduction of transactions
+   and system deadlocks, and custom in-memory data management modules resulting
+   in 50% increase in overall system response
+o Managed and maintained geographically dispersed services in
+   collocated server farms in UK and US running on legacy Windows 2000 as
+   well as defined and integrated seamless Unix migration 
+o Reduced overall IT budget while increasing CTR, relevancy measures and
+   revenues
+
+Tacoda Systems 
+Consultant/Architect/Developer   (08/01 - 04/03)
+
+Managed Engineering and Operations, which included Product Engineering
+and Development, Technology Support and Operations, Customer Support
+and Deployment
+
+o Assessment, design and implementation of deployment technology
+   infrastructure for Enterprise and Distributed data warehouse platforms
+   as well as internal technology growth
+o Primary System and Network Administrator for hosted datacenter which
+   includes Windows 2K, Linux and Solaris servers, Cisco switches,
+   routers and firewall; also SQL Server 2000 and MySQL Database
+   Administrator  
+o Implemented Ticketing System, Customer Notification and Change
+   Management Processes  
+o Software development and bug fixes in Java, Perl, ASP, T-SQL and
+   bourne shell  
+o Established formal processes using Capability Maturity Model (CMM)
+   directives  
+
+Miavia, Inc
+Database and Systems Architect/Developer  
+
+o Primary Database administrator and co-architect of a distributed
+   mail filtering system
+o Co-designed and implemented a secure and transparent network
+   appliance solution to reliable and efficient mail filtering at the
+   Enterprise level.
+o Designed and implemented a scalable, distributed failover
+   architecture for reliable near real-time updates to spam database
+   using MySQL; also developed client APIs using Perl, C, and Java 
+
+Sonicopia (later acquired by Pulse) 
+Chief Architect/Engineering Director (Consultant, Perm) 05/00 - 08/01  
+
+o Architect/Developer of ASP solution for distributed delivery of
+   multimedia content via the web  
+o Successfully completed major product development and integration
+   effort on time and under budget for main components and startup
+   framework  
+o Created global distribution strategies, investor presentations
+   and marketing documentation  
+
+Excite@Home 
+Senior Software Engineer/Architect 06/99 - 07/01 
+
+o Re-architected and implemented @Home's WebSpace architecture using
+   replication, caching, more modular and distributed components resulting
+   in three-fold increase in capacity on existing hardware
+o Co-Architect/Developer for Network Management product; configuration, 
+   monitoring and alert platform using SNMP, C, perl and Oracle
+
+Sun Microsystems (Security and Networking Group) 
+Network/Software Engineer (Consultant) 10/98 - 05/99 
+
+Developer and test automation for Mobile-IP prototype (RFC 2002);
+regression and stress testing of mobility architecture including Diameter
+
+Cisco Systems 
+Network/Software Engineer (Consultant) 08/97 - 09/98 
+
+Development and testing for H.323 VoIP product; including gatekeeper,
+gateway, proxy, picturetel and Intel endpoints using C and tcl
+
+BBN Planet Corporation 
+Senior Technical Lead   12/94 - 8/97 
+
+Responsible for technical leadership and development of tools in the
+ISP service arena: Site Patrol Firewall product, network
+configuration, management and monitoring utilizing both file storage
+and distributed databases on Informix and Oracle; reliable mail
+architecture and configuration using Sendmail; automated router
+configurations and firewall configurations 
+
+References available upon request 
+
+

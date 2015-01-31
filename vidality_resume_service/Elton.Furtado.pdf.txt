@@ -1,0 +1,262 @@
+ 
+
+ 
+
+ 
+
+101 E San Fernando St,  
+San Jose CA 95112.                                                     ELTON FURTADO 
+ 
+OBJECTIVE: 
+Seeking a full-time position as a software engineer to enhance the technical research and development of the company. 
+ 
+
+    
+ 
+
+         
+
+  
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+  efurtado@buffalo.edu 
+
+                           (716) 704-5654 
+
+EDUCATION: 
+Master of Science, Computer Science   
+ 
+University at Buffalo, State University of New York. 
+ 
+Bachelor of Engineering, Information Technology  
+ 
+Vivekanand Education Society’s Institute of Technology (VESIT), University of Mumbai, India.   
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+      
+ 
+ 
+
+     May 2010 
+      
+     May 2008 
+      
+
+SKILLS: 
+
+•  Languages: C, C++, C#, JAVA, MATLAB. 
+•  Operating Systems: Microsoft Windows 98/2000/XP/VISTA/7, Ubuntu Linux Red Hat, FreeBSD. 
+•  Web Tools: HTML, CSS, JSP, EJB, Struts, JavaScript, Ajax, Hibernate, Apache Tomcat, XML. 
+•  Database Tools: Microsoft SQL Server, MySQL. 
+•  Applications: Eclipse, Visual Studio, NetBeans, Visual Paradigm, Photoshop, Flash, Dreamweaver, Microsoft Office. 
+
+ 
+EXPERIENCE: 
+Website Developer and Graphic Designer 
+Capital Management Services, Buffalo, New York. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       June 2009 – Aug 2009 
+
+  Developed three company websites using JSP and updated company information using JavaScript. 
+  Scripting of user data and forms with PHP and making dynamic web content using Ajax. 
+  Designed user interactive elements with Photoshop and Flash and building static web pages with HTML and CSS. 
+
+ 
+GRADUATE PROJECTS: 
+Alert Management Systems (Wireless Networks)  
+
+Feb 2010 
+•  Built a project for the banking environment which monitors the state of entities and the engine triggers alerts on C#. 
+Nov 2009 
+
+Graduate Application Process (Web Data Engineering) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  Constructed an application for gathering applicant information using JSP and Java Beans which are reviewed by 
+
+Committee Members on Struts framework and decisions are made by Chairperson using JavaScript, Ajax and Hibernate. 
+
+Patient Health Information Security System (Applied Cryptography and Computer Security) 
+
+ 
+
+    
+
+Sep 2009 
+
+• 
+
+Implements the functionality to store patient health information with hierarchical privileges using Crypto ++ and 
+investigation of email spoofing, setting firewall rules, analyzing port knocking and setting a shimmer for C3PO. 
+
+Simple Relational Query Processor (Database Systems) 
+
+            May 2009 
+•  Developed a relational query processor in JAVA, using JavaCC parser generator, perform optimization operations, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+execute the query against the stored relations and return the tuples of the query result. 
+
+Peer to Peer File Sharing using Distributed Hash Tables (Modern Networking Concepts) 
+
+ 
+
+ 
+
+Apr 2009 
+
+•  Devised a Kademlia DHT protocol using P2P architecture where nodes communicate using TCP/UDP ports and files 
+
+can be downloaded and uploaded from peers and for listening and sending messages using IO multiplexing. 
+
+FreeBSD Kernel Programming (Operating Systems Internals)   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mar 2009 
+
+•  Simulated a device driver framework to read and write strings to devices, created system calls for get, set and clear ACL 
+
+file permissions and for processes to set, create and delete containers with a process id for reading and writing data. 
+Feb 2009 
+
+Badge Tracking System for the Centre for Handicapped Children (Software Engineering) 
+
+ 
+
+ 
+
+•  Simulated a monitoring system for tracking the locations and activities of children, teachers and therapists with a real 
+
+time update on the database using RFID technology. 
+Image Pyramid Based Object Detector (Image Processing) 
+
+Nov 2008 
+•  Programmed an application for efficiently searching an object in the image pyramid from top-down using probability 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+distribution function in MATLAB 
+
+Implementation of File System Server and Disk Storage System (Distributed Systems)  
+
+Sep 2008 
+•  Represented a Client-Server architecture using Socket API for disk and file server which manages data and performs 
+
+ 
+
+ 
+
+operations and implemented multi-threaded programs using semaphores and POSIX threads for realizing concurrency. 
+ 
+
+HONORS: 
+
+•  First Prize in Open Software Development and Design Contest and Software Treasure Hunt at IEEE. 
+
+LEADERSHIP/ACTIVITIES: 
+Vice-President, Publicity Head, Coordinator, Resource Head, Executive Member, Publicity Module of VESIT  
+Technical Head, Backstage Assistant, Musical Volunteer, Soccer Event-Head, Class Captain of VESIT 
+
+ 
+
+2006-2008 
+2006-2008 
+
+
