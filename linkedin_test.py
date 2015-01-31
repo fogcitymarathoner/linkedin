@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup as bs
 import requests
 import os
+import sys
 import json
 urls_html = """<p>&nbsp;<a href="http://ar.linkedin.com/in/marianobuglione" target="_blank" style="font-family: Menlo; font-size: 11px; color: rgb(17, 85, 204);">http://ar.linkedin.com/in/<wbr></wbr>marianobuglione</a></p>
 <p style="color: rgb(34, 34, 34); margin: 0px; font-size: 11px; font-family: Menlo;"><a href="http://ar.linkedin.com/pub/federico-soria-galvarro/25/34b/bb4/en" target="_blank" style="color: rgb(17, 85, 204);">http://ar.linkedin.com/pub/<wbr></wbr>federico-soria-galvarro/25/<wbr></wbr>34b/bb4/en</a></p>
@@ -104,29 +105,42 @@ urls_html = """<p>&nbsp;<a href="http://ar.linkedin.com/in/marianobuglione" targ
 <p style="color: rgb(34, 34, 34); margin: 0px; font-size: 11px; font-family: Menlo;"><a href="http://www.linkedin.com/pub/gerardo-moad/3/501/b27/" target="_blank" style="color: rgb(17, 85, 204);">http://www.linkedin.com/pub/<wbr></wbr>gerardo-moad/3/501/b27/</a></p>
 """
 
+def onlyascii(char):
+    if ord(char) < 48 or ord(char) > 127: return ''
+    else: return char
 
+def get_my_string(str):
+
+    filtered_data=filter(onlyascii, str)
+    filtered_data = filtered_data.lower()
+    return filtered_data
 doc = bs(urls_html)
 link_list = []
 code_999 = 0
 code_200 = 0
 count = 0
+
+user_agent = {'User-agent': 'Mozilla/5.0'}
+
 for link in doc.find_all('a'):
-	href = link.get('href')
-	link_list.append(href)
-	cmd = 'wget -r -H --convert-links --level=3 --user-agent=Mozilla %s'%href
-	#wstatus_code = os.system(cmd)
-	#r = requests.get(href)
-	#print cmd
-	#print href
-	#print r.status_code
-	#print wstatus_code
-	"""
-	if r.status_code == 999:
-		code_999 += 1
-	if r.status_code == 200:
-		code_200 += 1
-	count += 1
-	"""
+    href = link.get('href')
+    link_list.append(href)
+    #href = 'http://google.com'
+    cmd = 'wget -r -H --convert-links --level=3 --user-agent=Mozilla %s'%href
+    wstatus_code = os.system(cmd)
+    print wstatus_code
+    r = requests.get(href, headers = user_agent)
+    #print cmd
+    #print href
+    print r.status_code
+    print get_my_string(r.text)
+    """
+    if r.status_code == 999:
+        code_999 += 1
+    if r.status_code == 200:
+        code_200 += 1
+    count += 1
+    """
 print json.dumps(link_list)
 #print 'number of 999: %s'%code_999
 #print 'number of 200: %s'%code_200
