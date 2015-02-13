@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+use warnings;
+use strict;
+
 use DBI;
 use DBD::mysql;
 use LWP::Simple;
@@ -7,12 +10,8 @@ use HTTP::Request;
 use Data::Dumper;
 use HTML::TreeBuilder 5 -weak;
 use HTML::TreeBuilder::XPath;
-#use Encode;
-#use utf8;
 use Text::Unidecode;
 
-use warnings;
-use strict;
 
 use constant { True => 1, False =>0 };
 use constant { COMMENT_CHAR => '#',
@@ -74,8 +73,12 @@ use constant { XPATH_FULL_NAME => '//span[@class="full-name"]',
 				XPATH_PERIOD => '//span[@class="experience-date-locale"]',
 				XPATH_PHOTO => '//img[@id="bg-blur-profile-picture"]' };
 
-my $limitRecords = " limit 10";
-#my $limitRecords = "";
+require 'config.pl';
+
+use RV::Utils qw(trim);
+
+#my $limitRecords = " limit 10";
+my $limitRecords = "";
 my $idStr = '';
 my $idCond = ' where ';
 
@@ -90,12 +93,12 @@ my $getDataStmt; # Query to get person data
 my %personData  = ();
 my %totals      = (); # Stats
 my $numRecords  = 0;  # Number of total records
-my @idList;
 my $startId     = undef;
 my $endId       = undef;
 my %skillsDB    = (); # Collect all skills into a hash table.
 my %schoolsDB   = (); # Collect all schools into a hash table.
 my %companiesDB = (); # Collect all companies into a hash table.
+my @idList;
 
 # Web vars
 my @httpsProxies;
@@ -120,6 +123,7 @@ my %countryOfState = (); # e.g. $countryOfState{'California'} = 'U.S.A.'
 my $onlyUS = False;
 my $skipNonAsciiURLs = False;
 my $skipNonAsciiLocations = False;
+my $force = False; # if True, force output even when no 'hole' in record.
 
 
 # Utility Functions
@@ -127,10 +131,10 @@ sub warning {
 	print "Warning: $_[0]\n";
 }
 
-sub trim {
-	(my $s = $_[0]) =~ s/^\s+|\s+$//g;
-	return $s;
-}
+#sub trim {
+	#(my $s = $_[0]) =~ s/^\s+|\s+$//g;
+	#return $s;
+#}
 
 sub fix_str {
 	# Function to remove all kinds of prefixes and suffixes to city names
@@ -214,7 +218,7 @@ sub load_locations {
 #		aliases hash - key is aliasName, value is originalName
 #	In addition, read cities, states, countries from vidlink
 
-	my $locationsFile = 'locations.txt';
+	my $locationsFile = get_locations_file();
 	open(FILE, $locationsFile)
 		or die "locations file $locationsFile not found";
 	my @data = <FILE>;
@@ -273,7 +277,7 @@ sub load_locations {
 		} elsif ($cmd eq CITY) {
 			if ($numWords < 3) {
 				warning 'city incorrectly specified at line # '
-						. $lineNum .  ' in ' . $locationsFile
+						. $lineNum . ' in ' . $locationsFile
 						. ', skipping $line';
 				next;
 			}
@@ -285,8 +289,8 @@ sub load_locations {
 		}
 	}
 
-	get_vidlink_city_data;
-	get_vidlink_state_data;
+	get_vidlink_city_data();
+	get_vidlink_state_data();
 }
 
 sub is_hole {
@@ -307,17 +311,42 @@ sub is_hole {
 
 sub needs_scraping {
 	my $id = $_[0];
+	my $verbose = $_[1];
 
 	my $ret = False;
 	
-	my @fields = (NAME, CITY, SKILLS, CURRENT_JOB, SCHOOL, PHOTO);
+	#my @fields = (NAME, CITY, SKILLS, CURRENT_JOB, SCHOOL, PHOTO);
+	my @fields = (NAME, SKILLS, CURRENT_JOB, SCHOOL, PHOTO);
+	my @fieldNames = ('Name', 'Skills', 'Experience', 'Education', 'Photo');
+	my $myStr = '';
+
+	my $index = 0;
 	foreach (@fields) {
 		my $field = $_;
-		$ret |= is_hole($id, $field);
+		my $val = is_hole($id, $field);
+		if ($verbose == True) {
+			if ($val == True) {
+				$myStr = $myStr . $fieldNames[$index] . ', ';
+			}
+			$index++;
+		}
+		$ret |= $val;
+		#if ($ret == True) {
+			#return $ret;
+		#}
 	}
 	#my %s = %{ $personData{$id}{VIDLINK} };
 	#print "Record: " . Dumper(\%s);
 	#print "needs_scraping is $ret\n";
+
+	if ($verbose == True) {
+		if ($ret == True) {
+			$myStr = $myStr. " need scraping for $id\n";
+		} else {
+			$myStr = "No need to scrape $id\n";
+		}
+		print $myStr;
+	}
 	return $ret;
 }
 
@@ -326,7 +355,9 @@ sub scrape_name {
 
 	$personData{$id}{SCRAPED}{NAME} = undef;
 	if ( ( is_hole($id, NAME) ) == False ) {
-		return False;
+		if ( $force == False ) {
+			return False;
+		}
 	}
 
 	my $name = undef;
@@ -373,19 +404,22 @@ sub scrape_photo {
 
 	$personData{$id}{SCRAPED}{PHOTO} = undef;
 	if ( ( is_hole($id, PHOTO) ) == False ) {
-		return False;
+		#print "No photo hole for person id $id\n";
+		if ( $force == False ) {
+			return False;
+		}
 	}
 
-    my $ph = $xpathRoot->findnodes( XPATH_PHOTO )->[0];
-    if (defined $ph) {
-        print "Photo: ";
+	my $ph = $xpathRoot->findnodes( XPATH_PHOTO )->[0];
+	if (defined $ph) {
+		#print "Photo: ";
 		$personData{$id}{SCRAPED}{PHOTO} = $ph->attr('src');
-        print "\t" . $personData{$id}{SCRAPED}{PHOTO} . NEWLINE;
-        #print $ph->as_text . NEWLINE;
-        #print 'photo node is . Dumper(\$ph) . NEWLINE;
-    } else {
-        print "No Photo for $id\n";
-    }
+		#print "\t" . $personData{$id}{SCRAPED}{PHOTO} . NEWLINE;
+		#print $ph->as_text . NEWLINE;
+		#print 'photo node is . Dumper(\$ph) . NEWLINE;
+	} else {
+		print "No photo info for $id\n";
+	}
 	return True;
 }
 
@@ -396,8 +430,11 @@ sub scrape_experience {
 	my @tmpCompanies;
 	$personData{$id}{SCRAPED}{EXPERIENCE} = undef;
 	if ( ( is_hole($id, CURRENT_JOB) ) == False ) {
-		print "No experience hole for person id $id\n";
+		#print "No experience hole for person id $id\n";
 		return False;
+		if ( $force == False ) {
+			return False;
+		}
 	}
 
 	my $currJob = $xpathRoot->findnodes( XPATH_CURRENT_JOB )->[0];
@@ -430,7 +467,9 @@ sub scrape_experience {
 		if ($store == True) {
 			#TODO: Replace by checking the size of hash
 			push (@tmpCompanies, \%info);
-			$companiesDB{$info{COMPANY}} = True;
+			#if ( not exists $companiesDB{VIDLINK}{$info{COMPANY}} ) {
+				$companiesDB{SCRAPED}{$info{COMPANY}} = True;
+			#}
 		}
 	}
 
@@ -466,7 +505,9 @@ sub scrape_experience {
 			if ($store == True) {
 				#TODO: Replace by checking the size of hash
 				push (@tmpCompanies, \%info);
-				$companiesDB{$info{COMPANY}} = True;
+				#if ( not exists $companiesDB{VIDLINK}{$info{COMPANY}} ) {
+					$companiesDB{SCRAPED}{$info{COMPANY}} = True;
+				#}
 			}
 		}
 	}
@@ -490,8 +531,10 @@ sub scrape_education {
 	my @tmpSchools;
 	$personData{$id}{SCRAPED}{EXPERIENCE} = undef;
 	if ( ( is_hole($id, SCHOOL) ) == False ) {
-		print "No school hole for person id $id\n";
-		return False;
+		#print "No school hole for person id $id\n";
+		if ( $force == False ) {
+			return False;
+		}
 	}
 
 	my @s = $xpathRoot->findnodes( XPATH_SCHOOL );
@@ -517,7 +560,9 @@ sub scrape_education {
 		}
 		#print "Info: " . Dumper(\%info);
 		push (@tmpSchools, \%info);
-		$schoolsDB{$info{NAME}} = True;
+		#if ( not exists $schoolsDB{VIDLINK}{$info{NAME}} ) {
+			$schoolsDB{SCRAPED}{$info{NAME}} = True;
+		#}
 	}
 
 	$numSch = @tmpSchools;
@@ -535,14 +580,16 @@ sub scrape_skills {
 	my @tmpSkills;
 	$personData{$id}{SCRAPED}{SKILLS} = undef;
 	if ( ( is_hole($id, SKILLS) ) == False ) {
-		print "No skills hole for person id $id\n";
-		return False;
+		#print "No skills hole for person id $id\n";
+		if ( $force == False ) {
+			return False;
+		}
 	}
 
 	my @s = $xpathRoot->findnodes( XPATH_SKILLS );
 	my $numSk = @s;
 	if ($numSk == 0) {
-		print "No skills for person id $id\n";
+		print "No skills info for person id $id\n";
 		return False;
 	}
 
@@ -552,7 +599,9 @@ sub scrape_skills {
 		#print "\t";
 		#print $sk . NEWLINE;
 		push (@tmpSkills, $sk);
-		$skillsDB{$sk} = True;
+		#if ( not exists $skillsDB{VIDLINK}{$sk} ) {
+			$skillsDB{SCRAPED}{$sk} = True;
+		#}
 	}
 	#foreach (@tmpSkills) {
 		#print $_ . NEWLINE;
@@ -572,8 +621,10 @@ sub scrape_location {
 	$personData{$id}{SCRAPED}{STATE}   = '';
 	$personData{$id}{SCRAPED}{COUNTRY} = '';
 	if ( ( is_hole($id, CITY) ) == False ) {
-		print "No location hole for $id\n";
-		return False;
+		#print "No location hole for $id\n";
+		if ( $force == False ) {
+			return False;
+		}
 	}
 
 	my $locality = $xpathRoot->findnodes(XPATH_LOCALITY)->[0];
@@ -810,9 +861,11 @@ sub scrape_url {
 		return False;
 	}
 
-	if ( (needs_scraping($id) ) == False ) {
-		$personData{$id}{SCRAPED}{SCRAPE_STATUS} = NOT_NEEDED;
-		return False;
+	if ( (needs_scraping($id, True) ) == False ) {
+		if ( $force == False ) {
+			$personData{$id}{SCRAPED}{SCRAPE_STATUS} = NOT_NEEDED;
+			return True;
+		}
 	}
 
 	my $url = $personData{$id}{VIDLINK}{URL};
@@ -862,11 +915,12 @@ sub scrape_url {
 
 sub connect_to_vidlink {
 	my %attr;
-	$attr{mysql_socket} = '/Applications/MAMP/tmp/mysql/mysql.sock';
+	$attr{mysql_socket} = get_mysql_socket();
+	my $dbname = "DBI:mysql:" . get_mysql_db();
 	$dbh=DBI->connect(
-		"DBI:mysql:vidlink",
-		"root",
-		"root",
+		$dbname,
+		get_mysql_login(),
+		get_mysql_password(),
 		\%attr
 	) || die DBI->errstr;
 }
@@ -968,6 +1022,42 @@ sub check_row_for_person_holes {
 }
 
 
+sub get_vidlink_companies {
+	my $query = "select c.name from company as c group by c.name;";
+	$getDataStmt = $dbh->prepare($query);
+	$getDataStmt->execute();
+
+	my @row;
+	while (@row = $getDataStmt->fetchrow_array()) {
+		$companiesDB{VIDLINK}{$row[0]} = True;
+	}
+	$getDataStmt->finish();
+}
+
+sub get_vidlink_schools {
+	my $query = "select s.name from school as s group by s.name;";
+	$getDataStmt = $dbh->prepare($query);
+	$getDataStmt->execute();
+
+	my @row;
+	while (@row = $getDataStmt->fetchrow_array()) {
+		$schoolsDB{VIDLINK}{$row[0]} = True;
+	}
+	$getDataStmt->finish();
+}
+
+sub get_vidlink_skills {
+	my $query = "select s.name from skill as s group by s.name;";
+	$getDataStmt = $dbh->prepare($query);
+	$getDataStmt->execute();
+
+	my @row;
+	while (@row = $getDataStmt->fetchrow_array()) {
+		$skillsDB{VIDLINK}{$row[0]} = True;
+	}
+	$getDataStmt->finish();
+}
+
 sub get_person_stmt {
 	#my $testCond = ' where id = 34619 ';
 	my $testCond = '';
@@ -992,12 +1082,12 @@ sub get_person_stmt {
 				$limitRecords;
 END_QUERY
 	#print $query . NEWLINE;
-	if ( $idCond ne 'where' ) {
+	if ( $idCond ne ' where ' ) {
 		$idCond = $idCond . " and ";
 	}
 	#print $dbh;
 	$getDataStmt = $dbh->prepare($query);
-	$getDataStmt->execute;
+	$getDataStmt->execute();
 }
 
 
@@ -1042,7 +1132,7 @@ sub get_location_stmt {
 END_QUERY
 	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
-	$getDataStmt->execute;
+	$getDataStmt->execute();
 }
 
 
@@ -1080,7 +1170,7 @@ sub get_skills_stmt {
 END_QUERY
 	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
-	$getDataStmt->execute;
+	$getDataStmt->execute();
 }
 
 
@@ -1116,7 +1206,7 @@ sub get_job_stmt {
 END_QUERY
 	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
-	$getDataStmt->execute;
+	$getDataStmt->execute();
 }
 
 
@@ -1152,7 +1242,7 @@ sub get_school_stmt {
 END_QUERY
 	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
-	$getDataStmt->execute;
+	$getDataStmt->execute();
 }
 
 
@@ -1186,7 +1276,7 @@ sub get_photo_stmt {
 END_QUERY
 	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
-	$getDataStmt->execute;
+	$getDataStmt->execute();
 }
 
 
@@ -1231,8 +1321,9 @@ sub scrape_person {
 			warning "Scraping of " . $personData{$id}{VIDLINK}{URL} . " failed with 404";
 			 #TODO: Set linkedin field to NULL as URL doesn't exist
 		} else {
+			# Not needed is a not a problem, no need to warn
 			warning "Scraping of " . $personData{$id}{VIDLINK}{URL} .
-					" failed with " . $personData{$id}{SCRAPED}{SCRAPE_STATUS} . NEWLINE;
+				" failed with " . $personData{$id}{SCRAPED}{SCRAPE_STATUS} . NEWLINE;
 		}
 		return False;
 	}
@@ -1244,7 +1335,7 @@ sub scrape_person {
 sub scrape_data {
 	my $id;
 
-	for $id (keys %personData ) {
+	for $id (sort keys %personData ) {
 		scrape_person $id;
 	}
 }
@@ -1260,12 +1351,12 @@ sub hole_stats {
 	$totals{SCHOOL_HOLE}      = 0;
 	$totals{PHOTO_HOLE}       = 0;
 
-	$totals{'Can Scrape Names'} = 0;
+	$totals{'Can Scrape Names'}    = 0;
 	$totals{'Can Scrape Location'} = 0;
-	$totals{'Can Scrape Skills'} = 0;
-	$totals{'Can Scrape Job'} = 0;
-	$totals{'Can Scrape School'} = 0;
-	$totals{'Can Scrape Photo'} = 0;
+	$totals{'Can Scrape Skills'}   = 0;
+	$totals{'Can Scrape Job'}      = 0;
+	$totals{'Can Scrape School'}   = 0;
+	$totals{'Can Scrape Photo'}    = 0;
 
 	my $id;
 
@@ -1275,7 +1366,7 @@ sub hole_stats {
 			$totals{URL_HOLE}++;
 			$canBeScraped = False;
 		} else {
-			if (needs_scraping $id) {
+			if (needs_scraping($id, False)) {
 				$totals{NEEDS_SCRAPING}++;
 			}
 		}
@@ -1320,8 +1411,7 @@ sub hole_stats {
 
 
 sub save_companies {
-	my $comp;
-	for $comp (keys %companiesDB) {
+	foreach my $comp (sort keys %{ $companiesDB{SCRAPED} } ) {
 		my $str = unidecode($comp);
 		if ($str ne '' ) {
 			print SQLF 'insert ignore into company (name) values("' . "$str" . '");'. NEWLINE;
@@ -1330,8 +1420,7 @@ sub save_companies {
 }
 
 sub save_skills {
-	my $sk;
-	for $sk (keys %skillsDB) {
+	foreach my $sk (sort keys %{ $skillsDB{SCRAPED} } ) {
 		my $str = unidecode($sk);
 		if ($str ne '' ) {
 			print SQLF 'insert ignore into skill (name) values("' . "$str" . '");'. NEWLINE;
@@ -1340,8 +1429,7 @@ sub save_skills {
 }
 
 sub save_schools {
-	my $sch;
-	for $sch (keys %schoolsDB) {
+	foreach my $sch (sort keys %{ $schoolsDB{SCRAPED} } ) {
 		my $str = unidecode($sch);
 		if ($str ne '' ) {
 			print SQLF 'insert ignore into school (name) values("' . "$str" . '");' . NEWLINE;
@@ -1350,7 +1438,7 @@ sub save_schools {
 }
 
 sub save_scraped_data {
-	my $sqlFile = 'out.sql';
+	my $sqlFile = $_[0];
 	open(SQLF, '>', $sqlFile)
 		or die "Cannot dump output, trouble opening $sqlFile";
 	binmode(SQLF, ":utf8");
@@ -1360,7 +1448,7 @@ sub save_scraped_data {
 	save_companies;
 
 	my $id;
-	for $id (keys %personData ) {
+	for $id (sort keys %personData ) {
 		if ( is_hole($id, URL) == True ) {
 			next;
 		}
@@ -1370,7 +1458,8 @@ sub save_scraped_data {
 				if ( $name ne '' ) {
 					#print "Going to save the name for $id\n";
 					my $str = unidecode($name);
-					print SQLF "update person set name = $str where id = $id;\n";
+					print SQLF "update person set name = " . '"$str"' . "where id = $id;\n";
+
 				}
 			}
 		#}
@@ -1520,7 +1609,11 @@ sub usage() {
 }
 
 sub my_main {
+	binmode(STDOUT, ":utf8");
+	$Data::Dumper::Sortkeys = True;
+
 	my $argc = @ARGV;
+	my $sqlFile = 'out.sql';
 	#print "ARGV: @ARGV\n";
 	while ($argc > 0) {
 		if ($ARGV[0] eq '-start') {
@@ -1533,11 +1626,16 @@ sub my_main {
 		} elsif ($ARGV[0] eq '-limit') {
 			shift @ARGV; $argc--;
 			my $limit = $ARGV[0];
-			if (lc($limit) == 'no') {
+			if (lc($limit) eq 'none') {
 				$limitRecords = '';
 			} else {
 				$limitRecords = " limit " . $limit;
 			}
+		} elsif ($ARGV[0] eq '-outsql') {
+			shift @ARGV; $argc--;
+			$sqlFile = $ARGV[0];
+		} elsif ($ARGV[0] eq '-force') {
+			$force = True;
 		} elsif ($ARGV[0] eq '-help') {
 			usage();
 		} else {
@@ -1546,55 +1644,56 @@ sub my_main {
 		shift @ARGV; $argc--;
 	}
 
-	binmode(STDOUT, ":utf8");
-	$Data::Dumper::Sortkeys = True;
+	loadProxies get_proxies_file();
 
-	loadProxies 'proxies.tsv';
+	connect_to_vidlink();
 
-	connect_to_vidlink;
+	get_vidlink_companies();
+	get_vidlink_schools();
+	get_vidlink_skills();
 
-	get_person_stmt;
-	read_person_data;
+	get_person_stmt();
+	read_person_data();
 	$getDataStmt->finish();
 	#print "Got $numRecords (person) records\n";
 
-	get_location_stmt;
-	read_location_data;
+	get_location_stmt();
+	read_location_data();
 	$getDataStmt->finish();
 	#print "Got $numRecords (location) records\n";
 
-	get_skills_stmt;
-	read_skills_data;
+	get_skills_stmt();
+	read_skills_data();
 	$getDataStmt->finish();
 	#print "Got $numRecords (skills) records\n";
 
-	get_job_stmt;
-	read_job_data;
+	get_job_stmt();
+	read_job_data();
 	$getDataStmt->finish();
 	#print "Got $numRecords (job) records\n";
 
-	get_school_stmt;
-	read_school_data;
+	get_school_stmt();
+	read_school_data();
 	$getDataStmt->finish();
 	#print "Got $numRecords (school) records\n";
 
-	get_photo_stmt;
-	read_photo_data;
+	get_photo_stmt();
+	read_photo_data();
 	$getDataStmt->finish();
 	#print "Got $numRecords (photo) records\n";
 
-	scrape_data;
+	scrape_data();
 
 	$dbh->disconnect();
 
-	save_scraped_data;
+	save_scraped_data($sqlFile);
 
-	hole_stats;
+	hole_stats();
 	print "Number of Records: $numRecords\n";
 	#print "idList: @idList\n";
 	#print "personData: " . Dumper(\%personData);
 	print "Totals: " . Dumper(\%totals);
 }
 
-my_main;
+my_main();
 

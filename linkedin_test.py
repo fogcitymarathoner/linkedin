@@ -123,7 +123,7 @@ for link in doc.find_all('a'):
     href = link.get('href')
     try:
         payload = {'url': href}
-        r = requests.get('http://69.181.224.185:8080', params=payload, headers = user_agent)
+        r = requests.get('http://69.181.224.185:8081', params=payload, headers = user_agent)
 
         d = bs(r.text)
         BeautifulSoupFunction(r.text, href, config, logger)
