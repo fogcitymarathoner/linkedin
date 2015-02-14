@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# perl server.pl -start 100 -end 110 -outsql 100-110.sql
+
 use warnings;
 use strict;
 
@@ -75,7 +75,7 @@ use constant { XPATH_FULL_NAME => '//span[@class="full-name"]',
 
 require 'config.pl';
 
-#use RV::Utils qw(trim);
+use RV::Utils qw(trim);
 
 #my $limitRecords = " limit 10";
 my $limitRecords = "";
@@ -124,7 +124,6 @@ my $onlyUS = False;
 my $skipNonAsciiURLs = False;
 my $skipNonAsciiLocations = False;
 my $force = False; # if True, force output even when no 'hole' in record.
-my $debug = False; # For now, print select SQL stmts for Marc Condon.
 
 
 # Utility Functions
@@ -132,10 +131,10 @@ sub warning {
 	print "Warning: $_[0]\n";
 }
 
-sub trim {
-	(my $s = $_[0]) =~ s/^\s+|\s+$//g;
-	return $s;
-}
+#sub trim {
+	#(my $s = $_[0]) =~ s/^\s+|\s+$//g;
+	#return $s;
+#}
 
 sub fix_str {
 	# Function to remove all kinds of prefixes and suffixes to city names
@@ -918,20 +917,12 @@ sub connect_to_vidlink {
 	my %attr;
 	$attr{mysql_socket} = get_mysql_socket();
 	my $dbname = "DBI:mysql:" . get_mysql_db();
-	#$dbh=DBI->connect(
-	#	$dbname,
-	#	get_mysql_login(),
-	#	get_mysql_password(),
-	#	\%attr
-	#) || die DBI->errstr;
-
-
-    #DATA SOURCE NAME
-    #my $dsn = "DBI:mysql:$dbname";
-    #print $dsn;
-
-    # PERL DBI CONNECT
-    $dbh = $dbh=DBI->connect($dbname, get_mysql_login(), get_mysql_password())|| die DBI->errstr;
+	$dbh=DBI->connect(
+		$dbname,
+		get_mysql_login(),
+		get_mysql_password(),
+		\%attr
+	) || die DBI->errstr;
 }
 
 sub print_row {
@@ -1090,9 +1081,7 @@ sub get_person_stmt {
 				$testCond
 				$limitRecords;
 END_QUERY
-	if ($debug == True) {
-		print $query . NEWLINE;
-	}
+	#print $query . NEWLINE;
 	if ( $idCond ne ' where ' ) {
 		$idCond = $idCond . " and ";
 	}
@@ -1141,9 +1130,7 @@ sub get_location_stmt {
 					$idStr
 				$limitRecords;
 END_QUERY
-	if ($debug == True) {
-		print $query . NEWLINE;
-	}
+	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
 	$getDataStmt->execute();
 }
@@ -1181,9 +1168,7 @@ sub get_skills_stmt {
 				group by p.id
 				$limitRecords;
 END_QUERY
-	if ($debug == True) {
-		print $query . NEWLINE;
-	}
+	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
 	$getDataStmt->execute();
 }
@@ -1219,9 +1204,7 @@ sub get_job_stmt {
 				group by p.id
 				$limitRecords;
 END_QUERY
-	if ($debug == True) {
-		print $query . NEWLINE;
-	}
+	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
 	$getDataStmt->execute();
 }
@@ -1257,9 +1240,7 @@ sub get_school_stmt {
 				group by p.id
 				$limitRecords;
 END_QUERY
-	if ($debug == True) {
-		print $query . NEWLINE;
-	}
+	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
 	$getDataStmt->execute();
 }
@@ -1293,9 +1274,7 @@ sub get_photo_stmt {
 				group by p.id
 				$limitRecords;
 END_QUERY
-	if ($debug == True) {
-		print $query . NEWLINE;
-	}
+	#print $query . NEWLINE;
 	$getDataStmt = $dbh->prepare($query);
 	$getDataStmt->execute();
 }
@@ -1657,8 +1636,6 @@ sub my_main {
 			$sqlFile = $ARGV[0];
 		} elsif ($ARGV[0] eq '-force') {
 			$force = True;
-		} elsif ($ARGV[0] eq '-debug') {
-			$debug = True;
 		} elsif ($ARGV[0] eq '-help') {
 			usage();
 		} else {
