@@ -124,7 +124,7 @@ for link in doc.find_all('a'):
     try:
         payload = {'url': href}
         r = requests.get('http://69.181.224.185:8081', params=payload, headers = user_agent)
-
+		# use squid server at 69.181.224.185:3128
         d = bs(r.text)
         BeautifulSoupFunction(r.text, href, config, logger)
         link_list.append(href)
