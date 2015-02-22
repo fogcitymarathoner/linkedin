@@ -1,0 +1,2326 @@
+1	Alabama	United States
+2	Alaska	United States
+3	Arizona	United States
+4	Arkansas	United States
+5	California	United States
+6	Colorado	United States
+7	Connecticut	United States
+8	Delaware	United States
+9	Florida	United States
+10	Georgia	United States
+11	Hawaii	United States
+12	Idaho	United States
+13	Illinois	United States
+14	Indiana	United States
+15	Iowa	United States
+16	Kansas	United States
+17	Kentucky	United States
+18	Louisiana	United States
+19	Maine	United States
+20	Maryland	United States
+21	Massachusetts	United States
+22	Michigan	United States
+23	Minnesota	United States
+24	Mississippi	United States
+25	Missouri	United States
+26	Montana	United States
+27	Nebraska	United States
+28	Nevada	United States
+29	New Hampshire	United States
+30	New Jersey	United States
+31	New Mexico	United States
+32	New York	United States
+33	North Carolina	United States
+34	North Dakota	United States
+35	Ohio	United States
+36	Oklahoma	United States
+37	Oregon	United States
+38	Pennsylvania	United States
+39	Rhode Island	United States
+40	South Carolina	United States
+41	South Dakota	United States
+42	Tennessee	United States
+43	Texas	United States
+44	Utah	United States
+45	Vermont	United States
+46	Virginia	United States
+47	Washington	United States
+48	West Virginia	United States
+49	Wisconsin	United States
+50	Wyoming	United States
+51	District of Columbia	United States
+52	American Samoa	United States
+53	Guam	United States
+54	Northern Mariana Islands	United States
+55	Puerto Rico	United States
+56	U.S.Virgin Islands	United States
+57	Afghanistan	Afghanistan
+58	Albania	Albania
+59	Algeria	Algeria
+60	American Samoa	American Samoa
+61	Andorra	Andorra
+62	Angola	Angola
+63	Anguilla	Anguilla
+64	Antarctica	Antarctica
+65	Antigua and Barbuda	Antigua and Barbuda
+66	Argentina	Argentina
+67	Armenia	Armenia
+68	Aruba	Aruba
+69	Australia	Australia
+70	Austria	Austria
+71	Azerbaijan	Azerbaijan
+72	Bahamas	Bahamas
+73	Bahrain	Bahrain
+74	Bangladesh	Bangladesh
+75	Barbados	Barbados
+76	Belarus	Belarus
+77	Belgium	Belgium
+78	Belize	Belize
+79	Benin	Benin
+80	Bermuda	Bermuda
+81	Bhutan	Bhutan
+82	Bolivia	Bolivia
+83	Bosnia and Herzegovina	Bosnia and Herzegovina
+84	Botswana	Botswana
+85	Brazil	Brazil
+86	Brunei Darussalam	Brunei Darussalam
+87	Bulgaria	Bulgaria
+88	Burkina Faso	Burkina Faso
+89	Burundi	Burundi
+90	Cambodia	Cambodia
+91	Cameroon	Cameroon
+92	Canada	Canada
+93	Cape Verde	Cape Verde
+94	Cayman Islands	Cayman Islands
+95	Central African Republic	Central African Republic
+96	Chad	Chad
+97	Chile	Chile
+98	China	China
+99	Christmas Island	Christmas Island
+100	Cocos 	Cocos 
+101	Colombia	Colombia
+102	Comoros	Comoros
+103	Congo	Congo
+104	Cook Islands	Cook Islands
+105	Costa Rica	Costa Rica
+106	Croatia	Croatia
+107	Cuba	Cuba
+108	Cyprus	Cyprus
+109	Czech Republic	Czech Republic
+110	Democratic Republic of the Congo 	Democratic Republic of the Congo 
+111	Denmark	Denmark
+112	Djibouti	Djibouti
+113	Dominica	Dominica
+114	Dominican Republic	Dominican Republic
+115	East Timor 	East Timor 
+116	Ecuador	Ecuador
+117	Egypt	Egypt
+118	El Salvador	El Salvador
+119	Equatorial Guinea	Equatorial Guinea
+120	Eritrea	Eritrea
+121	Estonia	Estonia
+122	Ethiopia	Ethiopia
+123	Falkland Islands	Falkland Islands
+124	Faroe Islands	Faroe Islands
+125	Fiji	Fiji
+126	Finland	Finland
+127	France	France
+128	French Guiana	French Guiana
+129	French Polynesia	French Polynesia
+130	French Southern Territories	French Southern Territories
+131	Gabon	Gabon
+132	Gambia	Gambia
+133	Georgia	Georgia
+134	Germany	Germany
+135	Ghana	Ghana
+136	Gibraltar	Gibraltar
+137	Great Britain	Great Britain
+138	Greece	Greece
+139	Greenland	Greenland
+140	Grenada	Grenada
+141	Guadeloupe	Guadeloupe
+142	Guam	Guam
+143	Guatemala	Guatemala
+144	Guinea	Guinea
+145	Guinea-Bissau	Guinea-Bissau
+146	Guyana	Guyana
+147	Haiti	Haiti
+148	Holy See	Holy See
+149	Honduras	Honduras
+150	Hong Kong	Hong Kong
+151	Hungary	Hungary
+152	Iceland	Iceland
+153	India	India
+154	Indonesia	Indonesia
+155	Iran 	Iran 
+156	Iraq	Iraq
+157	Ireland	Ireland
+158	Israel	Israel
+159	Italy	Italy
+160	Ivory Coast	Ivory Coast
+161	Jamaica	Jamaica
+162	Japan	Japan
+163	Jordan	Jordan
+164	Kazakhstan	Kazakhstan
+165	Kenya	Kenya
+166	Kiribati	Kiribati
+167	Kuwait	Kuwait
+168	Kyrgyzstan	Kyrgyzstan
+169	Lao	Lao
+170	Latvia	Latvia
+171	Lebanon	Lebanon
+172	Lesotho	Lesotho
+173	Liberia	Liberia
+174	Libya	Libya
+175	Liechtenstein	Liechtenstein
+176	Lithuania	Lithuania
+177	Luxembourg	Luxembourg
+178	Macau	Macau
+179	Macedonia	Macedonia
+180	Madagascar	Madagascar
+181	Malawi	Malawi
+182	Malaysia	Malaysia
+183	Maldives	Maldives
+184	Mali	Mali
+185	Malta	Malta
+186	Marshall Islands	Marshall Islands
+187	Martinique	Martinique
+188	Mauritania	Mauritania
+189	Mauritius	Mauritius
+190	Mayotte	Mayotte
+191	Mexico	Mexico
+192	Micronesia	Micronesia
+193	Moldova	Moldova
+194	Monaco	Monaco
+195	Mongolia	Mongolia
+196	Montenegro	Montenegro
+197	Montserrat	Montserrat
+198	Morocco	Morocco
+199	Mozambique	Mozambique
+200	Myanmar	Myanmar
+201	Namibia	Namibia
+202	Nauru	Nauru
+203	Nepal	Nepal
+204	Netherlands	Netherlands
+205	Netherlands Antilles	Netherlands Antilles
+206	New Caledonia	New Caledonia
+207	New Zealand	New Zealand
+208	Nicaragua	Nicaragua
+209	Niger	Niger
+210	Nigeria	Nigeria
+211	Niue	Niue
+212	Northern Mariana Islands	Northern Mariana Islands
+213	Norway	Norway
+214	Oman	Oman
+215	Pakistan	Pakistan
+216	Palau	Palau
+217	Palestinian territories	Palestinian territories
+218	Panama	Panama
+219	Papua New Guinea	Papua New Guinea
+220	Paraguay	Paraguay
+221	Peru	Peru
+222	Philippines	Philippines
+223	Pitcairn Island	Pitcairn Island
+224	Poland	Poland
+225	Portugal	Portugal
+226	Puerto Rico	Puerto Rico
+227	Qatar	Qatar
+228	Reunion Island	Reunion Island
+229	Romania	Romania
+230	Russian Federation	Russian Federation
+231	Rwanda	Rwanda
+232	Saint Kitts and Nevis	Saint Kitts and Nevis
+233	Saint Lucia	Saint Lucia
+234	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+235	Samoa	Samoa
+236	San Marino	San Marino
+237	Sao Tome and Principe	Sao Tome and Principe
+238	Saudi Arabia	Saudi Arabia
+239	Senegal	Senegal
+240	Serbia	Serbia
+241	Seychelles	Seychelles
+242	Sierra Leone	Sierra Leone
+243	Singapore	Singapore
+244	Slovakia 	Slovakia 
+245	Slovenia	Slovenia
+246	Solomon Islands	Solomon Islands
+247	Somalia	Somalia
+248	South Africa	South Africa
+249	South Korea	South Korea
+250	South Sudan	South Sudan
+251	Spain	Spain
+252	Sri Lanka	Sri Lanka
+253	Sudan	Sudan
+254	Suriname	Suriname
+255	Swaziland	Swaziland
+256	Sweden	Sweden
+257	Switzerland	Switzerland
+258	Syria	Syria
+259	Taiwan 	Taiwan 
+260	Tajikistan	Tajikistan
+261	Tanzania; officially the United Republic of Tanzania	Tanzania; officially the United Republic of Tanzania
+262	Thailand	Thailand
+263	Tibet	Tibet
+264	Timor-Leste 	Timor-Leste 
+265	Togo	Togo
+266	Tokelau	Tokelau
+267	Tonga	Tonga
+268	Trinidad and Tobago	Trinidad and Tobago
+269	Tunisia	Tunisia
+270	Turkey	Turkey
+271	Turkmenistan	Turkmenistan
+272	Turks and Caicos Islands	Turks and Caicos Islands
+273	Tuvalu	Tuvalu
+274	Uganda	Uganda
+275	Ukraine	Ukraine
+276	United Arab Emirates	United Arab Emirates
+277	United Kingdom	United Kingdom
+278	United States	United States
+279	Uruguay	Uruguay
+280	Uzbekistan	Uzbekistan
+281	Vanuatu	Vanuatu
+282	Vatican City State 	Vatican City State 
+283	Venezuela	Venezuela
+284	Vietnam	Vietnam
+285	Virgin Islands 	Virgin Islands 
+286	Wallis and Futuna Islands	Wallis and Futuna Islands
+287	Western Sahara	Western Sahara
+288	Yemen	Yemen
+289	Zambia	Zambia
+290	Zimbabwe	Zimbabwe
+324	Jiangsu	Jiangsu
+325	Ð Ð¾ÑÑÐ¸Ñ	Ð Ð¾ÑÑÐ¸Ñ
+326	Guangdong	Guangdong
+327	Estados Unidos	Estados Unidos
+328	Washington D.C.	Washington D.C.
+329	South Sulawesi	South Sulawesi
+330	Mexique	Mexique
+331	Andhra Pradesh	Andhra Pradesh
+332	BelgiÃ«	BelgiÃ«
+333	Nederland	Nederland
+334	Hyogo	Hyogo
+335	Tamil Nadu	Tamil Nadu
+336	Haryana	Haryana
+337	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ California Mountain View	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ California Mountain View
+338	TÃ¼rkiye	TÃ¼rkiye
+339	Maharashtra	Maharashtra
+340	æ—¥æœ¬ æ±äº¬éƒ½ 23 åŒºå†…	æ—¥æœ¬ æ±äº¬éƒ½ 23 åŒºå†…
+341	EspaÃ±a	EspaÃ±a
+342	Marruecos	Marruecos
+343	MÃ©xico	MÃ©xico
+344	Italia	Italy
+345	Danmark	Danmark
+346	PerÃº	PerÃº
+347	æ—¥æœ¬	æ—¥æœ¬
+348	BÃ©nin	BÃ©nin
+349	Brasil	Brasil
+350	Ontario	Ontario
+351	Deutschland	Germany
+352	Karnataka	Karnataka
+353	Tokyo	Tokyo
+354	PanamÃ¡	PanamÃ¡
+355	Maroc	Maroc
+356	Beijing	Beijing
+357	Orissa	Orissa
+358	Korea	Korea
+359	RomÃ¢nia	RomÃ¢nia
+360	AlgÃ©rie	AlgÃ©rie
+361	Ð£ÐºÑ€Ð°Ð¸Ð½Ð°	Ð£ÐºÑ€Ð°Ð¸Ð½Ð°
+362	Delhi	Delhi
+363	London	London
+364	Quebec	Quebec
+365	ëŒ€í•œë¯¼êµ­	ëŒ€í•œë¯¼êµ­
+366	Amerika BirleÅŸik Devletleri	Amerika BirleÅŸik Devletleri
+367	Belgique	Belgique
+368	Shandong	Shandong
+369	Jilin	Jilin
+370	Seoul	Seoul
+371	Uttarakhand	Uttarakhand
+372	Madhya Pradesh	Madhya Pradesh
+373	Other	Other
+374	Dallas/Fort Worth	Dallas/Fort Worth
+375	Yunnan	Yunnan
+376	Suisse	Suisse
+377	Uttar Pradesh	Uttar Pradesh
+378	Chattisgarh	Chattisgarh
+379	Gujarat	Gujarat
+380	Sikkim	Sikkim
+381	Tanzania	Tanzania
+382	British Columbia	British Columbia
+383	SÃ£o Paulo	SÃ£o Paulo
+384	Zhejiang	Zhejiang
+385	é™•è¥¿ è¥¿å®‰	é™•è¥¿ è¥¿å®‰
+386	Minneapolis-St. Paul	Minneapolis-St. Paul
+387	USA	United States
+388	Manchester	Manchester
+389	Punjab	Punjab
+390	Aland Islands	Aland Islands
+391	Alberta	Alberta
+392	Schweiz	Switzerland
+393	RepÃºblica Dominicana	RepÃºblica Dominicana
+394	ê·¸ë¦¬ìŠ¤	ê·¸ë¦¬ìŠ¤
+395	Rajasthan	Rajasthan
+396	Kyoto	Kyoto
+397	Gyeonggi-do	Gyeonggi-do
+398	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê´€ì•…êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê´€ì•…êµ¬
+399	City of Edinburgh	City of Edinburgh
+400	West Bengal	West Bengal
+401	Islande	Islande
+402	ì´ë¼í¬	ì´ë¼í¬
+403	RÃ©union	RÃ©union
+404	Australie	Australie
+405	CanadÃ¡	CanadÃ¡
+406	FederaciÃ³n Rusa	FederaciÃ³n Rusa
+407	West Midlands	West Midlands
+408	South Yorkshire	South Yorkshire
+409	YÃ©men	YÃ©men
+410	ãƒ‰ã‚¤ãƒ„	ãƒ‰ã‚¤ãƒ„
+411	ã‚¹ã‚¤ã‚¹	ã‚¹ã‚¤ã‚¹
+412	Verenigde Staten	Verenigde Staten
+413	Amazonas	Amazonas
+414	Anhui	Anhui
+415	East Java	East Java
+416	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ì•ˆì–‘	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ì•ˆì–‘
+417	æ—¥æœ¬ æ±äº¬éƒ½	æ—¥æœ¬ æ±äº¬éƒ½
+418	ä¸­å›½	ä¸­å›½
+419	ã‚¿ã‚¤	ã‚¿ã‚¤
+420	New Brunswick	New Brunswick
+421	Shanghai	Shanghai
+422	Shaanxi	Shaanxi
+423	Fujian	Fujian
+424	Alemania	Alemania
+425	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì„œì´ˆêµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì„œì´ˆêµ¬
+426	Hawaiian Islands	Hawaiian Islands
+427	St. Louis	St. Louis
+428	Macao	Macao
+429	Jiangxi	Jiangxi
+430	é¦™æ¸¯	é¦™æ¸¯
+431	Kerala	Kerala
+432	æ—¥æœ¬ å¤§é˜ªåºœ å¤§é˜ªå¸‚	æ—¥æœ¬ å¤§é˜ªåºœ å¤§é˜ªå¸‚
+433	ëŒ€í•œë¯¼êµ­ ìš¸ì‚° ë‚¨êµ¬	ëŒ€í•œë¯¼êµ­ ìš¸ì‚° ë‚¨êµ¬
+434	Slovak Republic	Slovak Republic
+435	RÃ©publique DÃ©mocratique du Congo	RÃ©publique DÃ©mocratique du Congo
+436	Sverige	Sverige
+437	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½
+438	Sichuan	Sichuan
+439	ã‚¯ãƒ­ã‚¢ãƒã‚¢	ã‚¯ãƒ­ã‚¢ãƒã‚¢
+440	ãƒ‰ã‚¤ãƒ„ ã‚·ãƒ¥ãƒˆã‚¥ãƒƒãƒˆã‚¬ãƒ«ãƒˆ ã‚¨ãƒªã‚¢	ãƒ‰ã‚¤ãƒ„ ã‚·ãƒ¥ãƒˆã‚¥ãƒƒãƒˆã‚¬ãƒ«ãƒˆ ã‚¨ãƒªã‚¢
+441	ãƒžãƒ¬ãƒ¼ã‚·ã‚¢	ãƒžãƒ¬ãƒ¼ã‚·ã‚¢
+442	Kanagawa	Kanagawa
+443	æ—¥æœ¬ ç¥žå¥ˆå·çœŒ	æ—¥æœ¬ ç¥žå¥ˆå·çœŒ
+444	ParanÃ¡	ParanÃ¡
+445	Heilongjiang	Heilongjiang
+446	æ—¥æœ¬ å…µåº«çœŒ	æ—¥æœ¬ å…µåº«çœŒ
+447	ëŒ€í•œë¯¼êµ­ ì „ë¼ë‚¨ë„ ì—¬ìˆ˜	ëŒ€í•œë¯¼êµ­ ì „ë¼ë‚¨ë„ ì—¬ìˆ˜
+448	Bristol	Bristol
+449	ã‚¤ã‚®ãƒªã‚¹	ã‚¤ã‚®ãƒªã‚¹
+450	ë² íŠ¸ë‚¨	ë² íŠ¸ë‚¨
+451	Northumberland	Northumberland
+452	Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ	Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÑŒ
+453	Rio Grande do Sul	Rio Grande do Sul
+454	Belgien	Belgien
+455	Manitoba	Manitoba
+456	GroÃŸbritannien	GroÃŸbritannien
+457	Tunisie	Tunisie
+458	Storbritannien	Storbritannien
+459	Ð˜Ð·Ñ€Ð°Ð¸Ð»ÑŒ	Ð˜Ð·Ñ€Ð°Ð¸Ð»ÑŒ
+460	Rio de Janeiro	Rio de Janeiro
+461	Indie	Indie
+462	Nova Scotia	Nova Scotia
+463	æ—¥æœ¬ ç¥žå¥ˆå·çœŒ å·å´Žå¸‚	æ—¥æœ¬ ç¥žå¥ˆå·çœŒ å·å´Žå¸‚
+464	Shizuoka	Shizuoka
+465	Goa	Goa
+466	Palestinian Territory	Palestinian Territory
+467	Verenigd Koninkrijk	Verenigd Koninkrijk
+468	æ—¥æœ¬ åƒè‘‰çœŒ	æ—¥æœ¬ åƒè‘‰çœŒ
+469	Ð‘Ð°Ð½Ð³Ð»Ð°Ð´ÐµÑˆ	Ð‘Ð°Ð½Ð³Ð»Ð°Ð´ÐµÑˆ
+470	Ã‰tats-Unis	Ã‰tats-Unis
+471	Guangxi	Guangxi
+472	Jharkhand	Jharkhand
+473	Surrey	Surrey
+474	Liaoning	Liaoning
+475	Assam	Assam
+476	Swindon	Swindon
+477	Southampton	Southampton
+478	Bali	Bali
+479	Chungcheongnam-do	Chungcheongnam-do
+480	Ã‰gypte	Ã‰gypte
+481	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë‚¨ë„ ë‹¹ì§„êµ°	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë‚¨ë„ ë‹¹ì§„êµ°
+482	ë¼ì˜¤ìŠ¤	ë¼ì˜¤ìŠ¤
+483	Russische Federatie	Russische Federatie
+484	Marokko	Marokko
+485	Manipur	Manipur
+486	ã‚¬ãƒ¼ãƒŠ	ã‚¬ãƒ¼ãƒŠ
+487	Merseyside	Merseyside
+488	Saskatchewan	Saskatchewan
+489	ãƒ•ãƒ©ãƒ³ã‚¹	ãƒ•ãƒ©ãƒ³ã‚¹
+490	æ—¥æœ¬ æ–°æ½ŸçœŒ	æ—¥æœ¬ æ–°æ½ŸçœŒ
+491	æ—¥æœ¬ åŸ¼çŽ‰çœŒ	æ—¥æœ¬ åŸ¼çŽ‰çœŒ
+492	ã‚·ãƒ³ã‚¬ãƒãƒ¼ãƒ«	ã‚·ãƒ³ã‚¬ãƒãƒ¼ãƒ«
+493	æ—¥æœ¬ ç¥žå¥ˆå·çœŒ æ¨ªæµœå¸‚	æ—¥æœ¬ ç¥žå¥ˆå·çœŒ æ¨ªæµœå¸‚
+494	Henan	Henan
+495	West Java	West Java
+496	æ—¥æœ¬ äº¬éƒ½åºœ äº¬éƒ½å¸‚	æ—¥æœ¬ äº¬éƒ½åºœ äº¬éƒ½å¸‚
+497	TÃ¼rkei	TÃ¼rkei
+498	Masovian District	Masovian District
+499	US Military Posts in Europe	US Military Posts in Europe
+500	Jawa Barat	Jawa Barat
+501	Egipto	Egipto
+502	ãƒ‹ãƒ¥ãƒ¼ã‚¸ãƒ¼ãƒ©ãƒ³ãƒ‰	ãƒ‹ãƒ¥ãƒ¼ã‚¸ãƒ¼ãƒ©ãƒ³ãƒ‰
+503	æ—¥æœ¬ å®®åŸŽçœŒ	æ—¥æœ¬ å®®åŸŽçœŒ
+504	Mauritanie	Mauritanie
+505	æ—¥æœ¬ å±±å£çœŒ	æ—¥æœ¬ å±±å£çœŒ
+506	PolynÃ©sie franÃ§aise	PolynÃ©sie franÃ§aise
+507	Tianjin	Tianjin
+508	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ìˆ˜ì›	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ìˆ˜ì›
+509	Bihar	Bihar
+510	pow. Å¼yrardowski	pow. Å¼yrardowski
+511	Aceh	Aceh
+512	Guizhou	Guizhou
+513	Hubei	Hubei
+514	Hunan	Hunan
+515	æ—¥æœ¬ å¤§åˆ†çœŒ	æ—¥æœ¬ å¤§åˆ†çœŒ
+516	ëŒ€í•œë¯¼êµ­ ëŒ€êµ¬ ë‚¨êµ¬	ëŒ€í•œë¯¼êµ­ ëŒ€êµ¬ ë‚¨êµ¬
+517	ëŒ€í•œë¯¼êµ­ ë¶€ì‚° ì—°ì œêµ¬	ëŒ€í•œë¯¼êµ­ ë¶€ì‚° ì—°ì œêµ¬
+518	PaÃ­ses Bajos	PaÃ­ses Bajos
+519	CearÃ¡	CearÃ¡
+520	Frankrijk	Frankrijk
+521	Santa Catarina	Santa Catarina
+522	ì¤‘êµ­	ì¤‘êµ­
+523	æµ™æ±Ÿ æ­å·ž	æµ™æ±Ÿ æ­å·ž
+524	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì€í‰êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì€í‰êµ¬
+525	HaÃ¯ti	HaÃ¯ti
+526	Papua Barat	Papua Barat
+527	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì¤‘êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì¤‘êµ¬
+528	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì˜ë“±í¬êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì˜ë“±í¬êµ¬
+529	Meghalaya	Meghalaya
+530	Ä°ran	Ä°ran
+531	Avusturya	Avusturya
+532	Ð¡Ð¨Ð	Ð¡Ð¨Ð
+533	Hebei	Hebei
+534	Xinjiang	Xinjiang
+535	æ—¥æœ¬ æ²–ç¸„çœŒ	æ—¥æœ¬ æ²–ç¸„çœŒ
+536	West Yorkshire	West Yorkshire
+537	Pernambuco	Pernambuco
+538	Cambodge	Cambodge
+539	Royaume-Uni	Royaume-Uni
+540	South Sumatera	South Sumatera
+541	æ—¥æœ¬ æ„›åª›çœŒ	æ—¥æœ¬ æ„›åª›çœŒ
+542	æ—¥æœ¬ æ„›çŸ¥çœŒ	æ—¥æœ¬ æ„›çŸ¥çœŒ
+543	Yogyakarta	Yogyakarta
+544	Ð“ÐµÑ€Ð¼Ð°Ð½Ð¸Ñ	Ð“ÐµÑ€Ð¼Ð°Ð½Ð¸Ñ
+545	ëª¨ë¡œì½”	ëª¨ë¡œì½”
+546	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê¸ˆì²œêµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê¸ˆì²œêµ¬
+547	Afrique du Sud	Afrique du Sud
+548	Dinamarca	Dinamarca
+549	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ê³ ì–‘	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ê³ ì–‘
+550	ëŒ€í•œë¯¼êµ­ ëŒ€ì „ ì¤‘êµ¬	ëŒ€í•œë¯¼êµ­ ëŒ€ì „ ì¤‘êµ¬
+551	ëŒ€í•œë¯¼êµ­ ì¸ì²œ ì„œêµ¬	ëŒ€í•œë¯¼êµ­ ì¸ì²œ ì„œêµ¬
+552	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë¶ë„ ìŒì„±êµ°	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë¶ë„ ìŒì„±êµ°
+553	Francia	Francia
+554	Arunachal Pradesh	Arunachal Pradesh
+555	Antarktika	Antarktika
+556	Irak	Irak
+557	Daejeon	Daejeon
+558	Svizzera	Svizzera
+559	Jawa Tengah	Jawa Tengah
+560	ë¯¸êµ­	ë¯¸êµ­
+561	Pondicherry	Pondicherry
+562	Incheon	Incheon
+563	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ìš©ì‚°êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ìš©ì‚°êµ¬
+564	Ä°ngiltere	Ä°ngiltere
+565	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë¶ë„ ì²­ì£¼	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë¶ë„ ì²­ì£¼
+566	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ì„±ë‚¨	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ì„±ë‚¨
+567	South Kalimantan	South Kalimantan
+568	San Francisco Bay	San Francisco Bay
+569	ëŒ€í•œë¯¼êµ­ ì¸ì²œ ë‚¨êµ¬	ëŒ€í•œë¯¼êµ­ ì¸ì²œ ë‚¨êµ¬
+570	ëŒ€í•œë¯¼êµ­ ë¶€ì‚° ê°•ì„œêµ¬	ëŒ€í•œë¯¼êµ­ ë¶€ì‚° ê°•ì„œêµ¬
+571	ì¤‘êµ­ í—ˆë² ì´ ì¹œí™©ë‹¤ì˜¤	ì¤‘êµ­ í—ˆë² ì´ ì¹œí™©ë‹¤ì˜¤
+572	ì¤‘êµ­ ê´‘ë‘¥ í¬ì‚°	ì¤‘êµ­ ê´‘ë‘¥ í¬ì‚°
+573	ë°”ë ˆì¸	ë°”ë ˆì¸
+574	Norge	Norge
+575	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ í‰íƒ	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ í‰íƒ
+576	ì‚¬ìš°ë””ì•„ë¼ë¹„ì•„	ì‚¬ìš°ë””ì•„ë¼ë¹„ì•„
+577	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ë™ëŒ€ë¬¸êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ë™ëŒ€ë¬¸êµ¬
+578	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë¶ë„ ì²­ì›êµ°	ëŒ€í•œë¯¼êµ­ ì¶©ì²­ë¶ë„ ì²­ì›êµ°
+579	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ë¶€ì²œ	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ë¶€ì²œ
+580	Ã–sterreich	Ã–sterreich
+581	Daegu	Daegu
+582	TÃ¼rkmenistan	TÃ¼rkmenistan
+583	ParÃ¡	ParÃ¡
+584	Comores	Comores
+585	Buckinghamshire	Buckinghamshire
+586	Otro	Otro
+587	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê°•ì„œêµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê°•ì„œêµ¬
+588	ì•„ëž ì—ë¯¸ë¦¬íŠ¸ ì—°ë°©	ì•„ëž ì—ë¯¸ë¦¬íŠ¸ ì—°ë°©
+589	ì•Œì œë¦¬	ì•Œì œë¦¬
+590	North Sumatera	North Sumatera
+591	Gyeongsangnam-do	Gyeongsangnam-do
+592	ä¸­å›½é¦™æ¸¯	ä¸­å›½é¦™æ¸¯
+593	South East Sulawesi	South East Sulawesi
+594	Minas Gerais	Minas Gerais
+595	ÄŒeskÃ¡ republika	ÄŒeskÃ¡ republika
+596	Distrito Federal	Distrito Federal
+597	æ—¥æœ¬ å¤§é˜ªåºœ	æ—¥æœ¬ å¤§é˜ªåºœ
+598	Autres	Autres
+599	à¸›à¸£à¸°à¹€à¸—à¸¨à¹„à¸—à¸¢	à¸›à¸£à¸°à¹€à¸—à¸¨à¹„à¸—à¸¢
+600	Italie	Italie
+601	Nottinghamshire	Nottinghamshire
+602	å°æ¹¾	å°æ¹¾
+603	SÃ©nÃ©gal	SÃ©nÃ©gal
+604	OmÃ¡n	OmÃ¡n
+605	TaÃ¯wan	TaÃ¯wan
+606	Leicestershire	Leicestershire
+607	Ð“Ñ€ÑƒÐ·Ð¸Ñ	Ð“Ñ€ÑƒÐ·Ð¸Ñ
+608	Jawa Timur	Jawa Timur
+609	Jersey	Jersey
+610	ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½	ÐšÐ°Ð·Ð°Ñ…ÑÑ‚Ð°Ð½
+611	Ð‘ÑƒÑ€ÐºÐ¸Ð½Ð°-Ð¤Ð°ÑÐ¾	Ð‘ÑƒÑ€ÐºÐ¸Ð½Ð°-Ð¤Ð°ÑÐ¾
+612	Cina	Cina
+613	Niederlande	Niederlande
+614	Finlande	Finlande
+615	Ð§Ð°Ð´	Ð§Ð°Ð´
+616	Shanxi	Shanxi
+617	CorÃ©e du Sud	CorÃ©e du Sud
+618	LÃ­bano	LÃ­bano
+619	æ—¥æœ¬ ç§‹ç”°çœŒ	æ—¥æœ¬ ç§‹ç”°çœŒ
+620	Amerika Serikat	Amerika Serikat
+621	ÐÐ¸Ð´ÐµÑ€Ð»Ð°Ð½Ð´Ñ‹	ÐÐ¸Ð´ÐµÑ€Ð»Ð°Ð½Ð´Ñ‹
+622	ÐÐ²ÑÑ‚Ñ€Ð°Ð»Ð¸Ñ	ÐÐ²ÑÑ‚Ñ€Ð°Ð»Ð¸Ñ
+623	Bahia	Bahia
+624	Japon	Japon
+625	Lakshadweep	Lakshadweep
+626	Outro	Outro
+627	Laos	Laos
+628	Berkshire	Berkshire
+629	Allemagne	Allemagne
+630	Glasgow City	Glasgow City
+631	Chongqing	Chongqing
+632	Stirling	Stirling
+633	ÃŽles Vierges	ÃŽles Vierges
+634	Argentine	Argentine
+635	Cameroun	Cameroun
+636	Wanganui & Manawatu	Wanganui & Manawatu
+637	Ã‰mirats arabes unis	Ã‰mirats arabes unis
+638	BÃ©lgica	BÃ©lgica
+639	Northwest Territories	Northwest Territories
+640	Newfoundland And Labrador	Newfoundland And Labrador
+641	Sulawesi Selatan	Sulawesi Selatan
+642	Riau	Riau
+643	æ—¥æœ¬ é•·é‡ŽçœŒ	æ—¥æœ¬ é•·é‡ŽçœŒ
+644	ã‚¤ã‚®ãƒªã‚¹ West Midlands Solihull	ã‚¤ã‚®ãƒªã‚¹ West Midlands Solihull
+645	Gloucestershire	Gloucestershire
+646	Reino Unido	Reino Unido
+647	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ Hawaii Kaneohe	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ Hawaii Kaneohe
+648	GoiÃ¡s	GoiÃ¡s
+649	Reunion	Reunion
+650	Estado de la Ciudad del Vaticano	Estado de la Ciudad del Vaticano
+651	Bangka-Belitung	Bangka-Belitung
+652	Jambi	Jambi
+653	Lesser Poland District	Lesser Poland District
+654	Tyne and Wear	Tyne and Wear
+655	Tunus	Tunus
+656	Antigua e Barbuda	Antigua e Barbuda
+657	Sergipe	Sergipe
+658	Jammu & Kashmir	Jammu & Kashmir
+659	East Kalimantan	East Kalimantan
+660	Central Java	Central Java
+661	Sumatera Utara	Sumatera Utara
+662	Himachal Pradesh	Himachal Pradesh
+663	Saudi-Arabien	Saudi-Arabien
+664	Sumatera Selatan	Sumatera Selatan
+665	Milton Keynes	Milton Keynes
+666	Hertfordshire	Hertfordshire
+667	SlovÃ©nie	SlovÃ©nie
+668	Ander	Ander
+669	Essex	Essex
+670	Sulawesi Tenggara	Sulawesi Tenggara
+671	MaranhÃ£o	MaranhÃ£o
+672	EspÃ­rito Santo	EspÃ­rito Santo
+673	Rio Grande do Norte	Rio Grande do Norte
+674	Mato Grosso do Sul	Mato Grosso do Sul
+675	Brasilien	Brasilien
+676	Kanada	Kanada
+677	Alemanha	Alemanha
+678	Duitsland	Duitsland
+679	Espanha	Espanha
+680	Northamptonshire	Northamptonshire
+681	West Lothian	West Lothian
+682	MoÃ§ambique	MoÃ§ambique
+683	Stati Uniti	Stati Uniti
+684	GuinÃ©e	GuinÃ©e
+685	Nya Zeeland	Nya Zeeland
+686	ÐšÐ¸Ñ€Ð³Ð¸Ð·Ð¸Ñ	ÐšÐ¸Ñ€Ð³Ð¸Ð·Ð¸Ñ
+687	Hereford and Worcester	Hereford and Worcester
+688	Nederlandse Antillen	Nederlandse Antillen
+689	woj. dolnoÅ›lÄ…skie	woj. dolnoÅ›lÄ…skie
+690	Polska	Polska
+691	Pennsylvanie	Pennsylvanie
+692	DÃ¤nemark	DÃ¤nemark
+693	Spanien	Spanien
+694	Espagne	Espagne
+695	Kalimantan Selatan	Kalimantan Selatan
+696	Kalimantan Barat	Kalimantan Barat
+697	IsraÃ«l	IsraÃ«l
+698	Dadra & Nagar Haveli	Dadra & Nagar Haveli
+699	ItÃ¡lia	ItÃ¡lia
+700	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢å·ž ã‚ªãƒ¬ãƒ³ã‚¸ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ã‚¨ãƒªã‚¢	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ ã‚«ãƒªãƒ•ã‚©ãƒ«ãƒ‹ã‚¢å·ž ã‚ªãƒ¬ãƒ³ã‚¸ã‚«ã‚¦ãƒ³ãƒ†ã‚£ ã‚¨ãƒªã‚¢
+701	Altro	Altro
+702	Spania	Spania
+703	Frankreich	Frankreich
+704	QuÃªnia	QuÃªnia
+705	Cheshire	Cheshire
+706	The Capital	The Capital
+707	Ð“Ñ€ÐµÑ†Ð¸Ñ	Ð“Ñ€ÐµÑ†Ð¸Ñ
+708	CÃ´te d'Ivoire	CÃ´te d'Ivoire
+709	Vereinigte Staaten	Vereinigte Staaten
+710	Somerset	Somerset
+711	Norfolk	Norfolk
+712	Staffordshire	Staffordshire
+713	Dorset	Dorset
+714	Warwickshire	Warwickshire
+715	GroÃŸraum Milwaukee und Umgebung	GroÃŸraum Milwaukee und Umgebung
+716	Mongolei	Mongolei
+717	GrÃ¨ce	GrÃ¨ce
+718	Marlborough & Tasman	Marlborough & Tasman
+719	North Yorkshire	North Yorkshire
+720	Kent	Kent
+721	Alagoas	Alagoas
+722	ä¸Šæµ· é—µè¡ŒåŒº	ä¸Šæµ· é—µè¡ŒåŒº
+723	IndonÃ©sie	IndonÃ©sie
+724	Busan	Busan
+725	Ulsan	Ulsan
+726	íƒœêµ­	íƒœêµ­
+727	South Ayrshire	South Ayrshire
+728	Spagna	Spagna
+729	Angus	Angus
+730	Hampshire	Hampshire
+731	Argyll and Bute	Argyll and Bute
+732	North East Lincolnshire	North East Lincolnshire
+733	Giordania	Giordania
+734	Suffolk	Suffolk
+735	Yunanistan	Yunanistan
+736	Prince Edward Island	Prince Edward Island
+737	Isle of Man	Isle of Man
+738	Turkije	Turkije
+739	Stoke-on-Trent	Stoke-on-Trent
+740	Sandomierz County	Sandomierz County
+741	Merthyr Tydfil	Merthyr Tydfil
+742	Lincolnshire	Lincolnshire
+743	Isle of Anglesey	Isle of Anglesey
+744	ÐœÐ¾Ð»Ð´Ð¾Ð²Ð°	ÐœÐ¾Ð»Ð´Ð¾Ð²Ð°
+745	Stalowa Wola County	Stalowa Wola County
+746	Rumania	Rumania
+747	Highland	Highland
+748	RondÃ´nia	RondÃ´nia
+749	Aberdeenshire	Aberdeenshire
+750	Devon	Devon
+751	Guernsey	Guernsey
+752	E Riding of Yorkshire	E Riding of Yorkshire
+753	Lampung	Lampung
+754	British Indian Ocean Territory	British Indian Ocean Territory
+755	ParaÃ­ba	ParaÃ­ba
+756	Lancashire	Lancashire
+757	US Military Posts in the Pacific	US Military Posts in the Pacific
+758	ÐÐ·ÐµÑ€Ð±Ð°Ð¹Ð´Ð¶Ð°Ð½	ÐÐ·ÐµÑ€Ð±Ð°Ð¹Ð´Ð¶Ð°Ð½
+759	RÃ©publique Centrafricaine	RÃ©publique Centrafricaine
+760	Irlanda	Irlanda
+761	Cote D'Ivoire	Cote D'Ivoire
+762	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ California Moorpark	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ California Moorpark
+763	åŒ—äº¬ æµ·æ·€åŒº	åŒ—äº¬ æµ·æ·€åŒº
+764	TailÃ¢ndia	TailÃ¢ndia
+765	Ð¢ÑƒÑ€Ñ†Ð¸Ñ	Ð¢ÑƒÑ€Ñ†Ð¸Ñ
+766	ÐœÐ¾Ð½Ð³Ð¾Ð»Ð¸Ñ	ÐœÐ¾Ð½Ð³Ð¾Ð»Ð¸Ñ
+767	Syrie	Syrie
+768	Nagaland	Nagaland
+769	Maurice	Maurice
+770	Egitto	Egitto
+771	æ—¥æœ¬ å²é˜œçœŒ	æ—¥æœ¬ å²é˜œçœŒ
+772	Nijerya	Nijerya
+773	Serbia and Montenegro	Serbia and Montenegro
+774	Srem County	Srem County
+775	æ—¥æœ¬ èŒ¨åŸŽçœŒ	æ—¥æœ¬ èŒ¨åŸŽçœŒ
+776	æ—¥æœ¬ æ„›çŸ¥çœŒ åå¤å±‹å¸‚	æ—¥æœ¬ æ„›çŸ¥çœŒ åå¤å±‹å¸‚
+777	æ—¥æœ¬ é«˜çŸ¥çœŒ	æ—¥æœ¬ é«˜çŸ¥çœŒ
+778	Chine	Chine
+779	ã‚«ãƒŠãƒ€	ã‚«ãƒŠãƒ€
+780	Australien	Australien
+781	Bedfordshire	Bedfordshire
+782	ä¸Šæµ· æµ¦ä¸œæ–°åŒº	ä¸Šæµ· æµ¦ä¸œæ–°åŒº
+783	Qinghai	Qinghai
+784	Ð£Ð·Ð±ÐµÐºÐ¸ÑÑ‚Ð°Ð½	Ð£Ð·Ð±ÐµÐºÐ¸ÑÑ‚Ð°Ð½
+785	Ð§ÐµÑˆÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°	Ð§ÐµÑˆÑÐºÐ°Ñ Ð ÐµÑÐ¿ÑƒÐ±Ð»Ð¸ÐºÐ°
+786	æ—¥æœ¬ ç¦å³¶çœŒ	æ—¥æœ¬ ç¦å³¶çœŒ
+787	ã‚ªãƒ¼ã‚¹ãƒˆãƒ©ãƒªã‚¢	ã‚ªãƒ¼ã‚¹ãƒˆãƒ©ãƒªã‚¢
+788	æ—¥æœ¬ åŸ¼çŽ‰çœŒ ã•ã„ãŸã¾å¸‚	æ—¥æœ¬ åŸ¼çŽ‰çœŒ ã•ã„ãŸã¾å¸‚
+789	Caroline du Nord	Caroline du Nord
+790	ã‚ªãƒ©ãƒ³ãƒ€	ã‚ªãƒ©ãƒ³ãƒ€
+791	æ—¥æœ¬ çŸ³å·çœŒ	æ—¥æœ¬ çŸ³å·çœŒ
+792	Kuyavian-Pomeranian District	Kuyavian-Pomeranian District
+793	woj. podkarpackie	woj. podkarpackie
+794	Pomeranian District	Pomeranian District
+795	Belgio	Belgio
+796	Luxemburg	Luxemburg
+797	ãƒ¡ã‚­ã‚·ã‚³ Naucalpan de JuÃ¡rez ã‚¨ãƒªã‚¢	ãƒ¡ã‚­ã‚·ã‚³ Naucalpan de JuÃ¡rez ã‚¨ãƒªã‚¢
+798	æ—¥æœ¬ ç¾¤é¦¬çœŒ	æ—¥æœ¬ ç¾¤é¦¬çœŒ
+799	æ—¥æœ¬ æ»‹è³€çœŒ	æ—¥æœ¬ æ»‹è³€çœŒ
+800	æ—¥æœ¬ åºƒå³¶çœŒ	æ—¥æœ¬ åºƒå³¶çœŒ
+801	æ—¥æœ¬ ä¸‰é‡çœŒ	æ—¥æœ¬ ä¸‰é‡çœŒ
+802	æ—¥æœ¬ é¦™å·çœŒ	æ—¥æœ¬ é¦™å·çœŒ
+803	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ Washington Tacoma	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ Washington Tacoma
+804	Danemark	Danemark
+805	Kroatien	Kroatien
+806	æ—¥æœ¬ å…µåº«çœŒ ç¥žæˆ¸å¸‚	æ—¥æœ¬ å…µåº«çœŒ ç¥žæˆ¸å¸‚
+807	Argelia	Argelia
+808	Arabie Saoudite	Arabie Saoudite
+809	ArgÃ©lia	ArgÃ©lia
+810	Tadjikistan	Tadjikistan
+811	Irlande	Irlande
+812	Estonie	Estonie
+813	Autriche	Autriche
+814	KoweÃ¯t	KoweÃ¯t
+815	Chypre	Chypre
+816	RÃ©publique tchÃ¨que	RÃ©publique tchÃ¨que
+817	Singapour	Singapour
+818	Turquie	Turquie
+819	Ã‰quateur	Ã‰quateur
+820	Slovaquie	Slovaquie
+821	Katar	Katar
+822	Ã‰thiopie	Ã‰thiopie
+823	NorvÃ¨ge	NorvÃ¨ge
+824	BahreÃ¯n	BahreÃ¯n
+825	Libye	Libye
+826	Roumanie	Roumanie
+827	FÃ©dÃ©ration de Russie	FÃ©dÃ©ration de Russie
+828	Tunesien	Tunesien
+829	ÐÐ»Ð¶Ð¸Ñ€	ÐÐ»Ð¶Ð¸Ñ€
+830	Marocco	Marocco
+831	Nouvelle-CalÃ©donie	Nouvelle-CalÃ©donie
+832	Pologne	Pologne
+833	Tchad	Tchad
+834	Brighton and Hove	Brighton and Hove
+835	Banten	Banten
+836	AfganistÃ¡n	AfganistÃ¡n
+837	woj. mazowieckie	woj. mazowieckie
+838	West Nusa Tenggara	West Nusa Tenggara
+839	Kalimantan Timur	Kalimantan Timur
+840	Poznan County	Poznan County
+841	ElfenbeinkÃ¼ste	ElfenbeinkÃ¼ste
+842	Liban	Liban
+843	Inde	Inde
+844	Porto Rico	Porto Rico
+845	West Sumatera	West Sumatera
+846	ã‚¤ãƒ³ãƒ‰ãƒã‚·ã‚¢ ä¸­éƒ¨ã‚¸ãƒ£ãƒ¯å·ž	ã‚¤ãƒ³ãƒ‰ãƒã‚·ã‚¢ ä¸­éƒ¨ã‚¸ãƒ£ãƒ¯å·ž
+847	Lainnya	Lainnya
+848	Sumatera Barat	Sumatera Barat
+849	Suiza	Suiza
+850	Mexiko	Mexiko
+851	Florida Area	Florida Area
+852	Canada Area	Canada Area
+853	Algérie	Algérie
+854	Pennsylvania Area	Pennsylvania Area
+855	Greater Philadelphia	Greater Philadelphia
+856	Greater Chicago	Greater Chicago
+857	Greater London	United Kingdom
+858	Greater Boston	Greater Boston
+859	Greater New York City	Greater New York City
+860	Greater Los Angeles	Greater Los Angeles
+861	España	Spain
+862	Greater Salt Lake City	Greater Salt Lake City
+863	República Dominicana	República Dominicana
+864	대한민국	대한민국
+865	Washington D.C. Metro	Washington D.C. Metro
+866	Greater Atlanta	Greater Atlanta
+867	Greater Seattle	Greater Seattle
+868	Greater Minneapolis-St. Paul	Greater Minneapolis-St. Paul
+869	Denbighshire	United Kingdom
+870	São Paulo	Brasile
+871	Россия	Россия
+872	Казахстан	Казахстан
+873	イギリス チェスター	イギリス チェスター
+874	アメリカ合衆国 ダラス/フォートワース エリア	アメリカ合衆国 ダラス/フォートワース エリア
+875	Greater San Diego	Greater San Diego
+876	Türkiye	Turkey
+877	Greater Detroit	Greater Detroit
+878	Greater New Orleans	Greater New Orleans
+879	Greater St. Louis	Greater St. Louis
+880	Грузия	Грузия
+881	Portsmouth	United Kingdom
+882	США	США
+883	Greater Pittsburgh	Greater Pittsburgh
+884	Greater Milwaukee	Greater Milwaukee
+885	Greater Denver	Greater Denver
+886	日本 神奈川県 横浜市	日本 神奈川県 横浜市
+887	日本	日本
+888	Paraná	Brasil
+889	Украина	Украина
+890	Greater Memphis	Greater Memphis
+891	Goiás	Brasil
+892	Greater Manchester	United Kingdom
+893	Greater Omaha	Greater Omaha
+894	woj. pomorskie	Polska
+895	Amapá	Brésil
+896	Greater Nashville	Greater Nashville
+897	Virgin Islands (U.S.)	Virgin Islands (U.S.)
+898	Ceará	Brasil
+899	Virgin Islands (British)	Virgin Islands (British)
+900	États-Unis	États-Unis
+901	中国 Shanghai City	中国 Shanghai City
+902	Falkirk	United Kingdom
+903	Madagaskar	Madagaskar
+904	Caribbean Nations	Caribbean Nations
+905	Stockton-on-Tees	United Kingdom
+906	pow. oświęcimski	Polska
+907	Česká republika	Česká republika
+908	Сербия	Сербия
+909	Paraíba	Brasil
+910	Cambridgeshire	United Kingdom
+911	België	België
+912	North Ayrshire	United Kingdom
+913	Pará	Brazil
+914	Чешская Республика	Чешская Республика
+915	Emiratos Árabes Unidos	Emiratos Árabes Unidos
+916	Holanda	Holanda
+917	Ningxia	China
+918	Österreich	Österreich
+919	California Area	Stati Uniti
+920	香港	香港
+921	Simbabwe	Simbabwe
+922	대한민국 서울 동작구	대한민국 서울 동작구
+923	대한민국 경기도 부천	대한민국 경기도 부천
+924	대한민국 서울 마포구	대한민국 서울 마포구
+925	Guinée	Guinée
+926	Germania	Germania
+927	广西 桂林	广西 桂林
+928	Wiltshire	United Kingdom
+929	Moçambique	Moçambique
+930	Rondônia	Brasil
+931	Cumbria	United Kingdom
+932	ประเทศไทย	ประเทศไทย
+933	Espírito Santo	Brasil
+934	Cardiff	United Kingdom
+935	Roraima	Brasil
+936	République Démocratique du Congo	République Démocratique du Congo
+937	Pruszkow County	Poland
+938	Paesi Bassi	Paesi Bassi
+939	West Kalimantan	Indonesia
+940	Etiopia	Etiopia
+941	Германия	Германия
+942	Spanje	Spanje
+943	Siemiatycze County	Poland
+944	Yukon	Canada
+945	사우디아라비아	사우디아라비아
+946	Gyeongsangbuk-do	Korea
+947	Fife	United Kingdom
+948	Slovensko	Slovensko
+949	Беларусь	Беларусь
+950	Молдова	Молдова
+951	Rusya Federasyonu	Rusya Federasyonu
+952	SudÃ¡n	SudÃ¡n
+953	CamerÃºn	CamerÃºn
+954	RepÃºblica Checa	RepÃºblica Checa
+955	PÃ©rou	PÃ©rou
+956	ItaliÃ«	ItaliÃ«
+957	BrÃ©sil	BrÃ©sil
+958	Svezia	Svezia
+959	PiauÃ­	Brasil
+960	Moldavia	Moldavia
+961	Ð¨Ð²ÐµÐ¹Ñ†Ð°Ñ€Ð¸Ñ	Ð¨Ð²ÐµÐ¹Ñ†Ð°Ñ€Ð¸Ñ
+962	Fidji	Fidji
+963	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì†¡íŒŒêµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ì†¡íŒŒêµ¬
+964	JapÃ£o	JapÃ£o
+965	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ California Santa Cruz	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ California Santa Cruz
+966	å¤©æ´¥ æ²³ä¸œåŒº	å¤©æ´¥ æ²³ä¸œåŒº
+967	Dundee City	United Kingdom
+968	Gansu	China
+969	Azerbaycan	Azerbaycan
+970	Middlesbrough	United Kingdom
+971	Beyaz Rusya	Beyaz Rusya
+972	Papua	Indonesia
+973	Federated States of Micronesia	Federated States of Micronesia
+974	Ouganda	Ouganda
+975	Cote D'Ivoire (Ivory Coast)	Cote D'Ivoire (Ivory Coast)
+976	Ð¢ÑƒÑ€ÐºÐ¼ÐµÐ½Ð¸ÑÑ‚Ð°Ð½	Ð¢ÑƒÑ€ÐºÐ¼ÐµÐ½Ð¸ÑÑ‚Ð°Ð½
+977	Emirati Arabi Uniti	Emirati Arabi Uniti
+978	San CristÃ³bal y Nieves	San CristÃ³bal y Nieves
+979	Ruanda	Ruanda
+980	RÃ©publique dominicaine	RÃ©publique dominicaine
+981	Lubusz District	Poland
+982	Lodz District	Poland
+983	åŒ—äº¬ æœé˜³åŒº	åŒ—äº¬ æœé˜³åŒº
+984	æ±Ÿè‹ å—äº¬	æ±Ÿè‹ å—äº¬
+985	North Sulawesi	Indonesia
+986	JapÃ³n	JapÃ³n
+987	Cabo Verde	Cabo Verde
+988	ä¸Šæµ·	ä¸Šæµ·
+989	Makedonya	Makedonya
+990	BelÃ§ika	BelÃ§ika
+991	Ð¡Ð»Ð¾Ð²ÐµÐ½Ð¸Ñ	Ð¡Ð»Ð¾Ð²ÐµÐ½Ð¸Ñ
+992	Bengkulu	Indonesia
+993	Messico	Messico
+994	Antillas Neerlandesas	Antillas Neerlandesas
+995	Turks ve Caicos AdalarÄ±	Turks ve Caicos AdalarÄ±
+996	KÄ±brÄ±s	KÄ±brÄ±s
+997	Yeni Kaledonya	Yeni Kaledonya
+998	Cote D'Ivoire (FildiÅŸi Sahili)	Cote D'Ivoire (FildiÅŸi Sahili)
+999	Nijer	Nijer
+1000	Kosova	Kosova
+1001	Portekiz	Portekiz
+1002	MÄ±sÄ±r	MÄ±sÄ±r
+1003	Kazakistan	Kazakistan
+1004	Cezayir	Cezayir
+1005	Ð¨Ð²ÐµÑ†Ð¸Ñ	Ð¨Ð²ÐµÑ†Ð¸Ñ
+1006	Ð‘Ð¾Ð»Ð³Ð°Ñ€Ð¸Ñ	Ð‘Ð¾Ð»Ð³Ð°Ñ€Ð¸Ñ
+1007	ëŒ€í•œë¯¼êµ­ ëŒ€ì „ ëŒ€ë•êµ¬	ëŒ€í•œë¯¼êµ­ ëŒ€ì „ ëŒ€ë•êµ¬
+1008	Neuseeland	Neuseeland
+1009	Inner Mongolia	China
+1010	Wallis ve Futuna	Wallis ve Futuna
+1011	Åžili	Åžili
+1012	Hollanda	Hollanda
+1013	Russische FÃ¶deration	Russische FÃ¶deration
+1014	Almanya	Almanya
+1015	Ukrayna	Ukrayna
+1016	Ä°srail	Ä°srail
+1017	Arnavutluk	Arnavutluk
+1018	Afganistan	Afganistan
+1019	Suudi Arabistan	Suudi Arabistan
+1020	Papua Yeni Gine	Papua Yeni Gine
+1021	KÄ±rgÄ±zistan	KÄ±rgÄ±zistan
+1022	Ä°sviÃ§re	Ä°sviÃ§re
+1023	Ä°zlanda	Ä°zlanda
+1024	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ Nevada Henderson	ã‚¢ãƒ¡ãƒªã‚«åˆè¡†å›½ Nevada Henderson
+1025	Ð•Ð³Ð¸Ð¿ÐµÑ‚	Ð•Ð³Ð¸Ð¿ÐµÑ‚
+1026	Washington D.C. Metro und Umgebung	Washington D.C. Metro und Umgebung
+1027	Newport	United Kingdom
+1028	desde capta&#xe7;&#xe3;o de palestrantes	cria&#xe7;&#xe3;o de site e estrat&#xe9;gias de mkt
+1029	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê°•ë‚¨êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ê°•ë‚¨êµ¬
+1030	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ë‚¨ì–‘ì£¼	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ë‚¨ì–‘ì£¼
+1031	í„°í‚¤	í„°í‚¤
+1032	ëŒ€í•œë¯¼êµ­ ê²½ìƒë‚¨ë„ ê±°ì œ	ëŒ€í•œë¯¼êµ­ ê²½ìƒë‚¨ë„ ê±°ì œ
+1033	ì¼ë³¸	ì¼ë³¸
+1034	<div id="groups-container">	<div id="groups-container">
+1035	Aichi	Japan
+1036	ä¸Šæµ· æ™®é™€åŒº	ä¸Šæµ· æ™®é™€åŒº
+1037	æ±Ÿè‹ æ— é”¡	æ±Ÿè‹ æ— é”¡
+1038	ä¿„ç½—æ–¯è”é‚¦	ä¿„ç½—æ–¯è”é‚¦
+1039	åŒ—äº¬ è¥¿åŸŽåŒº	åŒ—äº¬ è¥¿åŸŽåŒº
+1040	<br>	<br>
+1041	San Pedro y MiguelÃ³n	San Pedro y MiguelÃ³n
+1042	Jepang	Jepang
+1043	ì¸ë„ë„¤ì‹œì•„	ì¸ë„ë„¤ì‹œì•„
+1044	æ—¥æœ¬ å¾³å³¶çœŒ	æ—¥æœ¬ å¾³å³¶çœŒ
+1045	Sulawesi Tengah	Indonesia
+1046	Bulgarien	Bulgarien
+1047	Indonesien	Indonesien
+1048	Java Occidental	Indonesia
+1049	Makau	Makau
+1050	Sulawesi Utara	Indonesia
+1051	Kalimantan Tengah	Indonesia
+1052	Suecia	Suecia
+1053	Timor Timur	Timor Timur
+1054	NÃ©pal	NÃ©pal
+1055	Guyane franÃ§aise	Guyane franÃ§aise
+1056	Do all necessary copies for all the grades<br>	Do all necessary copies for all the grades<br>
+1057	Nunavut	Canada
+1058	SuÃ¨de	SuÃ¨de
+1059	Arab Saudi	Arab Saudi
+1060	Bangka Belitung	Indonesia
+1061	Singapura	Singapura
+1062	&#x2022;\	Funding all Money Fund settlement accounts with net activity capable of exceeding one billi	&#x2022;\	Funding all Money Fund settlement accounts with net activity capable of exceeding one billi
+1063	Goods &amp; Services and Professional Services workforce log and contracts<br>	Goods &amp; Services and Professional Services workforce log and contracts<br>
+1064	&#x2022; Created workers&#x2019; productivity analysis reports<br>	&#x2022; Created workers&#x2019; productivity analysis reports<br>
+1065	HungrÃ­a	HungrÃ­a
+1106	Paraguai	Paraguai
+1107	credit and debit card transactions<br>	credit and debit card transactions<br>
+1108	Greet customers and answer their inquiries clearly and directly<br>	Greet customers and answer their inquiries clearly and directly<br>
+1109	Curso de Controladores L&#xf3;gicos Programables<br>	Curso de Controladores L&#xf3;gicos Programables<br>
+1110	modelos	uniformes y solicitudes de compra y pagos) con el objetivo de tener la presencia definida para la ma
+1111	Ð¤Ñ€Ð°Ð½Ñ†Ð¸Ñ	Ð¤Ñ€Ð°Ð½Ñ†Ð¸Ñ
+1112	undercutting	draw bell drilling and blasting
+1113	- As built of rock support and reinforcement. <br>	- As built of rock support and reinforcement. <br>
+1114	- Undercut drilling and blasting design.<br>	- Undercut drilling and blasting design.<br>
+1115	Conducted wound measurements and managed appropriate wound care to all patients in the facility.<br>	Conducted wound measurements and managed appropriate wound care to all patients in the facility.<br>
+1116	Rhondda Cynon Taff	United Kingdom
+1117	- Implementaci&#xf3;n de tiendas nuevas - &#xe1;rea de Visual Merchadising.<br>	- Implementaci&#xf3;n de tiendas nuevas - &#xe1;rea de Visual Merchadising.<br>
+1118	P.O. Box 18-1419	Lima 18
+1119	apuntaba el &#xfa;ltimo a&#xf1;o a mostrar la vida de uruguayos famosos. Algunos de los m&#xe1;s rec	Jorge Batlle
+1120	Cracow County	Poland
+1121	Ingenieria Civil<br>	Ingenieria Civil<br>
+1122	BiaÅ‚oruÅ›	BiaÅ‚oruÅ›
+1123	Finlandia	Finlandia
+1124	&#x2022; Translate Science curriculum maps and related attachments for grades 5-8 from English to Sp	&#x2022; Translate Science curriculum maps and related attachments for grades 5-8 from English to Sp
+1125	Responsible for proper submission of Kronos interface to Payroll.<br>	Responsible for proper submission of Kronos interface to Payroll.<br>
+1126	filing	typing
+1127	redacci&#xf3;n y correcci&#xf3;n de Procedimientos	Instructivos y Registros. Conocimientos en: HAACP
+1128	Ð˜Ñ‚Ð°Ð»Ð¸Ñ	Ð˜Ñ‚Ð°Ð»Ð¸Ñ
+1129	ÐœÐ°Ð»Ð°Ð¹Ð·Ð¸Ñ	ÐœÐ°Ð»Ð°Ð¹Ð·Ð¸Ñ
+1130	Ð›Ð°Ñ‚Ð²Ð¸Ñ	Ð›Ð°Ñ‚Ð²Ð¸Ñ
+1131	marketing management	law
+1132	answered emails	conducted researching
+1133	and checked their homework before class. <br>	and checked their homework before class. <br>
+1134	Prepare author signing areas<br>	Prepare author signing areas<br>
+1135	supply chain and<br>	supply chain and<br>
+1136	"ShowMore"	{charCount: 400
+1137	ì¹´íƒ€ë¥´	ì¹´íƒ€ë¥´
+1138	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ê³¼ì²œ	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ê³¼ì²œ
+1139	ìºë‚˜ë‹¤	ìºë‚˜ë‹¤
+1140	ëŒ€í•œë¯¼êµ­ ìš¸ì‚° ìš¸ì£¼êµ°	ëŒ€í•œë¯¼êµ­ ìš¸ì‚° ìš¸ì£¼êµ°
+1141	í™ì½©	í™ì½©
+1142	æ³•å›½ å·´é»Žåœ°åŒº	æ³•å›½ å·´é»Žåœ°åŒº
+1143	Green&#39;s theorem migration.	Green&#39;s theorem migration.
+1144	&#x2022;\	Redesigned and automated firm&#x2019;s data entry for financial budgeting</p></div></div><d	&#x2022;\	Redesigned and automated firm&#x2019;s data entry for financial budgeting</p></div></div><d
+1145	&#x2022;\	Analyzed data and found cross-commodity correlations using Excel<br>	&#x2022;\	Analyzed data and found cross-commodity correlations using Excel<br>
+1146	&#x2022;\	Managed social media campaign to raise awareness of the organization<br>	&#x2022;\	Managed social media campaign to raise awareness of the organization<br>
+1147	ëŸ¬ì‹œì•„ ì—°ë°©	ëŸ¬ì‹œì•„ ì—°ë°©
+1148	ÐŸÐ¾Ñ€Ñ‚ÑƒÐ³Ð°Ð»Ð¸Ñ	ÐŸÐ¾Ñ€Ñ‚ÑƒÐ³Ð°Ð»Ð¸Ñ
+1149	Licenciada en Psicolog&#xed;a (UBA)	Jefa de Trabajos Pr&#xe1;cticos
+1150	Toma de t&#xe9;cnicas psicom&#xe9;tricas y proyectivas para verificar diagn&#xf3;stico y evoluci&#xf	Toma de t&#xe9;cnicas psicom&#xe9;tricas y proyectivas para verificar diagn&#xf3;stico y evoluci&#xf
+1151	Participaci&#xf3;n en el informe sobre agentes de riesgos en la empresas.<br>	Participaci&#xf3;n en el informe sobre agentes de riesgos en la empresas.<br>
+1152	Vereinigte Arabische Emirate	Vereinigte Arabische Emirate
+1153	æ¹–å— é•¿æ²™	æ¹–å— é•¿æ²™
+1154	interns	volunteers and temporary employees.<br>
+1155	&#x2022;Develop numerous sourcing strategies and recruitment initiatives. <br>	&#x2022;Develop numerous sourcing strategies and recruitment initiatives. <br>
+1156	as well as logging unqualified candidate on spreadsheet. <br>	as well as logging unqualified candidate on spreadsheet. <br>
+1157	resets system access passwords for all employees as needed	and verified employment. <br>
+1158	Audited new hires personnel files after an offer has been made by the recruiter. <br>	Audited new hires personnel files after an offer has been made by the recruiter. <br>
+1159	elaboraci&#xf3;n de bases de datos territoriales	explotaci&#xf3;n de un SIG
+1160	Pensilvania	Estados Unidos
+1161	Velar porque los proyectos se desarrollen en el tiempo y costo planeados.<br>	Velar porque los proyectos se desarrollen en el tiempo y costo planeados.<br>
+1162	Planeacion desarrollo e implementacion de proyectos de software<br>	Planeacion desarrollo e implementacion de proyectos de software<br>
+1163	-Advocate and Defend the right of (College) Students with Learning Disabilities<br>	-Advocate and Defend the right of (College) Students with Learning Disabilities<br>
+1164	Learning Disabilities<br>	Learning Disabilities<br>
+1165	It is our aim to inspire and develop people to create value adding learning programs based on over 1	It is our aim to inspire and develop people to create value adding learning programs based on over 1
+1169	AfeganistÃ£o	AfeganistÃ£o
+1170	pow. nyski	Polska
+1171	Belice	Belice
+1172	Luxemburgo	Luxemburgo
+1173	Andaman & Nicobar Islands	India
+1174	Ð¢Ð°Ð´Ð¶Ð¸ÐºÐ¸ÑÑ‚Ð°Ð½	Ð¢Ð°Ð´Ð¶Ð¸ÐºÐ¸ÑÑ‚Ð°Ð½
+1175	South Lanarkshire	United Kingdom
+1176	pow. legionowski	Polska
+1177	Kalifornien	Kalifornien
+1178	Stany Zjednoczone	Stany Zjednoczone
+1179	Costa d'Avorio	Costa d'Avorio
+1180	Denemarken	Denemarken
+1181	Bermudes	Bermudes
+1182	Caerphilly	United Kingdom
+1183	pow. kroÅ›nieÅ„ski	Polska
+1184	Renfrewshire	United Kingdom
+1185	East Ayrshire	United Kingdom
+1186	ÐÑ€Ð¼ÐµÐ½Ð¸Ñ	ÐÑ€Ð¼ÐµÐ½Ð¸Ñ
+1187	US Military Posts in Central America	US Military Posts in Central America
+1188	Perth and Kinross	United Kingdom
+1189	Emiratos Ãrabes Unidos	Emiratos Ãrabes Unidos
+1190	Cornwall	United Kingdom
+1191	Otwock County	Poland
+1192	Chandigarh	Chandigarh
+1193	Mizoram	India
+1194	Miami/Fort Lauderdale	Miami/Fort Lauderdale
+1195	Mato Grosso	Brasil
+1196	Ucrania	Ucrania
+1197	Tripura	India
+1198	Bournemouth	United Kingdom
+1199	Ð›Ð¸Ð±ÐµÑ€Ð¸Ñ	Ð›Ð¸Ð±ÐµÑ€Ð¸Ñ
+1200	Derbyshire	United Kingdom
+1201	Federazione russa	Federazione russa
+1202	Cincinnati	Cincinnati
+1203	Filipinas	Filipinas
+1204	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ë§ˆí¬êµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ ë§ˆí¬êµ¬
+1205	Legionowo County	Polska
+1206	Ãustria	Ãustria
+1232	Regno Unito	Regno Unito
+1233	IJsland	IJsland
+1234	Wallis and Futuna	Wallis and Futuna
+1235	Albanien	Albanien
+1236	CroÃ¡cia	CroÃ¡cia
+1237	Ungarn	Ungarn
+1238	Silesian District	Polska
+1239	Zgierz County	Polska
+1240	ThaÃ¯lande	ThaÃ¯lande
+1241	Credit Analysis<br>	Credit Analysis<br>
+1242	Repubblica slovacca	Repubblica slovacca
+1243	West Sussex	United Kingdom
+1244	I maintain collaboration with the Mississippi Department of Education (MDE)	develop and maintain collaboration relationships with schools and corporations and supervise and dir
+1245	English Language Learner Teacher to Hispanic Students.<br>	English Language Learner Teacher to Hispanic Students.<br>
+1246	Oxfordshire	United Kingdom
+1247	East Sussex	United Kingdom
+1248	Vale of Glamorgan	United Kingdom
+1249	- Precision pistol shooting. <br>	- Precision pistol shooting. <br>
+1250	- Assisted customers with ordering rare and specialty items.<br>	- Assisted customers with ordering rare and specialty items.<br>
+1251	Peru)<br>	Peru)<br>
+1252	Develop unique lesson plans to best suit needs of current students<br>	Develop unique lesson plans to best suit needs of current students<br>
+1253	Developed original curriculum to best suit educational growth potential of students serviced.<br>	Developed original curriculum to best suit educational growth potential of students serviced.<br>
+1254	Television/Commercial/ Editorial Wardrobe Stylist<br>	Television/Commercial/ Editorial Wardrobe Stylist<br>
+1255	Organized blogging class for the team and created a blog of pro hair tips<br>	Organized blogging class for the team and created a blog of pro hair tips<br>
+1256	Brand Strategy Development&#x2028; <br>	Brand Strategy Development&#x2028; <br>
+1257	working with marketers and agencies from mobile strategy through the development	deployment
+1258	Fort Irwin	California</span></span><p class="description">&#x2022;\	Identified areas of expansion and improvemen
+1259	&#x2022;\	Conducted regulatory compliance research<br>	&#x2022;\	Conducted regulatory compliance research<br>
+1260	prepared summaries of testimony given during hearings</p></div></div><script>$(function() {if (LI.Di	args ) {var positionID;if
+1261	from database to user interface<br>	from database to user interface<br>
+1262	&#x2022; Generated and executed validation/commissioning pre-functional checklists and functional ch	&#x2022; Generated and executed validation/commissioning pre-functional checklists and functional ch
+1263	implement and enforce CAD Standards<br>	implement and enforce CAD Standards<br>
+1264	which included EMAS installation and RSA improvements. Collaborated with contractors and ensured all	improved productivity and time management. Reduced expenses for repair and contractor damages
+1265	trained team members and completed orders expediently	which led to a 15% revenue increase
+1266	during crucial runway extension project. This propelled the establishment to more efficient practice	args ) {var positionID;if
+1267	-Edited hundreds of film music cues with Pro Tools to ensure smooth delivery formats for clients.</p	-Edited hundreds of film music cues with Pro Tools to ensure smooth delivery formats for clients.</p
+1268	Collaborate with Professor Kerry Ratigan&#39;s research on Chinese-Latin American relations in minin	Collaborate with Professor Kerry Ratigan&#39;s research on Chinese-Latin American relations in minin
+1269	cultural	social
+1270	000 AAS budget across 140 diverse student activities and clubs during 2012-2013 academic year<br>	000 AAS budget across 140 diverse student activities and clubs during 2012-2013 academic year<br>
+1271	</li><li>edible	</li><li>and medicinal uses of plants
+1272	*Meet with clients to identify needs and opportunities for creating operational efficiencies within 	*Meet with clients to identify needs and opportunities for creating operational efficiencies within 
+1273	*Called on past and current customers regarding upgrading their cellular devices<br>	*Called on past and current customers regarding upgrading their cellular devices<br>
+1274	&#xb7;Responsible for all data entry needed to complete sale<br>	&#xb7;Responsible for all data entry needed to complete sale<br>
+1275	*Enhanced customer confidence and satisfaction by providing honest and accurate descriptions of the 	*Enhanced customer confidence and satisfaction by providing honest and accurate descriptions of the 
+1276	Responsible for building strong relationships with current and future customers. <br>	Responsible for building strong relationships with current and future customers. <br>
+1277	collecting rent and ensuring that tenants paid on time. <br>	collecting rent and ensuring that tenants paid on time. <br>
+1278	all equipment was properly cleaned	and maintenance was properly up kept. <br>
+1279	&#x2022;\	Ensure that sanitation team responsibilities are Good Manufacturing Practice (GMP) complian	&#x2022;\	Ensure that sanitation team responsibilities are Good Manufacturing Practice (GMP) complian
+1280	TN</span></span><p class="description">&#x2022;\	Compliance with the American Society of Crime Labora	TN</span></span><p class="description">&#x2022;\	Compliance with the American Society of Crime Labora
+1281	and including the facility within budgetary controls. <br>	and including the facility within budgetary controls. <br>
+1282	HVAC	grounds keeping. <br>
+1283	operation	and process improvement for annealing
+1284	enclosures	and mezzanines.<br>
+1285	DI water	Argon Gas
+1286	&#x2022; Prepared credit limit list for Credit Risk Management department on a daily basis.<br>	&#x2022; Prepared credit limit list for Credit Risk Management department on a daily basis.<br>
+1287	&#x2022; Analyzed and mapped out the content of Pirelli&#x2019;s existing intranet site.<br>	&#x2022; Analyzed and mapped out the content of Pirelli&#x2019;s existing intranet site.<br>
+1288	Defined requirements for future application releases<br>	Defined requirements for future application releases<br>
+1289	Engineers	and Project Managers.<br>
+1290	-Led the restructuring process for worker scheduling and development of a 24 hour on-call shift sche	-Led the restructuring process for worker scheduling and development of a 24 hour on-call shift sche
+1291	and worked with team on annual dealer fair preparations and event	resulting in more dealers being recruited and an increase in sales.<br>
+1292	-Respond to residents&#x2019; facility needs by organizing requests and scheduling team members.<br>	-Respond to residents&#x2019; facility needs by organizing requests and scheduling team members.<br>
+1293	-Ensure the cleanliness of residence hall classrooms<br>	-Ensure the cleanliness of residence hall classrooms<br>
+1294	MI</span></span><p class="description">-Maintained professional appearance of Holiday Inn and Comfor	MI</span></span><p class="description">-Maintained professional appearance of Holiday Inn and Comfor
+1295	Contract and Project Recruitment &#x2013; February 2013 - Present.<br>	Contract and Project Recruitment &#x2013; February 2013 - Present.<br>
+1296	Marketing	Information Technology
+1297	Carolina del Norte	Estados Unidos
+1298	&#x2022; Utilized Oracle systems to maintain MRP <br>	&#x2022; Utilized Oracle systems to maintain MRP <br>
+1299	South Jutland	Denmark
+1300	National Honorary Society	National Honorary Society
+1359	-Define and manage Customer and Vendor <br>	-Define and manage Customer and Vendor <br>
+1360	&#x2022;\	Determine Work Breakdown Structure for team members<br>	&#x2022;\	Determine Work Breakdown Structure for team members<br>
+1361	review	and file returns<br>
+1362	&#x2022;\	Aid in implementation of Enterprise Resource Planning software<br>	&#x2022;\	Aid in implementation of Enterprise Resource Planning software<br>
+1363	Sales Operations	and Business Analytics: Managed day-to-day sales operations
+1364	created visit requests	managed customer information
+1365	&#x2022;\	Consistently outperformed peers and grew accounts and subbed them to the next level.<br>	&#x2022;\	Consistently outperformed peers and grew accounts and subbed them to the next level.<br>
+1366	helping others to convert their customers as well.<br>	helping others to convert their customers as well.<br>
+1367	sales meetings	and promotional events.<br>
+1368	Alabama e RegiÃ£o	Estados Unidos
+1369	Bearport Publishing)<br>	Bearport Publishing)<br>
+1370	Policy and Planning	Traffic Operations
+1371	Visual merchandising<br>	Visual merchandising<br>
+1372	&#x2022;Individuals with Targted Disabilities Program Management<br>	&#x2022;Individuals with Targted Disabilities Program Management<br>
+1373	&#x2022;Federal Employment Opportunity<br>	&#x2022;Federal Employment Opportunity<br>
+1374	&#x2022;\	Perform Data Analysis in Excel and Stata<br>	&#x2022;\	Perform Data Analysis in Excel and Stata<br>
+1375	- Conduct market research to assist senior economists in writing expert reports<br>	- Conduct market research to assist senior economists in writing expert reports<br>
+1376	including Wage and Hour	Intellectual Property and Economic Royalties<br>
+1377	and properties for tenants on Loopnet <br>	and properties for tenants on Loopnet <br>
+1378	training	and practical experience with computerized data bases for tracking
+1379	B) Learning about the Software Development Life-Cycle (SDLC) <br>	B) Learning about the Software Development Life-Cycle (SDLC) <br>
+1380	&#x2022; Positively supported and critiqued wrestlers during and after matches<br>	&#x2022; Positively supported and critiqued wrestlers during and after matches<br>
+1381	Bulgarie	Bulgarie
+1382	&#x2022; Prepared capital justification for new projects<br>	&#x2022; Prepared capital justification for new projects<br>
+1383	&#x2022;Utilized Arabic language skill to gather and interpret sources<br>	&#x2022;Utilized Arabic language skill to gather and interpret sources<br>
+1384	&#x2022;Worked with customers to find solutions to problems and questions<br>	&#x2022;Worked with customers to find solutions to problems and questions<br>
+1385	with CMS and APIs for iOS	Android and Facebook apps<br>
+1386	Suspension.<br>	Suspension.<br>
+1387	-Executive produced by Chris Rock<br>	-Executive produced by Chris Rock<br>
+1388	&#x2022; Supreme Court Project: Managed alliance of progressive consultants working to bring more tr	&#x2022; Supreme Court Project: Managed alliance of progressive consultants working to bring more tr
+1389	&#x2022; Managed New York-based media outreach on behalf of two Russian political prisoners; write o	&#x2022; Managed New York-based media outreach on behalf of two Russian political prisoners; write o
+1390	Core Focus: Currently overseeing all company operations along with high level of procurement &amp; s	Core Focus: Currently overseeing all company operations along with high level of procurement &amp; s
+1391	new or preowned</p></div></div><div id="experience-140223490" class="editable-item section-item"><di	new or preowned</p></div></div><div id="experience-140223490" class="editable-item section-item"><di
+1392	AP	Payroll &amp; Store Appearance<br>
+1393	&#xb7; Developed and Implemented new hire/training procedure <br>	&#xb7; Developed and Implemented new hire/training procedure <br>
+1394	Myanmar (Birmanie)	Myanmar (Birmanie)
+1395	-Cleaned and scrubbed floors<br>	-Cleaned and scrubbed floors<br>
+1396	-Served as the Co-Moderator for the Jonathan Martin Forum (NY Times National Political Correspondent	-Served as the Co-Moderator for the Jonathan Martin Forum (NY Times National Political Correspondent
+1397	-Informed constituents on votes <br>	-Informed constituents on votes <br>
+1398	-Helped the Westfield store &quot;earn its stripes&quot;<br>	-Helped the Westfield store &quot;earn its stripes&quot;<br>
+1399	-Guided customers to their desired products<br>	-Guided customers to their desired products<br>
+1400	-Folded towels needed for customers <br>	-Folded towels needed for customers <br>
+1401	Shelf Layout	&amp; Sig Flow
+1402	ãƒ™ãƒˆãƒŠãƒ 	ãƒ™ãƒˆãƒŠãƒ 
+1403	Microsoft Building 20 Renovation<br>	Microsoft Building 20 Renovation<br>
+1404	Delivering customer vehicles to the customer at the DFW Airport.<br>	Delivering customer vehicles to the customer at the DFW Airport.<br>
+1405	Creating and maintaining customer satisfaction.<br>	Creating and maintaining customer satisfaction.<br>
+1406	&#x2022;\	Teach lessons for and tutor students in each classroom. <br>	&#x2022;\	Teach lessons for and tutor students in each classroom. <br>
+1407	Helped to maintain a clean appearance of the store.<br>	Helped to maintain a clean appearance of the store.<br>
+1408	sales analysis reporting	project management
+1409	&#x2022;\	Help patients perform specific exercises <br>	&#x2022;\	Help patients perform specific exercises <br>
+1410	&#x2022;\	Perform payroll and clerical duties <br>	&#x2022;\	Perform payroll and clerical duties <br>
+1411	&#x2022;\	Evaluated each student&#x2019;s progress and adjusted strategies accordingly <br>	&#x2022;\	Evaluated each student&#x2019;s progress and adjusted strategies accordingly <br>
+1412	&#x2022;\	Identified Hong Kong and Macau agents and distributors for American companies<br>	&#x2022;\	Identified Hong Kong and Macau agents and distributors for American companies<br>
+1413	Created efficiencies in operations and sales processes by utilizing creative marketing strategies to	Created efficiencies in operations and sales processes by utilizing creative marketing strategies to
+1414	Digital Lizards Of Doom.<br>	Digital Lizards Of Doom.<br>
+1415	PA)</h5></header><span class="experience-date-locale"><time>October 2003</time> &#8211; <time>June 2	Pennsylvania</span></span><p class="description">Worked as an independent consultant as the principa
+1416	including performing customer interviews	system prototyping
+1417	ofreciendo diversas soluciones utilizando frameworks de Javascript	como Backbone
+1418	- Dise&#xf1;ar la integraci&#xf3;n de la aplicaci&#xf3;n con Sencha Touch y Maven.<br>	- Dise&#xf1;ar la integraci&#xf3;n de la aplicaci&#xf3;n con Sencha Touch y Maven.<br>
+1419	- Responsable de dise&#xf1;ar y desarrollar una nueva aplicaci&#xf3;n basada en JavaFX para subir m&	- Responsable de dise&#xf1;ar y desarrollar una nueva aplicaci&#xf3;n basada en JavaFX para subir m&
+1420	- Desarrollar e Integrar nuevos m&#xf3;dulos a una aplicaci&#xf3;n existente basada en Servlets con 	- Desarrollar e Integrar nuevos m&#xf3;dulos a una aplicaci&#xf3;n existente basada en Servlets con 
+1421	&#x2022;\	Develop relevant sales programs/tools that resonate with customers in line with brand strat	&#x2022;\	Develop relevant sales programs/tools that resonate with customers in line with brand strat
+1422	El Paso Chihuahuas	New York City FC
+1423	&#x2022;\	Data entry and analytics for the purposes of revenue projection<br>	&#x2022;\	Data entry and analytics for the purposes of revenue projection<br>
+1424	&#x2022;\	Provided excellence in customer service for increased customer safety and satisfaction<br>	&#x2022;\	Provided excellence in customer service for increased customer safety and satisfaction<br>
+1425	&#x2022;\	Organized database for motions and other legal documents using Microsoft Excel</p></div></d	&#x2022;\	Organized database for motions and other legal documents using Microsoft Excel</p></div></d
+1426	including TV coverage in Samoa and targeting overseas teams to travel to play in Samoa.<br>	including TV coverage in Samoa and targeting overseas teams to travel to play in Samoa.<br>
+1427	which is on track to handle all Yahoo algo	ads
+1428	mentor	and guide offshore team on development of the product.</p></div></div><div id="experience-30589131" 
+1429	data management of files	manuels and documents.<br>
+1430	customer service	and payroll analysis.<br>
+1431	audit a wide variety of difficult pay actions	and compile<br>
+1432	accountable for over six million dollars in both U.S. funds and Djiboutian<br>	accountable for over six million dollars in both U.S. funds and Djiboutian<br>
+1433	awards	leave request
+1434	Tocantins	Brasil
+1435	Sultanate of Oman	Sultanate of Oman
+1436	Rusia	Rusia
+1437	Italien	Italien
+1438	Statele Unite ale Americii	Statele Unite ale Americii
+1439	Balance	HR
+1440	Kolobrzeg County	Polska
+1441	RumÃ¤nien	RumÃ¤nien
+1442	RumanÃ­a	RumanÃ­a
+1443	Przemysl	Polska
+1444	Niemcy	Niemcy
+1445	Lower Silesian District	Polska
+1446	Rybnik County	Polska
+1447	Andere	Andere
+1448	County Down	United Kingdom
+1449	Capital Region	Denmark
+1450	Sydjylland	Danmark
+1451	LondÃ½n a okolÃ­	SpojenÃ© krÃ¡lovstvÃ­
+1452	MacÃ©doine	MacÃ©doine
+1453	Marea Britanie	Marea Britanie
+1454	Boleslawiec County	Poland
+1455	Chipre	Chipre
+1456	Brzeg County	Poland
+1457	Irlandia	Irlandia
+1458	&#x2022;\	Go over all details regarding the events with the clients and assure the accurate communica	&#x2022;\	Go over all details regarding the events with the clients and assure the accurate communica
+1459	telephone etiquette and sequences of work procedures<br>	telephone etiquette and sequences of work procedures<br>
+1460	AustrÃ¡lia	AustrÃ¡lia
+1461	Griechenland	Griechenland
+1462	Tansania	Tansania
+1463	Indien	Indien
+1464	ÐŸÐ¾Ð»ÑŒÑˆÐ°	ÐŸÐ¾Ð»ÑŒÑˆÐ°
+1465	Holandia	Holandia
+1466	* Roll-out of HR tools and instruments<br>	* Roll-out of HR tools and instruments<br>
+1467	Irland	Irland
+1468	- Brainstorming for the 2008 Spring Racing Carnival and the Spring Carnival launch party <br>	- Brainstorming for the 2008 Spring Racing Carnival and the Spring Carnival launch party <br>
+1469	Wielka Brytania	Wielka Brytania
+1470	St. Vincent und die Grenadinen	St. Vincent und die Grenadinen
+1471	NÄ›mecko	NÄ›mecko
+1472	Chrzanow County	Polska
+1473	Slowakische Republik	Slowakische Republik
+1474	Warmian-Masurian District	Polska
+1475	Corea del Norte	Corea del Norte
+1476	Subcarpathian District	Polska
+1477	æ—¥æœ¬ äº¬éƒ½çœŒ	æ—¥æœ¬ äº¬éƒ½çœŒ
+1478	GroÃŸraum New York City und Umgebung	GroÃŸraum New York City und Umgebung
+1479	Myslenice County	Polska
+1480	Ostrow Wielkopolski County	Polska
+1486	image transforms (DCT	DFT
+1487	- Monitoring Sales and Operations departments<br>	- Monitoring Sales and Operations departments<br>
+1488	commercial negotiation	costing and pricing
+1489	Centrafrican Republic	Cameroon
+1490	Saint Pierre et Miquelon	Saint Pierre et Miquelon
+1491	Infinite report generation; Project Lead of Project expansion <br>	Infinite report generation; Project Lead of Project expansion <br>
+1492	typing	filing and mail support
+1493	Pays-Bas	Pays-Bas
+1494	Hongrie	Hongrie
+1495	Calcul des charges de travail op&#xe9;rateur n&#xe9;cessaires par poste<br>	Calcul des charges de travail op&#xe9;rateur n&#xe9;cessaires par poste<br>
+1496	Pr&#xe9;paration et livraison v&#xe9;hicules neufs</p></div></div><script>$(function() {if (LI.Dialo	args ) {var positionID;if
+1497	SÃ©oul	CorÃ©e du Sud
+1498	Saint-Marin	Saint-Marin
+1499	- Responsable de la gestions des joueurs &#xe9;trangers et des partenariats avec des agences &#xe9;t	- Responsable de la gestions des joueurs &#xe9;trangers et des partenariats avec des agences &#xe9;t
+1500	Malaisie	Malaisie
+1501	Dumfries and Galloway	United Kingdom
+1502	Construction d&#39;immeuble<br>	Construction d&#39;immeuble<br>
+1503	Russie	Russie
+1504	Saint-Vincent-et-les-Grenadines	Saint-Vincent-et-les-Grenadines
+1505	HS<br>	HS<br>
+1506	Technologie utilis&#xe9;e: TSMC 0.18um (CMOS)<br>	Technologie utilis&#xe9;e: TSMC 0.18um (CMOS)<br>
+1507	G&#xe9;rant de CINE CONTROLE INTERNATIONAL jusqu&#39;&#xe0; aujourd&#39;hui<br>	G&#xe9;rant de CINE CONTROLE INTERNATIONAL jusqu&#39;&#xe0; aujourd&#39;hui<br>
+1508	production	qualit&#xe9;)</p></div></div><div id="experience-317537987" class="editable-item section-item"><div 
+1509	d&#39;Operculage	d&#39;encaissage et d&#39;ensachage</p></div></div><div id="experience-320053994" class="editable-it
+1510	d&#39;encartage de test et pr&#xe9;personnalisation de cartes &#xe0; puces</p></div></div><script>$(	args ) {var positionID;if
+1511	FranÃ§a	FranÃ§a
+1512	N&#xe9;gociation de contrat cadre	Formation et Support technique: <br>
+1513	Implantation de composants &#xe9;lectroniques.<br>	Implantation de composants &#xe9;lectroniques.<br>
+1514	Informatique courant : Word et Powerpoint.<br>	Informatique courant : Word et Powerpoint.<br>
+1515	France</span></span><p class="description">Enseignement des Arts Appliqu&#xe9;s et du design en lyc&	args ) {var positionID;if
+1516	tendering	operation planning and survey acquisition)</p></div></div><div id="experience-195996061" class="edit
+1517	Netherlands</span></span><p class="description">&#x2022; Management	technical assurance and reporting of reservoir surveillance projects <br>
+1518	Californie	Ã‰tats-Unis
+1519	- aide &#xe0; la constitution ou &#xe0; la gestion de leur patrimoine<br>	- aide &#xe0; la constitution ou &#xe0; la gestion de leur patrimoine<br>
+1520	Recherche de biens ou d&#39;acqu&#xe9;reurs<br>	Recherche de biens ou d&#39;acqu&#xe9;reurs<br>
+1521	Responsable Commercial dans une soci&#xe9;t&#xe9; d&#39;import export<br>	Responsable Commercial dans une soci&#xe9;t&#xe9; d&#39;import export<br>
+1522	investissements	sant&#xe9;
+1523	ou sur le domaine de la p&#xe9;trochimie	de ses m&#xe9;tiers et de ses m&#xe9;tiers transverses.</p></div></div><div id="experience-180928967
+1524	GuinÃ©e Ã©quatoriale	GuinÃ©e Ã©quatoriale
+1525	- Support client.<br>	- Support client.<br>
+1526	- Supervision et exploitation des sauvegardes (Netbackup et Avamar).<br>	- Supervision et exploitation des sauvegardes (Netbackup et Avamar).<br>
+1527	deck gear	rigging and delivering the boat to Panama.</p></div></div><div id="experience-132560937" class="edit
+1528	Awarded the Slater-Price Prize for best performance in Physical Chemistry in 2005.<br>	Awarded the Slater-Price Prize for best performance in Physical Chemistry in 2005.<br>
+1529	members	members
+1530	Effectuer divers travaux administratifs<br>	Effectuer divers travaux administratifs<br>
+1531	- Cash Equities Middle and BackOffice solutions.<br>	- Cash Equities Middle and BackOffice solutions.<br>
+1532	Ð¤Ð¸Ð»Ð¸Ð¿Ð¿Ð¸Ð½Ñ‹	Ð¤Ð¸Ð»Ð¸Ð¿Ð¿Ð¸Ð½Ñ‹
+1533	&#x2022;\	Responsable du domaine Infrastructure Syst&#xe8;me et Sauvegarde<br>	&#x2022;\	Responsable du domaine Infrastructure Syst&#xe8;me et Sauvegarde<br>
+1534	Antarctique	Antarctique
+1535	Construction	Exploitation de station de traitement des eaux
+1536	USF FILTRATION est un &#xe9;quipementier de la filtration industrielle avec une approche sp&#xe9;cif	USF FILTRATION est un &#xe9;quipementier de la filtration industrielle avec une approche sp&#xe9;cif
+1537	&#x2022;\	Main product : turnkey units for production of coating colour kitchen for the paper machine	&#x2022;\	Main product : turnkey units for production of coating colour kitchen for the paper machine
+1538	lubricants	paint
+1539	Prospection technico-commerciale et &#xe9;tudes de divers projets industriels.<br>	Prospection technico-commerciale et &#xe9;tudes de divers projets industriels.<br>
+1540	Collaboration &#xe9;troite avec SAVCOR (soci&#xe9;t&#xe9; finlandaise sp&#xe9;cialis&#xe9;e en diagn	Collaboration &#xe9;troite avec SAVCOR (soci&#xe9;t&#xe9; finlandaise sp&#xe9;cialis&#xe9;e en diagn
+1541	Funen	Denmark
+1542	&#x2022;\	Consistently ran low-labor costs throughout seasonal highs and lows. <br>	&#x2022;\	Consistently ran low-labor costs throughout seasonal highs and lows. <br>
+1543	+ Gestion de 19 agences franchis&#xe9;es <br>	+ Gestion de 19 agences franchis&#xe9;es <br>
+1544	Antilles nÃ©erlandaises	Antilles nÃ©erlandaises
+1545	&#x2022;\	Mech. Design &amp; Aesthetics from initial brainstorming to industrialisation of compact pa	&#x2022;\	Mech. Design &amp; Aesthetics from initial brainstorming to industrialisation of compact pa
+1546	&#x2500; FEA checked and provided plans for failing welding equipement on Fiat Stilo Assembly Line<b	&#x2500; FEA checked and provided plans for failing welding equipement on Fiat Stilo Assembly Line<b
+1547	- Design of the new products<br>	- Design of the new products<br>
+1548	Gestion des serveurs h&#xe9;bergement Web<br>	Gestion des serveurs h&#xe9;bergement Web<br>
+1549	D&#xe9;veloppement des sites internet LeasePlan<br>	D&#xe9;veloppement des sites internet LeasePlan<br>
+1550	Jacod Delafon<br>	Jacod Delafon<br>
+1551	</li><li>boxe) ;</li></ul></div></li><li id="personal-info" class="section-item editable-item no-add	Ph&#xe9;nom&#xe8;nes Chaotiques </li><li>Th&#xe9;orie des Jeux </li><li>Options R&#xe9;elles </li><l
+1552	outillage	m&#xe9;thodes
+1553	3D Modeling</p></div></div><div id="experience-68035092" class="editable-item section-item"><div id=	3D Modeling</p></div></div><div id="experience-68035092" class="editable-item section-item"><div id=
+1554	&#x25c6; Contr&#xf4;le qualit&#xe9; sur site (sous-traitance)<br>	&#x25c6; Contr&#xf4;le qualit&#xe9; sur site (sous-traitance)<br>
+1555	&#x25c6; Analyses spectrales pour expertises (Pierres de couleur)<br>	&#x25c6; Analyses spectrales pour expertises (Pierres de couleur)<br>
+1556	Web design and reservation system.<br>	Web design and reservation system.<br>
+1557	cleanness and standards of bedrooms	answering group and meeting request
+1558	banking (bank reconciliation	cash flow)
+1559	confirm ski guide	taxi
+1560	- The objective was to maintain a high turnover of the business by increasing the average ticket foo	- The objective was to maintain a high turnover of the business by increasing the average ticket foo
+1561	Chili	Chili
+1562	Also in charge of taylor welding blanks commodity.<br>	Also in charge of taylor welding blanks commodity.<br>
+1563	milling machines and Painting laboratory<br>	milling machines and Painting laboratory<br>
+1564	R&#xe9;alisation marquantes:<br>	R&#xe9;alisation marquantes:<br>
+1565	Francie	Francie
+1566	As part of my work I was responsible for and accomplished the following tasks:<br>	As part of my work I was responsible for and accomplished the following tasks:<br>
+1567	j&#39;ai en charge la gestion de la technologie au sein d&#39;un Cabinet d&#39;avocats internationau	j&#39;ai en charge la gestion de la technologie au sein d&#39;un Cabinet d&#39;avocats internationau
+1568	1) created biochar using pyrolysis<br>	1) created biochar using pyrolysis<br>
+1569	Timor Oriental	Timor Oriental
+1570	å¹¿è¥¿ å—å®	å¹¿è¥¿ å—å®
+1571	Singapur	Singapur
+1572	guiding of teams through projects	and teaching of graphic modeling software
+1573	- Helped cardiologist to implant and explant pacemaker and ICD under stressful condition.<br>	- Helped cardiologist to implant and explant pacemaker and ICD under stressful condition.<br>
+1574	Matlab and ImageJ program<br>	Matlab and ImageJ program<br>
+1575	- Ensured consistency of each medical file during disability claiming process<br>	- Ensured consistency of each medical file during disability claiming process<br>
+1576	justification and operation on aviation hydraulic and mechanical systems. <br>	justification and operation on aviation hydraulic and mechanical systems. <br>
+1577	Slowenien	Slowenien
+1578	Mongolie	Mongolie
+1579	* Learning how a dredger works and operates by spending time on board and <br>	* Learning how a dredger works and operates by spending time on board and <br>
+1580	* Picking and processing the grapes.\	<br>	* Picking and processing the grapes.\	<br>
+1581	rebalances the workload cross commodity in his or her region to assure timely delivery of the suppli	P&amp;SM projects and Operational issues escalated to SD.<br>
+1582	Leader QRSQC for the Engine Cooling branch for a aluminium tubes supplier.</p></div></div><div id="e	Leader QRSQC for the Engine Cooling branch for a aluminium tubes supplier.</p></div></div><div id="e
+1583	HEWLETT PACKARD / BRITISH TELECOM &#x2013; R&#xe9;seau t&#xe9;l&#xe9;phonie France + Maroc<br>	HEWLETT PACKARD / BRITISH TELECOM &#x2013; R&#xe9;seau t&#xe9;l&#xe9;phonie France + Maroc<br>
+1584	Develop Headoffice skills in reservoir modelling.<br>	Develop Headoffice skills in reservoir modelling.<br>
+1585	</li><li>Golf	</li><li>Badminton)
+1586	Modeling	Surfacing Supervising on the Kaeloo - Season 2</p></div></div><div id="experience-336774527" class="
+1587	Various projects in automation and microcontrollers systems.</p></div></div><div id="experience-1885	Various projects in automation and microcontrollers systems.</p></div></div><div id="experience-1885
+1588	d&#xe9;veloppement	d&#xe9;ploiement et maintenance d&#x2019;un outil CRM r&#xe9;pondant aux besoins de l&#x2019;entrepr
+1589	Follow the process and guidelines to deliver a Legal Maintenance contract.<br>	Follow the process and guidelines to deliver a Legal Maintenance contract.<br>
+1590	Follow and assist the customer needs in order to deliver a perfect customer service.</p></div></div>	Follow and assist the customer needs in order to deliver a perfect customer service.</p></div></div>
+1591	medicines in SAP.<br>	medicines in SAP.<br>
+1592	Ik waak over een correcte uitvoering van onze diensten en lever een goede customer service.<br>	Ik waak over een correcte uitvoering van onze diensten en lever een goede customer service.<br>
+1593	municipality Edam-Volendam<br>	municipality Edam-Volendam<br>
+1594	Brummen<br>	Brummen<br>
+1595	relations institutionnelles et partenariales	n&#xe9;gociation et gestion des budgets
+1596	earthquake	hail
+1597	Setup shares - Share permissions - security - NTFS permissions <br>	Setup shares - Share permissions - security - NTFS permissions <br>
+1598	creation profiles<br>	creation profiles<br>
+1599	responsable technique<br>	responsable technique<br>
+1600	Belgique</span></span><p class="description">Stage de 6 semaines en gestion de projet pour la soci&#	Belgique</span></span><p class="description">Stage de 6 semaines en gestion de projet pour la soci&#
+1601	PMBOK	CMMI
+1602	Elle est 100% modulable<br>	Elle est 100% modulable<br>
+1603	Wallis et Futuna	Wallis et Futuna
+1604	from payroll to org management</p></div></div><div id="experience-89557450" class="editable-item sec	args ) {var positionID;if
+1605	- Clarification of customer need<br>	- Clarification of customer need<br>
+1606	Test automation for the new BMW navigation system.<br>	Test automation for the new BMW navigation system.<br>
+1607	</span><span class="major">Hypokh&#xe2;gne et Kh&#xe2;gne</span></h5></header><span class="education	</span><span class="major">Hypokh&#xe2;gne et Kh&#xe2;gne</span></h5></header><span class="education
+1608	Philippinen	Philippinen
+1609	- Formation of the new educational assistants <br>	- Formation of the new educational assistants <br>
+1610	- Formation and supervision of the new employees <br>	- Formation and supervision of the new employees <br>
+1611	&#xc9;tablir un devis et enregistrer des polices d&#x2019;assurances<br>	&#xc9;tablir un devis et enregistrer des polices d&#x2019;assurances<br>
+1612	Maitre adjoint SENIT<br>	Maitre adjoint SENIT<br>
+1613	Cr&#xe9;ation et direction...<br>	Cr&#xe9;ation et direction...<br>
+1614	- Verwaltung der Transporte und Notf&#xe4;lle zwischen den Krankenh&#xe4;usern des Klinikums Hannove	- Verwaltung der Transporte und Notf&#xe4;lle zwischen den Krankenh&#xe4;usern des Klinikums Hannove
+1615	NovaFlex	Cedex).</p></div></div><div id="experience-348234179" class="editable-item section-item"><div id="ex
+1616	+ R&#xe9;aliser un Change Control Board (CCB)<br>	+ R&#xe9;aliser un Change Control Board (CCB)<br>
+1617	+ Support applicatif<br>	+ Support applicatif<br>
+1618	Gestion des comptes clients<br>	Gestion des comptes clients<br>
+1619	Recherche de nouveaux march&#xe9;s<br>	Recherche de nouveaux march&#xe9;s<br>
+1620	Lettonie	Lettonie
+1621	To bring inspiration and innovation to every athlete* in the world<br>	To bring inspiration and innovation to every athlete* in the world<br>
+1622	how to overcome difficult situations with customers	how to manage conflicts and how to work effectively within a team.</p></div></div><script>$
+1623	programme de coaching budg&#xe9;taire pour &#xe9;tudiants et particuliers</p></div></div></div><div 	</span><span class="major">Gestion des entreprises
+1624	Denmark</span></span></div></div><div id="experience-463001569" class="editable-item section-item"><	South Africa</span></span><p class="description">100 in 1 Day is a social movement for citizen-drive
+1625	Finnland	Finnland
+1626	-For nearly forty years they have developed programs that combine medical intervention with applied 	-For nearly forty years they have developed programs that combine medical intervention with applied 
+1627	- Analytics team for CFO and Board of Directors of Credit Suisse<br>	- Analytics team for CFO and Board of Directors of Credit Suisse<br>
+1628	- Investment banking coverage of private clients booked in Switzerland<br>	- Investment banking coverage of private clients booked in Switzerland<br>
+1629	&#x2022;\	Daily proof of performance spots for News4 Today AM news<br>	&#x2022;\	Daily proof of performance spots for News4 Today AM news<br>
+1630	4th Ed. As Camera</p></div></div><div id="experience-257879445" class="editable-item section-item"><	LLC</h5></header><span class="experience-date-locale"><time>February 2009</time> &#8211; Present
+1631	Updating on-screen ticker with latest scores and sports news<br>	Updating on-screen ticker with latest scores and sports news<br>
+1632	Ireland</span></span><p class="description">Coordinate market activities: Dealing with customers via	warranty management
+1633	Istanbul et T&#xe9;h&#xe9;ran	Istanbul et T&#xe9;h&#xe9;ran
+1634	&#xf071; Pilotage du projet d&#x2019;am&#xe9;lioration de la comp&#xe9;titivit&#xe9; du site : Impac	&#xf071; Pilotage du projet d&#x2019;am&#xe9;lioration de la comp&#xe9;titivit&#xe9; du site : Impac
+1635	Achat	Maintenance
+1636	14001 et OHSAS 18001<br>	14001 et OHSAS 18001<br>
+1637	&#xf071; Mise en place des programmes d&#x2019;am&#xe9;lioration continue sur la zone : Impact 3%/an	&#xf071; Mise en place des programmes d&#x2019;am&#xe9;lioration continue sur la zone : Impact 3%/an
+1638	&#xf071; Encadrement de 4 ing&#xe9;nieurs d&#xe9;veloppement Performance industrielle groupe.</p></d	&#xf071; Encadrement de 4 ing&#xe9;nieurs d&#xe9;veloppement Performance industrielle groupe.</p></d
+1639	&#xf071; Chef de projet Site sur l&#x2019;impl&#xe9;mentation d&#x2019;un progiciel de G.P.A.O (JD E	&#xf071; Chef de projet Site sur l&#x2019;impl&#xe9;mentation d&#x2019;un progiciel de G.P.A.O (JD E
+1640	d&#x2019;ordonnancement et du syst&#xe8;me Assurance Qualit&#xe9; usine</p></div></div><div id="expe	d&#x2019;ordonnancement et du syst&#xe8;me Assurance Qualit&#xe9; usine</p></div></div><div id="expe
+1641	www.carrousel.eu<br>	www.carrousel.eu<br>
+1642	Serbien	Serbien
+1643	Participer au CODIR <br>	Participer au CODIR <br>
+1644	printers and other electronic devices. I also had to solve any IT related problems that occurred.<br	printers and other electronic devices. I also had to solve any IT related problems that occurred.<br
+1645	Fall 2011)<br>	Fall 2011)<br>
+1646	- Warping-based active twist concept for rotor blades<br>	- Warping-based active twist concept for rotor blades<br>
+1647	The Netherlands</span></span><p class="description">Traineeship <br>	The Netherlands</span></span><p class="description">Traineeship <br>
+1648	Osaka	Japan
+1649	Provided services in geosciences such as (but not limited to):<br>	Provided services in geosciences such as (but not limited to):<br>
+1650	Main characteristics of the position:<br>	Main characteristics of the position:<br>
+1651	Provided services in soil and groundwater contamination :<br>	Provided services in soil and groundwater contamination :<br>
+1652	France</span></span><p class="description">Gap year internship.<br>	France</span></span><p class="description">Gap year internship.<br>
+1653	principalement sous syt&#xe8;mes Linux	Gentoo
+1654	Hermes Academy: Distributed computing<br>	Hermes Academy: Distributed computing<br>
+1655	flat files and websites.<br>	flat files and websites.<br>
+1656	developing a tool in Java	capable of estimating the impact of the optical fiber&#39;s network saturation in the near future:<b
+1657	Griekenland	Griekenland
+1741	Zywiec County	Polska
+1742	Zambie	Zambie
+1743	Schweden	Schweden
+1744	Altele	Altele
+1745	Gora County	Polska
+1746	Anguila	Anguila
+1747	BielorrÃºssia	BielorrÃºssia
+1748	Moldawien	Moldawien
+1749	Ã„gypten	Ã„gypten
+1750	Grecja	Grecja
+1751	Secretarieel en International Business Studies</h4><h5><a href="https://www.linkedin.com/company/211	Netherlands</span></span><p class="description">Begeleiden van de invoering van de &quot;Drieslag Ta
+1752	Engels	LLB en Social Media verzorgen
+1753	Netherlands</span></span><p class="description">Docent	mentor
+1754	Netherlands</span></span><p class="description">Docent Engels voor eerstejaars mbo- en hbo-studenten	richting Hotel Management.</p></div></div><div id="experience-26466976" class="editable-item section
+1755	"ToggleClass"	{classname: 'view-all-skills'
+1756	BenÃ­n	BenÃ­n
+1757	Kielce County	Poland
+1758	Greater Poland District	Poland
+1759	Lan&#xe7;amento no mercado.<br>	Lan&#xe7;amento no mercado.<br>
+1760	Ungaria	Ungaria
+1761	Nova Jersey	Nova Jersey
+1762	&#x2022;Vizitarea clien&#x163;ilor &#x15f;i men&#x163;inerea &#xee;n permanen&#x163;&#x103; a contac	&#x2022;Vizitarea clien&#x163;ilor &#x15f;i men&#x163;inerea &#xee;n permanen&#x163;&#x103; a contac
+1763	Brasile	Brasile
+1764	Contea	Romania
+1765	West Pomeranian District	Polska
+1766	Bilgoraj County	Polska
+1767	AmapÃ¡	Brasil
+1768	Guayana Francesa	Guayana Francesa
+1769	Costa de Marfil	Costa de Marfil
+1770	Carolina del Sur	Estados Unidos
+1771	Guinea Ecuatorial	Guinea Ecuatorial
+1772	Coreia do Sul	Coreia do Sul
+1773	develop and retain the right calibre of staff to ensure delivery against targets. To manage the plan	develop and retain the right calibre of staff to ensure delivery against targets. To manage the plan
+1774	Romanya	Romanya
+1775	Lituania	Lituania
+1776	Portugalia	Portugalia
+1777	ëŒ€í•œë¯¼êµ­ ê´‘ì£¼ ë™êµ¬	ëŒ€í•œë¯¼êµ­ ê´‘ì£¼ ë™êµ¬
+1778	-\	Commercialisation de produits et mat&#xe9;riels d&#x2019;hygi&#xe8;ne. <br>	-\	Commercialisation de produits et mat&#xe9;riels d&#x2019;hygi&#xe8;ne. <br>
+1779	- Administration of claims at work-out <br>	- Administration of claims at work-out <br>
+1780	Buillt full legal background of the company - from its start: <br>	Buillt full legal background of the company - from its start: <br>
+1781	- development of the data-base management software<br>	- development of the data-base management software<br>
+1782	reorganizing of companies. Worked with 12 companies.</p></div></div><div id="experience-326391036" c	args ) {var positionID;if
+1783	GABORLEADS is gespecialiseerd in financieel interim-management.<br>	GABORLEADS is gespecialiseerd in financieel interim-management.<br>
+1784	Grote hoeveelheden data die op de een of andere manier geschoond moeten worden. <br>	Grote hoeveelheden data die op de een of andere manier geschoond moeten worden. <br>
+1785	Ð’ÐµÐ½Ð³Ñ€Ð¸Ñ	Ð’ÐµÐ½Ð³Ñ€Ð¸Ñ
+1786	blending	and packaging inks in batches ranging from 5 to 200 pounds.<br>
+1787	Enter customer orders and perform point of sale transactions.<br>	Enter customer orders and perform point of sale transactions.<br>
+1788	SC	May-July 1996<br>
+1789	Perform quality control tests using a variety of analytical instruments.<br>	Perform quality control tests using a variety of analytical instruments.<br>
+1790	Formulated custom ink colors on request.<br>	Formulated custom ink colors on request.<br>
+1791	Blend the proper weight of raw materials required to construct the final product.<br>	Blend the proper weight of raw materials required to construct the final product.<br>
+1792	000 employees.</p></div></div><script>$(function() {if (LI.Dialog) {LI.Dialog().submitEvent.subscrib	args ) {var positionID;if
+1793	competitive and company analyses (strategic	financial
+1794	complex projects that combine processes with technology to help clients achieve their business objec	complex projects that combine processes with technology to help clients achieve their business objec
+1795	packaging designs	made creative design and execution for full advertising campaigns. <br>
+1796	Hongarije	Hongarije
+1797	- quantity counting<br>	- quantity counting<br>
+1798	budget and detailed planning (incl. resource analysis for field workers	sub-contractor selection
+1799	-Schedule appointments for personal academic consultations for students and staff<br>	-Schedule appointments for personal academic consultations for students and staff<br>
+1800	-Resolving guest issues and completing special requests<br>	-Resolving guest issues and completing special requests<br>
+1801	implementation	maintenance and monitoring of department policies and procedures and performance standards<br>
+1802	GabÃ³n	GabÃ³n
+1803	arts &amp; crafts	music
+1804	&#x2022; Facilitated nutrition and physical activity lessons to 120 children through the Nutrition E	&#x2022; Facilitated nutrition and physical activity lessons to 120 children through the Nutrition E
+1805	copying	running errands
+1806	*Reconciled receivable and payable accounts for 50+ types of products and recorded daily transaction	*Reconciled receivable and payable accounts for 50+ types of products and recorded daily transaction
+1807	&#x2022;Collaborated with supervisor for the inventory management of over 400 different products<br>	&#x2022;Collaborated with supervisor for the inventory management of over 400 different products<br>
+1808	produced final statistics and entered data in the Administration of Exchange Control databases<br>	produced final statistics and entered data in the Administration of Exchange Control databases<br>
+1809	reading charts and making decisions on gold purchases</p></div></div><div id="experience-369114922" 	Guangdong
+1810	Opole County	Polska
+1811	&#x2022; Revenue modeling and market analysis for residential smart grid client<br>	&#x2022; Revenue modeling and market analysis for residential smart grid client<br>
+1868	SuÃ­Ã§a	SuÃ­Ã§a
+1869	ã‚°ã‚¢ãƒ‰ãƒ«ãƒ¼ãƒ—	ã‚°ã‚¢ãƒ‰ãƒ«ãƒ¼ãƒ—
+1870	- Develop new market and sales strategies and performing segment analysis <br>	- Develop new market and sales strategies and performing segment analysis <br>
+1871	-Assistance to regional Director of Sales &amp; Marketing<br>	-Assistance to regional Director of Sales &amp; Marketing<br>
+1872	Entertainment	Insurances
+1873	- Representing the hotel at road shows and market places <br>	- Representing the hotel at road shows and market places <br>
+1874	- Quality management <br>	- Quality management <br>
+1875	- Airline and crew handling<br>	- Airline and crew handling<br>
+1876	facturation et &#xe9;tablissement des devis via le logiciel INCADEA	facturation et &#xe9;tablissement des devis via le logiciel INCADEA
+1877	&#xf0fc;\	Mise &#xe0; jour du fichier des commandes secteurs <br>	&#xf0fc;\	Mise &#xe0; jour du fichier des commandes secteurs <br>
+1878	Informatique <br>	Informatique <br>
+1879	Analyzed Preliminary Title Reports and Appraisals <br>	Analyzed Preliminary Title Reports and Appraisals <br>
+1880	&#x2022;\	Respond to customer e-mail and speaking with customers in person<br>	&#x2022;\	Respond to customer e-mail and speaking with customers in person<br>
+1881	P&#xe9;trole	Gaz
+1882	Description:<br>	Description:<br>
+1883	Community of the Aba Tibetan and Qiang Autonomous Prefecture; <br>	Community of the Aba Tibetan and Qiang Autonomous Prefecture; <br>
+1884	Backtesting	<br>
+1885	Job description:<br>	Job description:<br>
+1886	sms	voice
+1887	&#x2022; Responsible for researching and analysing financial data for the Bloomberg Fundamentals and	&#x2022; Responsible for researching and analysing financial data for the Bloomberg Fundamentals and
+1888	&#x2022; Recording of accounts transactions <br>	&#x2022; Recording of accounts transactions <br>
+1889	{event:"after"	type:"html"});</script>
+1890	</li><li>Tennis	</li><li>footing.</li></ul></div></li><li id="personal-info" class="section-item editable-item no-ad
+1891	å¹¿ä¸œ ä½›å±±	å¹¿ä¸œ ä½›å±±
+1892	&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;-Search engine optimization<br>	&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;-Search engine optimization<br>
+1893	Conducted research for patents and chemical processes.<br>	Conducted research for patents and chemical processes.<br>
+1894	Jakarta</span></span><p class="description">My job description covers various aspects such teaching 	module development
+1895	SÃ£o TomÃ© e PrÃ­ncipe	SÃ£o TomÃ© e PrÃ­ncipe
+1896	Finanzas	Administracion general</p></div></div><div id="experience-237031806" class="editable-item section-it
+1897	Lead Contact for Client Communications<br>	Lead Contact for Client Communications<br>
+1898	productivity	quality
+1899	BulgÃ¡ria	BulgÃ¡ria
+1900	County Fermanagh	United Kingdom
+1901	Giappone	Giappone
+1902	Business Continuity.<br>	Business Continuity.<br>
+1903	Sabotage	Fraud and Espionage in Hospitals and the commercial world. Another decade in this brought the knowle
+1904	Polen	Polen
+1905	backups y restauraci&#xf3;n.<br>	backups y restauraci&#xf3;n.<br>
+1906	tanto f&#xed;sicos como en Cloud. Mantenimiento de bases de datos. Gesti&#xf3;n de la pol&#xed;tica 	reparaci&#xf3;n de port&#xe1;tiles. Configuraci&#xf3;n e instalaci&#xf3;n de programas siguiendo las
+1907	testing plan	and rollout plan
+1908	Canada Area</span></span><p class="description">Responsible for ensuring that the Society was repres	the Faculty of Graduate Studies
+1909	como en el Interior del pa&#xed;s.</p></div></div><div id="experience-269577405" class="editable-ite	Global Decision Support"/></strong></span></a></h5><h4>Supervisor</h4><h5><a href="/company/600466?t
+1910	Dzialdowo County	Polska
+1911	USEM Valle de Toluca	USEM Valle de Toluca
+1912	manejo de par&#xe1;metros e indicadores de productividad.</p></div></div><div id="experience-4240373	Mexico</span></span><p class="description">Se dise&#xf1;a y manda maquilar pijamas tipo Polar y fraz
+1913	Projeto de implanta&#xe7;&#xe3;o SAP ECC . <br>	Projeto de implanta&#xe7;&#xe3;o SAP ECC . <br>
+1914	na customiza&#xe7;&#xe3;o da Interface do SAP BW com o SAP BPC	al&#xe9;m de suporte a desenvolvimentos no m&#xf3;dulo BW. <br>
+1915	* Brasilcap (Banco do Brasil) - Centro RJ<br>	* Brasilcap (Banco do Brasil) - Centro RJ<br>
+1916	Projeto	implementa&#xe7;&#xe3;o
+1917	AustrÃ¡lie	AustrÃ¡lie
+1930	-dry milling<br>	-dry milling<br>
+1931	-wheat processing<br>	-wheat processing<br>
+1932	GA</span></span><p class="description">- Introduction to Aerospace Engineering	GA</span></span><p class="description">- Introduction to Aerospace Engineering
+1933	as a Mentor	I contribute to fostering a learning environment that encourages personal and team development on a 
+1934	Croatie	Croatie
+1935	Camerun	Camerun
+1936	- Planification comercial<br>	- Planification comercial<br>
+1937	Scheduled taxi rides for Medicaid clients<br>	Scheduled taxi rides for Medicaid clients<br>
+1938	accepted receiving stock<br>	accepted receiving stock<br>
+1939	Community Services (Rotary Club)	Community Services (Rotary Club)
+1940	Islas Marshall	Islas Marshall
+1941	Guest vocalist for many different artist&#39;s album releases.<br>	Guest vocalist for many different artist&#39;s album releases.<br>
+1942	&#x2022;Launched social media brand recognition and response mechanisms.<br>	&#x2022;Launched social media brand recognition and response mechanisms.<br>
+1943	co-hosted an average of events per year.</p></div></div><div id="experience-480610854" class="editab	Indiana</span></span><p class="description">&#x2022;Sold over $3500+ worth of cutlery every two week
+1944	&#x2022;Proficient in audio auditing technology used for voice-overs and phone interviews.<br>	&#x2022;Proficient in audio auditing technology used for voice-overs and phone interviews.<br>
+1945	County Armagh	United Kingdom
+1946	Hawaii Bankruptcy Bar Association (HBBA)	Hawaii Bankruptcy Bar Association (HBBA)
+1947	&#x2022; Develop and implement a plan to replace older hardware with new equipment<br>	&#x2022; Develop and implement a plan to replace older hardware with new equipment<br>
+1948	&#x2022;\	Develop and implement a plan to replace older hardware with new equipment<br>	&#x2022;\	Develop and implement a plan to replace older hardware with new equipment<br>
+1949	&#x2022;\	Project Manager on multiple Corporate and IT projects including company conversion from an 	&#x2022;\	Project Manager on multiple Corporate and IT projects including company conversion from an 
+1950	VM	Oracle and AS/400<br>
+1951	and designed corporate website<br>	and designed corporate website<br>
+1952	RoemeniÃ«	RoemeniÃ«
+1953	we cannot respond to e-mails through this site and any individualized follow-up involving either eff	or the rendering of personalized investment advice for compensation
+1954	2. Trauma care especially severe cuts and blunt force trauma<br>	2. Trauma care especially severe cuts and blunt force trauma<br>
+1955	2. Patriot act financial compliance officer<br>	2. Patriot act financial compliance officer<br>
+1956	2. Provided wound care <br>	2. Provided wound care <br>
+1957	Led accountability groups. <br>	Led accountability groups. <br>
+1958	management of plant historians AIM*/PHD. Along with NERC Compliance monitoring.</p></div></div><div 	process control
+1959	payroll track along with crew change tracking for Barge Line!</p></div></div><script>$(function(){if	args){var positionID;if
+1960	skin integrity	elimination and hygiene needs including bathing
+1961	utilizing professional.<br>	utilizing professional.<br>
+1962	which includes design and performance tuning of large Oracle 7 RDBMS systems for enterprise level ap	which includes design and performance tuning of large Oracle 7 RDBMS systems for enterprise level ap
+1963	Provided support for initial port of SunPC and WABI sub-systems from BSD 2.X to SVR4 Solaris. Genera	Provided support for initial port of SunPC and WABI sub-systems from BSD 2.X to SVR4 Solaris. Genera
+1964	protocol interpretation to assist in troubleshooting network contention problems of TCP/IP	Novell and XNS network technologies. <br>
+1965	The Cain Corporation<br>	The Cain Corporation<br>
+1966	Inc.<br>	Inc.<br>
+1967	Inc."/></strong></span></a></h5><h4>Scientist I</h4><h5><a href="/company/4237?trk=ppro_cprof">EMD S	Inc.</a></h5></header><span class="experience-date-locale"><time>2006</time> &#8211; <time>2012</tim
+1968	QC and cGMP training</p></div></div><script>$(function(){if(LI.Dialog){LI.Dialog().submitEvent.subsc	args){var positionID;if
+1969	supervision and operation of the contractor-run exhibit design	fabrication and event logistics functions. <br>
+1970	targeting leadership development of young professionals.<br>	targeting leadership development of young professionals.<br>
+1971	Jungferninseln (amerikanisch)	Jungferninseln (amerikanisch)
+1972	<a href='/search?search=&amp;keywords=Disabled+American+Veterans%0AMember&amp;sortCriteria=R&amp;kee	<a href='/search?search=&amp;keywords=Disabled+American+Veterans%0AMember&amp;sortCriteria=R&amp;kee
+1973	prospecting new Customers	and tracking lease
+1974	The Department will split soon to become<br>	The Department will split soon to become<br>
+1975	-Generating learning strategies for students.<br>	-Generating learning strategies for students.<br>
+1976	- Developed life skills as well as behavior modification skills for the special needs population<br>	- Developed life skills as well as behavior modification skills for the special needs population<br>
+1977	Consumer Behavior	Consumer Behavior
+1978	í”¼ì§€	í”¼ì§€
+1979	<a href='/search?search=&amp;keywords=GA%0ARising+Sun+Lodge+%2332&amp;sortCriteria=R&amp;keepFacets=	<a href='/search?search=&amp;keywords=GA%0ARising+Sun+Lodge+%2332&amp;sortCriteria=R&amp;keepFacets=
+1980	machinery and facility functions. Primary development functions growing the company from a small job	to a fully functional multiple job-processing manufacturers. Structure creation
+1981	catering and events to ensure smooth meetings and functions inside the building. Setup rooms and tec	catering and events to ensure smooth meetings and functions inside the building. Setup rooms and tec
+1982	Algerien	Algerien
+1983	Delivered worksheets and practice quizzes to help college student prepare for exams.<br>	Delivered worksheets and practice quizzes to help college student prepare for exams.<br>
+1984	Gave valuable feed back to senior engineers on what needs to be improved and bugs on the circuits.<b	Gave valuable feed back to senior engineers on what needs to be improved and bugs on the circuits.<b
+1985	including	but not limited to
+1986	Provided direction and visioning with leadership group<br>	Provided direction and visioning with leadership group<br>
+1987	Interact with team and President with communications regarding the organization<br>	Interact with team and President with communications regarding the organization<br>
+1988	Develop and manage departmental budgets and financial plans<br>	Develop and manage departmental budgets and financial plans<br>
+1989	å°ç£	å°ç£
+1990	- Coordinated event logistics for innovative fundraising campaigns to increase local &amp; national 	- Coordinated event logistics for innovative fundraising campaigns to increase local &amp; national 
+1991	screening	assignment
+1992	- Initiated &amp; cultivated long-term relationships with partners through active listening &amp; fo	- Initiated &amp; cultivated long-term relationships with partners through active listening &amp; fo
+1993	payment processing	and account maintenance</p></div></div><div id="experience-275880762" class="editable-item section-i
+1994	Oklahoma</span></span><p class="description">- Assisted in the preparation and implementation of Sea	Oklahoma</span></span><p class="description">- Assisted in the preparation and implementation of Sea
+1995	Oklahoma Area</span></span><p class="description">- Served in multiple team membership roles initiat	supervised Thunder Alley and concourse stations
+1996	My military education includes Basic Training; Military Police Advanced Individual Training; Army Sp	My military education includes Basic Training; Military Police Advanced Individual Training; Army Sp
+1997	and a couple years later move to hollywood florida were he manage Exential Dental inc.</p></div></di	also providing many jobs in the community.<br>
+1998	he will do it in a Miami minute	realizing he need it a new challenge!
+1999	Best Kept Secret&quot;	Zagat Rated 2004-2008</p></div></div><div id="experience-241976468" class="editable-item section-ite
+2000	- Story String Training 101 (audio only)<br>	- Story String Training 101 (audio only)<br>
+2001	&#x2022;\	Presented and sold Custom Trophy products to committee&#x2019;s and organizations.<br>	&#x2022;\	Presented and sold Custom Trophy products to committee&#x2019;s and organizations.<br>
+2002	2005. First year sales of $1.6m. 2006 sales of $2.1m.<br>	2005. First year sales of $1.6m. 2006 sales of $2.1m.<br>
+2003	Montana Broadcasters Association Radio Sales Person of the Year (Manning Award)\	1997<br>	Montana Broadcasters Association Radio Sales Person of the Year (Manning Award)\	1997<br>
+2004	*Worked all aspects of promoting and producing a PRCA Rodeo &amp; PBR Bull Riding<br>	*Worked all aspects of promoting and producing a PRCA Rodeo &amp; PBR Bull Riding<br>
+2005	white papers and/or reports in the areas of my expertise. I have been an intricate part of the solut	selection
+2006	Samuel DeWitt Proctor	School of Theology
+2007	I also am a free lance photographer<br>	I also am a free lance photographer<br>
+2008	4 wholesale<br>	4 wholesale<br>
+2009	ã‚¿ã‚¤ ãƒãƒ³ã‚³ã‚¯	ã‚¿ã‚¤ ãƒãƒ³ã‚³ã‚¯
+2010	and organize social events.</p></div></div><div id="experience-306421441" class="editable-item secti	compared source to CRF data
+2011	* District recognized by the brand as best trained in the company.<br>	* District recognized by the brand as best trained in the company.<br>
+2012	South Coast Geological Society	South Coast Geological Society
+2013	Int&#39;l - USA</h5></header><span class="experience-date-locale"><time>January 2009</time> &#8211; 	GA</span></span><p class="description">Responsible for the preparation of the financial statements i
+2014	North Carolina</span></span><p class="description">&#x2022;Duke student organization<br>	North Carolina</span></span><p class="description">&#x2022;Duke student organization<br>
+2015	state and local level. Also was part of the development team that<br>	state and local level. Also was part of the development team that<br>
+2016	management and vision necessary to ensure that the organization has the proper operational controls	administrative/reporting procedures
+2017	Inc.</h5></header><span class="experience-date-locale"><time>February 2009</time> &#8211; Present (5	Pennsylvania</span></span><p class="description">Manage a Pennsylvania banks retail and consumer lit
+2018	brief writing	and appellate work. <br>
+2019	&#x2022;\	Source and secured sponsorships and solicit in-kind donations.<br>	&#x2022;\	Source and secured sponsorships and solicit in-kind donations.<br>
+2020	increasing sales from $300-$1.5K <br>	increasing sales from $300-$1.5K <br>
+2021	&#x2022;\	Created proposals for event contract bids which increased sales by approximately 37% includ	&#x2022;\	Created proposals for event contract bids which increased sales by approximately 37% includ
+2022	If you owe back taxes to the IRS it is in your best interest to hire an experienced Tax Attorney. Th	If you owe back taxes to the IRS it is in your best interest to hire an experienced Tax Attorney. Th
+2023	Received a &#x201c;Grand Slam Performance&#x201d; Award for Ovations<br>	Received a &#x201c;Grand Slam Performance&#x201d; Award for Ovations<br>
+2024	*2013 Winner&#39;s Circle<br>	*2013 Winner&#39;s Circle<br>
+2025	*Consult with individuals to determine needs and propose solutions.<br>	*Consult with individuals to determine needs and propose solutions.<br>
+2026	Support executives with projects as assigned<br>	Support executives with projects as assigned<br>
+2027	Dean&#39;s List.</p></div></div></div><script>if(LI.Dialog){LI.Dialog().submitEvent.subscribe(functi	args){var educationID;if
+2028	Swasiland	Swasiland
+2029	- Preparing Class C misdemeanor cases for bench trial at Austin Municipal Court<br>	- Preparing Class C misdemeanor cases for bench trial at Austin Municipal Court<br>
+2030	- Drafted changes to regulations pertaining to required disclosures by credit access businesses<br>	- Drafted changes to regulations pertaining to required disclosures by credit access businesses<br>
+2031	- Contributed to open records request response letter; received favorable ruling for municipal clien	- Contributed to open records request response letter; received favorable ruling for municipal clien
+2032	- Helped plan and execute special events; recruited and coordinated 100+ volunteers<br>	- Helped plan and execute special events; recruited and coordinated 100+ volunteers<br>
+2033	events	and services<br>
+2034	- Publicized client activity using social media and tracked client-specific news information<br>	- Publicized client activity using social media and tracked client-specific news information<br>
+2035	&#x2022;\	Compiled a Human Resources Operations Manual<br>	&#x2022;\	Compiled a Human Resources Operations Manual<br>
+2036	&#x2022; Implemented a comprehensive performance management program to over 200 employees and manage	&#x2022; Implemented a comprehensive performance management program to over 200 employees and manage
+2037	Courses taught spanned from introductory to advanced.</p></div></div><div id="experience-200480038" 	Courses taught spanned from introductory to advanced.</p></div></div><div id="experience-200480038" 
+2038	&#x2022;\	Oversee inter-company transactions among seven business units and ensure they are reconcile	&#x2022;\	Oversee inter-company transactions among seven business units and ensure they are reconcile
+2039	Japan. <br>	Japan. <br>
+2040	payroll taxes and income tax returns.</p></div></div><script>$(function(){if(LI.Dialog){LI.Dialog().	args){var positionID;if
+2041	June 2013 - May 2014<br>	June 2013 - May 2014<br>
+2042	&#x2022;Support our contractors who are bidding on various HVAC construction projects by:<br>	&#x2022;Support our contractors who are bidding on various HVAC construction projects by:<br>
+2043	&#x2022;Upheld appropriate patient care and documentation<br>	&#x2022;Upheld appropriate patient care and documentation<br>
+2044	Oregon Area</span></span><p class="description">-Designed metrics framework for Talent Development g	000 person organization and all Integrated Talent Management.<br>
+2045	design	architecture
+2046	***Learn how to approach people that can help you gain employment<br>	***Learn how to approach people that can help you gain employment<br>
+2047	FÃ¦rÃ¸erne	FÃ¦rÃ¸erne
+2048	Q Sciences produces and sells a number of high quality Nutraceutical Grade Supplements.<br>	Q Sciences produces and sells a number of high quality Nutraceutical Grade Supplements.<br>
+2049	CO</span></span><p class="description">Assisted in pre-concert set up	and costumer service through out event.</p></div></div><div id="experience-481881290" class="editabl
+2050	Inc</h5></header><span class="experience-date-locale"><time>May 2011</time> &#8211; <time>August 201	IL</span></span><p class="description">Trusted floor sales person
+2051	goal-setting training practices and key benefits practices to all involved educators from participat	individual and group advising. <br>
+2052	&#x2022;\	Research coordination involving updating of viral communications and promotions correlating	&#x2022;\	Research coordination involving updating of viral communications and promotions correlating
+2053	&#x2022;Advises dental offices on speciality products and equipment. .<br>	&#x2022;Advises dental offices on speciality products and equipment. .<br>
+2054	approach for postsecondary developmental reading courses. This model<br>	approach for postsecondary developmental reading courses. This model<br>
+2055	Bosnia y Herzergovina	Bosnia y Herzergovina
+2056	RI</span></span><p class="description">&#x2022; Investigated the use of graphene nanomaterials as an	RI</span></span><p class="description">&#x2022; Investigated the use of graphene nanomaterials as an
+2057	Rhode Island Area</span></span><p class="description">&#x2022; Coached Brown undergraduates in scien	creative
+2058	&#x2022; Authored and presented an original research report on a public company including financial 	&#x2022; Authored and presented an original research report on a public company including financial 
+2059	D. B.; Owens	A. C. E.; Heinekey
+2060	Attainable Affordable Housing - 2012<br>	Attainable Affordable Housing - 2012<br>
+2061	Wodzislaw County	Polska
+2062	Ventilation and Air Conditioning<br>	Ventilation and Air Conditioning<br>
+2063	Master Gas<br>	Master Gas<br>
+2064	CA <br>	CA <br>
+2065	&#x2022; Applied sales cycle in qualifying prospects &amp; creating long-term client relationships<b	&#x2022; Applied sales cycle in qualifying prospects &amp; creating long-term client relationships<b
+2066	&#x2022; Increased UofA campus awareness with marketing campaigns &amp; public relations efforts <br	&#x2022; Increased UofA campus awareness with marketing campaigns &amp; public relations efforts <br
+2067	&#x2022; Assisted in developing &amp; implementing marketing ventures to promote boutique firm<br>	&#x2022; Assisted in developing &amp; implementing marketing ventures to promote boutique firm<br>
+2068	&#x2022; Trained 13 entry-level customer service employees on standard operating procedures<br>	&#x2022; Trained 13 entry-level customer service employees on standard operating procedures<br>
+2069	materials	purchasing
+2070	responsible for revenue production in the Merced Sun Star retail department including ROP	Online/Print packages
+2071	The project consists in strengthening and integrating Palliative Care into national health systems t	The project consists in strengthening and integrating Palliative Care into national health systems t
+2072	Bangalore	India.<br>
+2073	couples	individual
+2074	&#x2022;Requires Negotiation skills &#x2022;Self-Motivation &amp; Management skills &#x2022; Servant	&#x2022;Requires Negotiation skills &#x2022;Self-Motivation &amp; Management skills &#x2022; Servant
+2075	&#x2022;\	Evaluates IP associated with in-license and acquisition opportunities and has counseled cli	&#x2022;\	Evaluates IP associated with in-license and acquisition opportunities and has counseled cli
+2076	GYN 10%	General 5% &amp; Bariatric 5%)<br>
+2077	press releases	editorials and other materials for dissemination to various media outlets. Create pitches
+2078	track rental history	rental payments
+2079	Ensure articles are grammatically correct and sound and consistent with topic.<br>	Ensure articles are grammatically correct and sound and consistent with topic.<br>
+2080	Create and maintain member&#x2019;s files and accurate personnel documentation.<br>	Create and maintain member&#x2019;s files and accurate personnel documentation.<br>
+2081	&#x2022;\	Research and execute insight-driven communication strategies.<br>	&#x2022;\	Research and execute insight-driven communication strategies.<br>
+2082	including social media	email and online content.<br>
+2083	&#x2022;\	Attend entrepreneurship events to build relationships with key community partners &amp; obt	&#x2022;\	Attend entrepreneurship events to build relationships with key community partners &amp; obt
+2084	&#x2022;\	Attitudes toward employees with disabilities and female managers<br>	&#x2022;\	Attitudes toward employees with disabilities and female managers<br>
+2085	Wildfire studio is 24 track with all instruments a 40 channel mixer (analog) .We do tracks in Nashvi	Wildfire studio is 24 track with all instruments a 40 channel mixer (analog) .We do tracks in Nashvi
+2086	stopped by any human anything.<br>	stopped by any human anything.<br>
+2087	I worked for ATT for 32 years and did music on the side. I went to at least 100 digital schools<br>	I worked for ATT for 32 years and did music on the side. I went to at least 100 digital schools<br>
+2088	We are interested in anything music.</p></div></div><div id="experience-550195768" class="editable-i	We are interested in anything music.</p></div></div><div id="experience-550195768" class="editable-i
+2089	(Rock	R&amp;R
+2090	We are sending out postcards to radio to see if they will download or if they want cd&#39;s.<br>	We are sending out postcards to radio to see if they will download or if they want cd&#39;s.<br>
+2091	&#x2022;\	Created award-winning project management system to reduce change orders for Hart Freeland R	&#x2022;\	Created award-winning project management system to reduce change orders for Hart Freeland R
+2092	Ambulatory Surgery Centers across the country. My projects in Colorado were most rewarding. Can you 	Ambulatory Surgery Centers across the country. My projects in Colorado were most rewarding. Can you 
+2093	æ²³åŒ— ä¿å®š	æ²³åŒ— ä¿å®š
+2094	å¹¿ä¸œ å¹¿å·ž	å¹¿ä¸œ å¹¿å·ž
+2095	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ê¹€í¬	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ê¹€í¬
+2096	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ì•ˆì‚°	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ì•ˆì‚°
+2097	Human Resources management for 100+ employees<br>	Human Resources management for 100+ employees<br>
+2098	æ¹–åŒ— æ­¦æ±‰	æ¹–åŒ— æ­¦æ±‰
+2099	Wroclaw County	Polska
+2100	Kosovo	Kosovo
+2101	Cajas de Ahorro y Cr&#xe9;dito	Emprendimientos solidarios y Grupos de Mujeres y J&#xf3;venes. <br>
+2102	2002 - 2003.<br>	2002 - 2003.<br>
+2103	&#xf075; GMAC Mortgage<br>	&#xf075; GMAC Mortgage<br>
+2104	Gestion des appels d&#39;offres</p></div></div><div id="experience-406933990" class="editable-item s	Gestion des appels d&#39;offres</p></div></div><div id="experience-406933990" class="editable-item s
+2105	France</span></span></div></div><div id="experience-495003091" class="editable-item section-item"><d	France</span></span><p class="description">Pr&#xe9;paration du BTS Assistante de Direction en Altern
+2106	wrote comprehensive reports	and built valuation models for small-cap growth stocks in the medical technology and healthcare serv
+2107	&#x2022; Conducted qualitative VOC market research at over 20 key accounts to identify and prioritiz	&#x2022; Conducted qualitative VOC market research at over 20 key accounts to identify and prioritiz
+2108	formulated commercialization strategies	and presented recommendations for pediatric medical device to Board of Directors</p></div></div><div
+2109	&#x2022; Discovered 3 novel breast cancer drug candidates at the Keck-UW Comprehensive Cancer Center	&#x2022; Discovered 3 novel breast cancer drug candidates at the Keck-UW Comprehensive Cancer Center
+2110	MN</span></span><p class="description">&#x2022; TA for two undergraduate biochemistry courses<br>	MN</span></span><p class="description">&#x2022; TA for two undergraduate biochemistry courses<br>
+2111	consumer	and competitive information to support franchise managers in setting franchise vision.<br>
+2112	-\	work directly with customers to provide accurate and timely technical solutions<br>	-\	work directly with customers to provide accurate and timely technical solutions<br>
+2113	-\	computer generated construction documents using Javelin&#xae; and AutoCAD<br>	-\	computer generated construction documents using Javelin&#xae; and AutoCAD<br>
+2114	Redcar and Cleveland	United Kingdom
+2115	drainage	demolition
+2116	&#x2022;\	Prepared inventory for expected buyers on-demand<br>	&#x2022;\	Prepared inventory for expected buyers on-demand<br>
+2117	&#x2022;\	Participated in the boring and sampling of soils as part of the Morris Island Lighthouse re	&#x2022;\	Participated in the boring and sampling of soils as part of the Morris Island Lighthouse re
+2118	&#x2022;\	Operated trenching machinery<br>	&#x2022;\	Operated trenching machinery<br>
+2119	- Improved process to evaluate continuity plans and provide consultation with key customers<br>	- Improved process to evaluate continuity plans and provide consultation with key customers<br>
+2120	- Responsible for updates and maintenance of the City of Carrollton Emergency Management Plan<br>	- Responsible for updates and maintenance of the City of Carrollton Emergency Management Plan<br>
+2121	Criminology Spring 2007<br>	Criminology Spring 2007<br>
+2122	&#xb7; Improve gamma spectroscopy scripts to increase usability and effectiveness<br>	&#xb7; Improve gamma spectroscopy scripts to increase usability and effectiveness<br>
+2123	* Campus Card Consultant <br>	* Campus Card Consultant <br>
+2124	* Certified Business Consultant<br>	* Certified Business Consultant<br>
+2125	C.M.C. - Certified Management Consultant<br>	C.M.C. - Certified Management Consultant<br>
+2126	AZ</span></span><p class="description">* Formed Higher Education Division<br>	AZ</span></span><p class="description">* Formed Higher Education Division<br>
+2127	* Implemented Campus Card Systems<br>	* Implemented Campus Card Systems<br>
+2128	* Corporate Marketing Director<br>	* Corporate Marketing Director<br>
+2129	Manages 2 weekly Phoenix Metro community tennis events.<br>	Manages 2 weekly Phoenix Metro community tennis events.<br>
+2130	National Conference Speaker<br>	National Conference Speaker<br>
+2131	State Board of Directors (MN) - Former Board Member<br>	State Board of Directors (MN) - Former Board Member<br>
+2132	* WBCW-AM (Founder &amp; General Manager)<br>	* WBCW-AM (Founder &amp; General Manager)<br>
+2133	&#x2022;\	Survey and update GIS mapping system.<br>	&#x2022;\	Survey and update GIS mapping system.<br>
+2134	&#x2022;\	Served as a professional witness for PPL in multiple ALJ cases and depositions.<br>	&#x2022;\	Served as a professional witness for PPL in multiple ALJ cases and depositions.<br>
+2135	&#x2022;\	Checked medicals to make sure campers could safely take part in activities.</p></div></div>	&#x2022;\	Checked medicals to make sure campers could safely take part in activities.</p></div></div>
+2136	&#x2022;\	Trouble shot for communication issues for a data collection system.<br>	&#x2022;\	Trouble shot for communication issues for a data collection system.<br>
+2137	Focusing on:<br>	Focusing on:<br>
+2138	Other project work included:<br>	Other project work included:<br>
+2139	Process and Precision.<br>	Process and Precision.<br>
+2140	- Interventions dans des formations BTS MUC<br>	- Interventions dans des formations BTS MUC<br>
+2141	County Maine Democratic Party Committee <br>	County Maine Democratic Party Committee <br>
+2142	Awarded for Actively engaged in ground combat with an enemy of the United States.<br>	Awarded for Actively engaged in ground combat with an enemy of the United States.<br>
+2143	Debica County	Poland
+2144	Yugoslavia	Yugoslavia
+2145	an evident improvement in staff morale	value-added membership
+2146	&#x2022;\	Developed and implemented a mission partnership with regional Rotary Clubs. <br>	&#x2022;\	Developed and implemented a mission partnership with regional Rotary Clubs. <br>
+2147	&#x2022;\	Completed the funding and building of a $2.3 million construction project. <br>	&#x2022;\	Completed the funding and building of a $2.3 million construction project. <br>
+2148	&#x2022;\	Successfully balanced program income budget which grew from $2.8 million to $4.1 million ov	&#x2022;\	Successfully balanced program income budget which grew from $2.8 million to $4.1 million ov
+2149	000 Statler Foundation grant.<br>	000 Statler Foundation grant.<br>
+2150	Wells drilled:<br>	Wells drilled:<br>
+2151	L.L.C.</h5></header><span class="experience-date-locale"><time>December 2007</time> &#8211; <time>Ma	Louisiana</span></span><p class="description">Louisiana - Surface title research and ownership repor
+2152	Korea (North)	Korea (North)
+2153	debuting August 2013<br>	debuting August 2013<br>
+2154	&#x2022; Created editorial vision for bilingual content platform and established the voice of all En	&#x2022; Created editorial vision for bilingual content platform and established the voice of all En
+2155	increased uniques by 30+% and grew social media 300+%<br>	increased uniques by 30+% and grew social media 300+%<br>
+2156	- Plan and run the training sessions for Facility Assistants and Building Supervisors<br>	- Plan and run the training sessions for Facility Assistants and Building Supervisors<br>
+2157	New Jersey</span></span><p class="description">-Pool snack stand cook<br>	New Jersey</span></span><p class="description">-Pool snack stand cook<br>
+2158	Junior Officer	Junior Officer
+2159	-Have completed two short film screenplays.<br>	-Have completed two short film screenplays.<br>
+2160	-installed (in-ceiling) speakers. <br>	-installed (in-ceiling) speakers. <br>
+2161	Chartered Financial Consultant designation awarded by the American College<br>	Chartered Financial Consultant designation awarded by the American College<br>
+2162	graded assignments	led conversation groups
+2163	Saltwater and deep sea fishing keeps me busy in the summer.	Saltwater and deep sea fishing keeps me busy in the summer.
+2164	Western Monmouth Chamber of Commerce (WMCC) Circle of Excellence Recipient - Chamber Volunteer of th	Western Monmouth Chamber of Commerce (WMCC) Circle of Excellence Recipient - Chamber Volunteer of th
+2165	* Managed 3rd party add-on products and relationships. <br>	* Managed 3rd party add-on products and relationships. <br>
+2166	Assisted customers<br>	Assisted customers<br>
+2167	TOOLS AND HARDWARE FOR THE WIRELINE SERVICE INDUSTRY.<br>	TOOLS AND HARDWARE FOR THE WIRELINE SERVICE INDUSTRY.<br>
+2168	OF MANURACTURED PRODUCTS WITHIN THE PLANT.<br>	OF MANURACTURED PRODUCTS WITHIN THE PLANT.<br>
+2169	æ³°åœ‹	æ³°åœ‹
+2170	4th Marines Viet Nam<br>	4th Marines Viet Nam<br>
+2171	&#x2022; Monitoring non-production databases activities by reviewing daily log.<br>	&#x2022; Monitoring non-production databases activities by reviewing daily log.<br>
+2172	including relational table structure	normalizations
+2173	&#x2022;\	Working with development team members on interface design and system-impact analysis per th	&#x2022;\	Working with development team members on interface design and system-impact analysis per th
+2174	&#x2022;\	Performing business analysis to the State Workers&#x2019; Comp application (WCAP) with Busi	&#x2022;\	Performing business analysis to the State Workers&#x2019; Comp application (WCAP) with Busi
+2175	&#x2022;\	Developing specifications utilizing CAST and overseeing their execution using 4GL.<br>	&#x2022;\	Developing specifications utilizing CAST and overseeing their execution using 4GL.<br>
+2176	&#x2022;\	Collecting new utility billing system requirements by meeting with the division supervisor.	&#x2022;\	Collecting new utility billing system requirements by meeting with the division supervisor.
+2177	Gwangju	Korea
+2178	ãƒ•ã‚£ãƒªãƒ”ãƒ³	ãƒ•ã‚£ãƒªãƒ”ãƒ³
+2192	Cile	Cile
+2193	ì¤‘êµ­ ì‚°ë‘¥ ì˜Œíƒ€ì´	ì¤‘êµ­ ì‚°ë‘¥ ì˜Œíƒ€ì´
+2194	Visitas t&#xe9;cnicas a Empresas como Ambev e Bolsa de Valores SP puderam trazer uma vis&#xe3;o mais	Visitas t&#xe9;cnicas a Empresas como Ambev e Bolsa de Valores SP puderam trazer uma vis&#xe3;o mais
+2195	I worked in nearly all these capacities while interning there. <br>	I worked in nearly all these capacities while interning there. <br>
+2196	North Carolina</span></span><p class="description">Successfully complete short and long-term assignm	North Carolina</span></span><p class="description">Successfully complete short and long-term assignm
+2197	Water Taxi	Water Bus Fleet Design<br>
+2198	&#x2022;\	Participates with management team in developing clinic goals and working toward obtaining t	&#x2022;\	Participates with management team in developing clinic goals and working toward obtaining t
+2199	Medical Director of Respiratory Care</h4><h5>St. Martha&#39;s Regional Hospital</h5></header><span c	Medical Director MICU</h4><h5><a href="/company/16121?trk=ppro_cprof">Mount Sinai Hospital</a></h5><
+2200	analysis	and identify non best practice installations providing remediation strategy recommendations and time
+2201	&#x2022;\	Architectural design of database systems infrastructure including hardware and storage conf	&#x2022;\	Architectural design of database systems infrastructure including hardware and storage conf
+2202	bottlenecks and non-performing or missing indices using PSSDIAG	Profiler
+2203	Treasury Management System	CostPoint
+2204	&#x2022;\	Primary on call support 24x7 of core applications. <br>	&#x2022;\	Primary on call support 24x7 of core applications. <br>
+2205	and wire transfers as Production Control Specialist.<br>	and wire transfers as Production Control Specialist.<br>
+2206	Netbatch w/AS400 integration.<br>	Netbatch w/AS400 integration.<br>
+2207	&#x2022;\	Conduct weekly safety meetings<br>	&#x2022;\	Conduct weekly safety meetings<br>
+2208	and Evans &amp; Sutherland.</p></div></div><div id="experience-399243457" class="editable-item secti	Brown &amp; Faust</h5></header><span class="experience-date-locale"><time>1982</time> &#8211; <time>
+2209	purchase and GC. <br>	purchase and GC. <br>
+2210	- Evaluated technologies and custom client projects.<br>	- Evaluated technologies and custom client projects.<br>
+2211	- Managed system performance and security to prevent credit card fraud. <br>	- Managed system performance and security to prevent credit card fraud. <br>
+2212	&#x2022;\	Consistently rank among top 10% out of approximately 500 sales reps nationwide.<br>	&#x2022;\	Consistently rank among top 10% out of approximately 500 sales reps nationwide.<br>
+2213	Structural Elucidation and Total synthesis of Natural Products.<br>	Structural Elucidation and Total synthesis of Natural Products.<br>
+2214	sole proprietorship in 1990 has grown into a corporation with over 24 employees involved in sales	service and rental of radio communications products. Motorola is the major supplier of equipment
+2215	25U - Signal Support Systems Specialist<br>	25U - Signal Support Systems Specialist<br>
+2216	TX.<br>	TX.<br>
+2217	BraziliÃ«	BraziliÃ«
+2218	000 hp and 1 million ft-lb steam turbine powered main engines<br>	000 hp and 1 million ft-lb steam turbine powered main engines<br>
+2219	&#xf0d8;\	Part of the Financial Reporting Team which prepares the Financial Statements of the Bank as	&#xf0d8;\	Part of the Financial Reporting Team which prepares the Financial Statements of the Bank as
+2220	&#xf0d8; Involved myself in the prospective IPO work of Plastene India Limited in preparing:<br>	&#xf0d8; Involved myself in the prospective IPO work of Plastene India Limited in preparing:<br>
+2221	&#xf0a7;Review of request for Proposal from existing and potential customer and understand the scope	&#xf0a7;Review of request for Proposal from existing and potential customer and understand the scope
+2222	Tax Audit	Internal Audit);<br>
+2223	India</span></span><p class="description">*Statutory audit of companies (listed	public
+2224	Monmouthshire	United Kingdom
+2225	&#x2022;\	Generated and consulted new ideas with business unit management in strategic planning proce	&#x2022;\	Generated and consulted new ideas with business unit management in strategic planning proce
+2226	&#x2022;\	Created a positive work environment through employee engagement within the customer contact	&#x2022;\	Created a positive work environment through employee engagement within the customer contact
+2227	Tabasco	Campeche
+2228	Regional Peninsular<br>	Regional Peninsular<br>
+2229	9 Personas a cargo.</p></div></div><div id="experience-535015795" class="editable-item section-item"	9 Personas a cargo.</p></div></div><div id="experience-535015795" class="editable-item section-item"
+2230	4 Personas a cargo.</p></div></div><div id="experience-535018151" class="editable-item section-item"	4 Personas a cargo.</p></div></div><div id="experience-535018151" class="editable-item section-item"
+2231	Protection items like Rotor Blades	Wind Turbine Generator
+2232	&#x2022;Checking Invoice with PO.<br>	&#x2022;Checking Invoice with PO.<br>
+2233	sales and stock register.<br>	sales and stock register.<br>
+2234	management of templates. Financial statements	management of complete cycle
+2235	Horticultural Research	India</p></div></div><script>$
+2236	Auditorias internas<br>	Auditorias internas<br>
+2237	Vatican City State (Holy See)	Vatican City State (Holy See)
+2238	Budget Preparation<br>	Budget Preparation<br>
+2239	Finished Products	Ready to Eat
+2240	ëŒ€í•œë¯¼êµ­ ìš¸ì‚° ë™êµ¬	ëŒ€í•œë¯¼êµ­ ìš¸ì‚° ë™êµ¬
+2241	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ìš©ì¸	ëŒ€í•œë¯¼êµ­ ê²½ê¸°ë„ ìš©ì¸
+2242	å°ç£ æ–°åŒ—å¸‚	å°ç£ æ–°åŒ—å¸‚
+2243	å°ç£ å½°åŒ–ç¸£	å°ç£ å½°åŒ–ç¸£
+2244	http://www.inragedclothing.com/<br>	http://www.inragedclothing.com/<br>
+2245	Partner in clothing line and freelance designs.<br>	Partner in clothing line and freelance designs.<br>
+2246	Noruega	Noruega
+2247	ëŒ€í•œë¯¼êµ­ ì„œìš¸ êµ¬ë¡œêµ¬	ëŒ€í•œë¯¼êµ­ ì„œìš¸ êµ¬ë¡œêµ¬
+2248	Bedzin County	Poland
+2249	å°ç£ æ–°ç«¹ç¸£å¸‚	å°ç£ æ–°ç«¹ç¸£å¸‚
+2250	GroÃŸraum Minneapolis-St. Paul und Umgebung	GroÃŸraum Minneapolis-St. Paul und Umgebung
+2251	ä¸­å›½ åŒ—äº¬å¸‚åŒº	ä¸­å›½ åŒ—äº¬å¸‚åŒº
+2252	Acre	Brasil
+2253	Corea	Corea
+2254	Guidance &amp; Support for the same.</p></div></div><div id="experience-298255803" class="editable-i	000 Members &amp; 200
+2255	ì´ì§‘íŠ¸	ì´ì§‘íŠ¸
+2256	FINANCE: Direct and Indirect Taxes<br>	FINANCE: Direct and Indirect Taxes<br>
+2257	USA with offices in India and abroad. Specialised in Sales Distribution Network with active coordina	USA with offices in India and abroad. Specialised in Sales Distribution Network with active coordina
+2258	Promenade	Promenade
+2259	Miyagi	Japan
+2260	Hokkaido	Japan
+2261	Thailandia	Thailandia
+2262	Antarktis	Antarktis
+2263	Profit and Loss Statement	Cash Flow
+2264	1. Preparation of Quarterly &amp; Final Balance Sheet.<br>	1. Preparation of Quarterly &amp; Final Balance Sheet.<br>
+2265	Location : Pune<br>	Location : Pune<br>
+2266	Allocation of staff for audit engagements. <br>	Allocation of staff for audit engagements. <br>
+2267	Handling independently salestax assessments.<br>	Handling independently salestax assessments.<br>
+2268	&#x2022;Evaluation of internal control and accounting systems<br>	&#x2022;Evaluation of internal control and accounting systems<br>
+2269	&#x2022;\	Analysis of financial statements and data of peer companies.<br>	&#x2022;\	Analysis of financial statements and data of peer companies.<br>
+2270	&#x2022;\	Analysis of Revenue Booking System.<br>	&#x2022;\	Analysis of Revenue Booking System.<br>
+2271	day- to-day general ledger accounting and intercompany reconciliations for assigned functional areas	day- to-day general ledger accounting and intercompany reconciliations for assigned functional areas
+2272	&#xf0a7;\	Maintenance of Accounts:- I was responsible for supervising and maintenance of accounts of 	&#xf0a7;\	Maintenance of Accounts:- I was responsible for supervising and maintenance of accounts of 
+2273	* Income Tax Work<br>	* Income Tax Work<br>
+2274	&#xf0d8;\	Collection of data regarding Ground Rent &amp; Conditional SO from Sales BD <br>	&#xf0d8;\	Collection of data regarding Ground Rent &amp; Conditional SO from Sales BD <br>
+2275	&#xf0d8;\	Ensure fulfill all Regulatory Requirement (DOT &amp; TRAI) with in TAT and Calculation of L	&#xf0d8;\	Ensure fulfill all Regulatory Requirement (DOT &amp; TRAI) with in TAT and Calculation of L
+2276	Power &amp; fuel.<br>	Power &amp; fuel.<br>
+2277	accounting	Taxation :<br>
+2278	Transfer Pricing	Direct tax advisory and compliance. A team leader
+2279	tax and business advisory services.We Create and drive your business strategies with consultants who	tax and business advisory services.We Create and drive your business strategies with consultants who
+2280	&#x2022;\	Handling Credit control activity.<br>	&#x2022;\	Handling Credit control activity.<br>
+2281	&#x2022;\	Preparation of cost center wise expenditure on monthly basis and compared with the Budgeted	&#x2022;\	Preparation of cost center wise expenditure on monthly basis and compared with the Budgeted
+2282	&#x2022;\	Conducting Internal Audit Listed companies like of J.B. Pharmaceuticals Co. Ltd. and Privat	&#x2022;\	Conducting Internal Audit Listed companies like of J.B. Pharmaceuticals Co. Ltd. and Privat
+2283	financial systems	reports and schedules to improve forecast precision and standardize reporting procedures.<br>
+2284	Month - End Reporting to Group Management.<br>	Month - End Reporting to Group Management.<br>
+2285	&#x2022;\	Delivery of services and Service Levels as per SOW<br>	&#x2022;\	Delivery of services and Service Levels as per SOW<br>
+2286	1. Underwriting of Housing Loan- All self employed cases.<br>	1. Underwriting of Housing Loan- All self employed cases.<br>
+2287	2. Analysis of Financial of Borrowers. <br>	2. Analysis of Financial of Borrowers. <br>
+2288	quarterly and annual financial statements and as per Indian GAAP and IFRS	<br>
+2289	India</span></span><p class="description">&#x2022; Conducted statutory audit and tax audits of vario	India</span></span><p class="description">&#x2022; Conducted statutory audit and tax audits of vario
+2290	monitoring	management &amp; reporting
+2291	proprietors and partnership firms.</p></div></div><div id="experience-221450873" class="editable-ite	filing of online Income Tax returns
+2292	&#xf0d8;\	Assembling overall accounts in head office IC Colony from Showroom present in LT Road &amp;	&#xf0d8;\	Assembling overall accounts in head office IC Colony from Showroom present in LT Road &amp;
+2293	Tax Audits and Limited Reviews of listed companies.<br>	Tax Audits and Limited Reviews of listed companies.<br>
+2294	Records and Statements in the process of Finalization of Accounts.<br>	Records and Statements in the process of Finalization of Accounts.<br>
+2295	Hedge funds financial reviews<br>	Hedge funds financial reviews<br>
+2296	Reserve Bank of India Empanneled Bank Auditor.<br>	Reserve Bank of India Empanneled Bank Auditor.<br>
+2297	&#x2022;\	Develop systems to allow the submission of regular and timely monthly reports and accountin	&#x2022;\	Develop systems to allow the submission of regular and timely monthly reports and accountin
+2298	&#x2022;\	Develop and maintain systems to ensure comprehensive business planning exercises are undert	&#x2022;\	Develop and maintain systems to ensure comprehensive business planning exercises are undert
+2299	&#x2022;\	Preparing Consolidated Statement<br>	&#x2022;\	Preparing Consolidated Statement<br>
+2300	&#x2022;\	Projected Cash Flow Statement<br>	&#x2022;\	Projected Cash Flow Statement<br>
+2301	cheques<br>	cheques<br>
+2302	&#x2022;\	Incentive valuations<br>	&#x2022;\	Incentive valuations<br>
+2303	&#x2022;\	Finalization of Accounts (as per Revised Schedule VI)<br>	&#x2022;\	Finalization of Accounts (as per Revised Schedule VI)<br>
+2304	India</span></span><p class="description">Accounting	Auditing
+2305	estimation of cash flow	Maintaing daily and weekly cash flows
+2306	costing and finance services while complying with all legislative and corporate requirements. <br>	costing and finance services while complying with all legislative and corporate requirements. <br>
+2307	MIS &amp; reporting review.<br>	MIS &amp; reporting review.<br>
+2308	Preparation of Reconciliation of PF &amp; ESIC<br>	Preparation of Reconciliation of PF &amp; ESIC<br>
+2309	Making Balance Sheets as per future projections<br>	Making Balance Sheets as per future projections<br>
+2310	Carrying out Due diligence of target companies and preparing reports and budget analysis. <br>	Carrying out Due diligence of target companies and preparing reports and budget analysis. <br>
+2311	Accountable for formulating the following<br>	Accountable for formulating the following<br>
+2312	HUF	Partnership
+2313	o\	Indirect Taxation related issues<br>	o\	Indirect Taxation related issues<br>
+2314	firms	companies
+2315	Mining	Agro Food Products
+2316	Cost &amp; Audit</h4><h5>SWOT Professional Education Centre</h5></header><span class="experience-dat	India</span></span><p class="description">SWOT Professional Education Centre - A complete Guidance I
+2317	&#x2022;\	Preparing the company for Private Equity investments.<br>	&#x2022;\	Preparing the company for Private Equity investments.<br>
+2318	loan syndication.<br>	loan syndication.<br>
+2319	State Bank of India.<br>	State Bank of India.<br>
+2320	Finalisation of accounts.<br>	Finalisation of accounts.<br>
+2321	Management of CAPEX and Working Capital<br>	Management of CAPEX and Working Capital<br>
+2322	Bhilai (C.G.) and Bank of Baroda	Raipur
+2323	India</span></span></div></div><div id="experience-202493158" class="editable-item section-item"><di	India</span></span></div></div><div id="experience-202493282" class="editable-item section-item"><di
+2324	Responsible for Internal audit of the plant progress<br>	Responsible for Internal audit of the plant progress<br>
+2325	C.A (Professional Education II) - (1st Attempt)	C.A (Professional Education II) - (1st Attempt)
+2326	&#x2022;\	Maintaining record of proposals submitted branch and their disposal. <br>	&#x2022;\	Maintaining record of proposals submitted branch and their disposal. <br>
+2327	Responsibilities Include;<br>	Responsibilities Include;<br>
+2328	CST	Service Tax
+2329	Statutory Auudit<br>	Statutory Auudit<br>
+2330	Audits	Accounting
+2331	Daman & Diu	India
+2332	&#x2022;\	Successfully handled the transition of UK Fixed Asset Reporting Project from UK to India.<b	&#x2022;\	Successfully handled the transition of UK Fixed Asset Reporting Project from UK to India.<b
+2333	Chennai	Chennai
+2334	analysis of production &amp; sales data	product wise costing &amp; profitability
+2335	&#x2022;\	Finalisation of the books of accounts<br>	&#x2022;\	Finalisation of the books of accounts<br>
+2336	Preparation of Valuation Report for Merger and Acquisitions Purposes <br>	Preparation of Valuation Report for Merger and Acquisitions Purposes <br>
+2337	TAX CONSULTANTS<br>	TAX CONSULTANTS<br>
+2338	- Developing Financial Plans.<br>	- Developing Financial Plans.<br>
+2339	My specific scope of work includes<br>	My specific scope of work includes<br>
+2340	Managing the complete planning and management activities for ensuring completion of various types of	Managing the complete planning and management activities for ensuring completion of various types of
+2341	2) COMPANY INCORPORATION &amp; ROC RETURNS<br>	2) COMPANY INCORPORATION &amp; ROC RETURNS<br>
+2342	Company Law	<br>
+2343	pre-paid	deferrals).<br>
+2344	1 Departmental procedures.<br>	1 Departmental procedures.<br>
+2345	&#x2022;\	Finalisation Statutory audits of Private limited companies.<br>	&#x2022;\	Finalisation Statutory audits of Private limited companies.<br>
+2346	Service Tax &amp; VAT.<br>	Service Tax &amp; VAT.<br>
+2347	&#x2022;\	Statutory Audit of various Banks<br>	&#x2022;\	Statutory Audit of various Banks<br>
+2348	2) Administration of Accounts &amp; Finance at client business Units<br>	2) Administration of Accounts &amp; Finance at client business Units<br>
+2349	2) Handled transaction from its initiation to its execution in Balance Sheet.\	<br>	2) Handled transaction from its initiation to its execution in Balance Sheet.\	<br>
+2350	2)\	Preparation of Management report and Executive summaries<br>	2)\	Preparation of Management report and Executive summaries<br>
+2351	Preparation &amp; Filing of Income Tax Returns for various assessees.<br>	Preparation &amp; Filing of Income Tax Returns for various assessees.<br>
+2352	<a href='/search?search=&amp;keywords=Tanzania%0AMember+of+the+Institute+of+Forensic+Accountants&amp	<a href='/search?search=&amp;keywords=Tanzania%0AMember+of+the+Institute+of+Forensic+Accountants&amp
+2353	&#x2022;\	Working upon the determination of the VAT Scheme for the various projects.<br>	&#x2022;\	Working upon the determination of the VAT Scheme for the various projects.<br>
+2354	control and compliance environment for India operations.<br>	control and compliance environment for India operations.<br>
+2355	region / division / corporate teams and worldwide affiliates.<br>	region / division / corporate teams and worldwide affiliates.<br>
+2356	&#x2022; MIS reporting and controlling quarterly reporting in compliance of Stock Exchange norms.<br	&#x2022; MIS reporting and controlling quarterly reporting in compliance of Stock Exchange norms.<br
+2357	disproportionately rewards high performance and enables us team members to evolve to our full potent	disproportionately rewards high performance and enables us team members to evolve to our full potent
+2358	Tax Audit<br>	Tax Audit<br>
+2359	&#xf0d8;\	Construction of roads and building. <br>	&#xf0d8;\	Construction of roads and building. <br>
+2360	2) Client representation before department authorities &amp; appellate authorities<br>	2) Client representation before department authorities &amp; appellate authorities<br>
+2361	Depreciation Computations and Accounting and Maintaining Fixed Assets Register.<br>	Depreciation Computations and Accounting and Maintaining Fixed Assets Register.<br>
+2362	-Review of the daily PnL amongst it various components.<br>	-Review of the daily PnL amongst it various components.<br>
+2363	India</span></span></div></div><div id="experience-235767407" class="editable-item section-item"><di	India</span></span></div></div><div id="experience-43246425" class="editable-item section-item"><div
+2364	mutual trust and Communicate for impact competencies<br>	mutual trust and Communicate for impact competencies<br>
+2365	Consolidation of Annual budgets and quarterly role over plans from different departments.<br>	Consolidation of Annual budgets and quarterly role over plans from different departments.<br>
+2366	Project Financial planning	corporate reporting..</p></div></div><div id="experience-125756985" class="editable-item section-ite
+2367	Internal Audit	Tax Audit
+2368	Chartered Accountants</h5></header><span class="experience-date-locale"><time>August 2009</time> &#8	Certification Services
+2369	Roc Filling <br>	Roc Filling <br>
+2370	Preparation of accounting records of the client.<br>	Preparation of accounting records of the client.<br>
+2371	&#xf0d8;\	Risk Management:<br>	&#xf0d8;\	Risk Management:<br>
+2372	&#x2022; Analysis of product performance including sectoral analysis; interpretation of results and 	&#x2022; Analysis of product performance including sectoral analysis; interpretation of results and 
+2373	2. Stock Audit.<br>	2. Stock Audit.<br>
+2374	2. Statutory Audit.<br>	2. Statutory Audit.<br>
+2375	2. Managing the audit team<br>	2. Managing the audit team<br>
+2376	Taxation<br>	Taxation<br>
+2377	Compilation of Financial Statement and Compliance Related Works under Income Tax Act.</p></div></div	args){var positionID;if
+2378	2.Process Review of Purchase and added the method of taking rates by Mail and Fax.<br>	2.Process Review of Purchase and added the method of taking rates by Mail and Fax.<br>
+2379	Reviewing Accounts with Accounting Standards	AAS
+2380	offers diversified consulting services to the clients right from business startup to marketing the p	India</span></span><p class="description">Internal Audit Planning and Supervision
+2381	Somali	Somali
+2382	KaapverdiÃ«	KaapverdiÃ«
+2383	TaiwÃ¡n	TaiwÃ¡n
+2384	Development of R&amp;D projects; to mention: Orbisat SA ( R&amp;D about a solid state radar); INPE (	Development of R&amp;D projects; to mention: Orbisat SA ( R&amp;D about a solid state radar); INPE (
+2385	-cracked screens<br>	-cracked screens<br>
+2386	Polonia	Polonia
+2387	Falkland Islands (Malvinas)	Falkland Islands (Malvinas)
+2388	SuÃ©cia	SuÃ©cia
+2389	SÃ£o Vicente e Granadinas	SÃ£o Vicente e Granadinas
+2390	MÃ´naco	MÃ´naco
+2391	&#x2022;\	Direct sunlight-to-fuels production<br>	&#x2022;\	Direct sunlight-to-fuels production<br>
+2392	Contabilidad	Relaciones Internacionales.</p></div></div><div id="experience-264377766" class="editable-item secti
+2393	NY</span></span></div></div><script>$(function(){if(LI.Dialog){LI.Dialog().submitEvent.subscribe(fun	args){var positionID;if
+2394	ColÃ´mbia	ColÃ´mbia
+2395	Contact insurance carriers to obtain needed information to properly\	identify and process payments.<b	Contact insurance carriers to obtain needed information to properly\	identify and process payments.<b
+2447	Podlaskie District	Polska
+2448	NicarÃ¡gua	NicarÃ¡gua
+2449	Pre-Draft Preparation<br>	Pre-Draft Preparation<br>
+2450	Progressive heavy impact metal!<br>	Progressive heavy impact metal!<br>
+2451	Medici&#xf3;n del desempe&#xf1;o de las actividades de mercadeo/Definici&#xf3;n de m&#xe9;tricas cua	Medici&#xf3;n del desempe&#xf1;o de las actividades de mercadeo/Definici&#xf3;n de m&#xe9;tricas cua
+2452	Licensed to sale Freon <br>	Licensed to sale Freon <br>
+2453	Naciones del Caribe	Naciones del Caribe
+2454	Tensi&#xf3;n	Solidez
+2455	sistemas e planilhas de controles que auxiliam a administra&#xe7;&#xe3;o financeira e a redu&#xe7;&#	desenvolvimento do &#x201c;Procedimento de Administra&#xe7;&#xe3;o de Contrato&#x201d;
+2456	log&#xed;stica	estoques e recursos humanos
+2457	Integration &amp; Maintenance	<br>
+2458	Grajewo County	Polska
+2459	Exercise Science Club	Exercise Science Club
+2460	MIS expert (HR metrics; KPI)<br>	MIS expert (HR metrics; KPI)<br>
+2461	Cr&#xe9;ation du Restaurant<br>	Cr&#xe9;ation du Restaurant<br>
+2462	BÃ³snia e Herzegovina	BÃ³snia e Herzegovina
+2463	commercial	and industrial proposals<br>
+2464	- Delivered new site 2 months ahead of schedule and for 25% of projected cost<br>	- Delivered new site 2 months ahead of schedule and for 25% of projected cost<br>
+2465	--Developed interactive websites and online outreach tools for General Plan Updates<br>	--Developed interactive websites and online outreach tools for General Plan Updates<br>
+2466	student progress and web interface programs</p></div></div><div id="experience-329919869" class="edi	student progress and web interface programs</p></div></div><div id="experience-329919869" class="edi
+2467	fundraising	communications and web development<br>
+2468	MA</span></span><p class="description">--Trained 500 students annually in international policy and d	MA</span></span><p class="description">--Trained 500 students annually in international policy and d
+2469	career and gang intervention programs<br>	career and gang intervention programs<br>
+2470	Planejamento e implanta&#xe7;&#xe3;o de campanhas publicit&#xe1;rias e jobs pontuais; <br>	Planejamento e implanta&#xe7;&#xe3;o de campanhas publicit&#xe1;rias e jobs pontuais; <br>
+2471	Nowy Targ County	Polska
+2478	NamÃ­bia	NamÃ­bia
+2479	It currently focuses on the collection of war stories and cultural know-how.<br>	It currently focuses on the collection of war stories and cultural know-how.<br>
+2480	Idaho</span></span><p class="description">I engaged in the b|launched program where teams were expec	Idaho</span></span><p class="description">I engaged in the b|launched program where teams were expec
+2481	AZ</span></span><p class="description">Worked as an aid to the professor grading and teaching<br>	AZ</span></span><p class="description">Worked as an aid to the professor grading and teaching<br>
+2482	assistant conseiller bancaire	r&#xe9;daction et mise en place de partenariats entre le LCL et des personnes morales comme des asso
+2483	SAP - UNIX - WINDOWS <br>	SAP - UNIX - WINDOWS <br>
+2484	An&#xe1;lisis de Procesos Financieros.<br>	An&#xe1;lisis de Procesos Financieros.<br>
+2485	-Manejo de Empleados Internos y Externos<br>	-Manejo de Empleados Internos y Externos<br>
+2486	Rivadavia 2151 Piso 13 Dpto B (estaci&#xf3;n Pasco L&#xed;nea A)</p></div></div><div id="experience-	Rivadavia 2151 Piso 13 Dpto B (estaci&#xf3;n Pasco L&#xed;nea A)</p></div></div><div id="experience-
+2487	Catar	Catar
+2488	Deporte	Deporte
+2489	Capacitaci&#xf3;n en prevenci&#xf3;n de riesgos. <br>	Capacitaci&#xf3;n en prevenci&#xf3;n de riesgos. <br>
+2490	ISO 14000	OHSAS 18000
+2491	Brazil</span></span><p class="description">Respons&#xe1;vel pela recep&#xe7;&#xe3;o de equipamentos	testes iniciais e montagem e manuten&#xe7;&#xe3;o de computadores.</p></div></div><div id="experienc
+2492	R&#xe9;diger des cahiers des charges<br>	R&#xe9;diger des cahiers des charges<br>
+2493	premier	and sensitive clients.<br>
+2494	&#x2022; Maintained day to day activities for Equity Derivative confirmations and other Non-fixed in	&#x2022; Maintained day to day activities for Equity Derivative confirmations and other Non-fixed in
+2495	purchases	exchanges
+2496	Norvegia	Norvegia
+2497	Development of products.<br>	Development of products.<br>
+2498	Libia	Libia
+2499	equip.	and services.<br>
+2500	Evaluated	and Analyzed Data.<br>
+2501	Isle of Wight	United Kingdom
+2502	Moldavie	Moldavie
+2503	Bermudas	Bermudas
+2504	Iowa e RegiÃ£o	Estados Unidos
+2505	Territorio BritÃ¡nico del OcÃ©ano Ãndico	Territorio BritÃ¡nico del OcÃ©ano Ãndico
+2506	Lesoto	Lesoto
+2507	Serbie	Serbie
+2508	IQPF OF QUEBEC	IQPF OF QUEBEC
+2509	&#x2022;Assisted Registered Nurses with patient care<br>	&#x2022;Assisted Registered Nurses with patient care<br>
+2510	grooming	feeding<br>
+2511	&#x2022;\	Review scope of projects and technical commercial proposals (BIDs) in order to evaluate con	&#x2022;\	Review scope of projects and technical commercial proposals (BIDs) in order to evaluate con
+2512	&#xf097;\	Responsible for the day to day management of a multidiscipline Engineering organization. <b	&#xf097;\	Responsible for the day to day management of a multidiscipline Engineering organization. <b
+2513	IslÃ¢ndia	IslÃ¢ndia
+2514	Atualmente disponibilizamos cacha&#xe7;as armazenadas em diferentes tipos de madeira ou pura destina	Atualmente disponibilizamos cacha&#xe7;as armazenadas em diferentes tipos de madeira ou pura destina
+2515	Orient resident to facility layout and services and ensure quality care is being provided.<br>	Orient resident to facility layout and services and ensure quality care is being provided.<br>
+2516	food preparation	clean up
+2517	CONTROL DE OBRAS CIVILES. y HABILITACIONES<br>	CONTROL DE OBRAS CIVILES. y HABILITACIONES<br>
+2518	Groenlandia	Groenlandia
+2519	Arabia Saudita	Arabia Saudita
+2520	Titulo obtenido tecnico dental<br>	Titulo obtenido tecnico dental<br>
+2521	Malasia	Malasia
+2522	pr&#xe9;paration et livraison d&#39;un MDC (DATA CENTER MODULAIRE)	bascules
+2523	Wieliczka County	Poland
+2524	Ltd."/></strong></span></a></h5><h4>Safety Tech</h4><h5><a href="/company/502524?trk=ppro_cprof">JV 	Ltd.</a></h5></header><span class="experience-date-locale"><time>March 2014</time> &#8211; <time>May
+2525	provide material assistance	and help them with projects at their homes and churches. </p><script type="text/javascript">LI.i18n.
+2526	&#x2022; Maintain a properly merchandised counter while proficiently closing the retail sale<br>	&#x2022; Maintain a properly merchandised counter while proficiently closing the retail sale<br>
+2527	&#x2022; Report directly to the Sales Director of North America<br>	&#x2022; Report directly to the Sales Director of North America<br>
+2528	&#x2022; Answer queries regarding our store and company history<br>	&#x2022; Answer queries regarding our store and company history<br>
+2529	&#x2022; Built Individual and vendor line sales<br>	&#x2022; Built Individual and vendor line sales<br>
+2530	&#x2022; Facilitated new promotion/product launches<br>	&#x2022; Facilitated new promotion/product launches<br>
+2531	å¹¿ä¸œ æ·±åœ³	å¹¿ä¸œ æ·±åœ³
+2532	Stargard County	Polska
+2533	Srbsko	Srbsko
+2534	Turchia	Turchia
+2535	Olesnica County	Polska
+2536	Hainan	China
+2537	games e sites.<br>	games e sites.<br>
+2538	Antilhas Holandesas	Antilhas Holandesas
+2539	Uruguai	Uruguai
+2540	&#x2022; Train students in project management and the application of computer-aided product and proc	&#x2022; Train students in project management and the application of computer-aided product and proc
+2541	hydraulic systems repair	and custom equipment upgrades<br>
+2542	vendor quality control	and supply chain management that resulted in decreased over-production and the elimination of unnece
+2543	Jeju-do	Korea
+2544	Roofing and General Contracting<br>	Roofing and General Contracting<br>
+2545	planned &amp; restructured timelines	coordinated tasks
+2546	&#x2022; Lead coordinator on John Deere&#x2019;s co-op SEM program<br>	&#x2022; Lead coordinator on John Deere&#x2019;s co-op SEM program<br>
+2547	keyword drafting	ad words copy writing
+2548	&#xf0b7; Ensure estimates and orders are handled professionally and meet client quality expectations	&#xf0b7; Ensure estimates and orders are handled professionally and meet client quality expectations
+2549	&#xf0b7; Operated other pressroom equipment as needed.<br>	&#xf0b7; Operated other pressroom equipment as needed.<br>
+2550	Lussemburgo	Lussemburgo
+2551	quarterly and significant changes MDS assessments. <br>	quarterly and significant changes MDS assessments. <br>
+2552	HaitÃ­	HaitÃ­
+2553	</span><span class="major"><a href="/edu/fos?id=101448&amp;trk=prof-edu-field_of_study" title="Explo	args){var educationID;if
+2554	including the installations	usage and analysis output of the media software<br>
+2555	Namibie	Namibie
+2556	Louisiana e RegiÃ£o	Estados Unidos
+2557	along with supporting all of the coworker functions put on throughout the year. <br>	along with supporting all of the coworker functions put on throughout the year. <br>
+2558	&#x2022;\	Taught all of the SULTAN training classes and earned the title &#x201c;mattress guru&#x201d	&#x2022;\	Taught all of the SULTAN training classes and earned the title &#x201c;mattress guru&#x201d
+2559	implemented	and maintained the filing system for contracts
+2560	-. Belisario choir</p></div></div></div><div id="education-222082531" class="editable-item section-i	-. Belisario choir</p></div></div></div><div id="education-222082531" class="editable-item section-i
+2561	A-Level German Prize<br>	A-Level German Prize<br>
+2562	behandeling<br>	behandeling<br>
+2563	Launched a new research project investigating engineering team dynamics and what factors effect a te	Launched a new research project investigating engineering team dynamics and what factors effect a te
+2564	Metallurgical Thermodynamics</p></div></div><div id="experience-235100012" class="editable-item sect	Germany</span></span><p class="description">Dissertation Topic: Hydrometallurgical Recovery of Tellu
+2565	Short Correction Program (EW Tankhouse)	Alternative Anode Implementation</p></div></div><div id="experience-235104539" class="editable-item 
+2566	2012-2013<br>	2012-2013<br>
+2567	Among my roles for PreSelect I engaged in the following:<br>	Among my roles for PreSelect I engaged in the following:<br>
+2568	ä¸­åœ‹	ä¸­åœ‹
+2569	ordering	shipping
+2570	Distributed and took inventory of the company&#39;s parking validations<br>	Distributed and took inventory of the company&#39;s parking validations<br>
+2571	Work to resolve maintenance and access problems with student housing assignments.<br>	Work to resolve maintenance and access problems with student housing assignments.<br>
+2572	Handle parent and student inquiries about housing policy via phone and in person.<br>	Handle parent and student inquiries about housing policy via phone and in person.<br>
+2573	Co-create new seventh grade level curriculum in small group setting.<br>	Co-create new seventh grade level curriculum in small group setting.<br>
+2574	MD</span></span><p class="description">-Provided secretarial services to the Communications Director	MD</span></span><p class="description">-Provided secretarial services to the Communications Director
+2575	CAST:<br>	CAST:<br>
+2576	Twitter and Instagram updates and interaction for various outlets including Hootsuite usage.<br>	Twitter and Instagram updates and interaction for various outlets including Hootsuite usage.<br>
+2577	Twitter and Instagram updates and interaction for various outlets including Hootsuite usage. <br>	Twitter and Instagram updates and interaction for various outlets including Hootsuite usage. <br>
+2578	East Lothian	United Kingdom
+2579	and answer life questions giving life solutions to the querent.</p></div></div><div id="experience-2	NM</span></span><p class="description">I am currently a Reiki Master Level 18
+2580	Evaluates job site to assess optimal placement of satellite dish and communicates with clients to re	Evaluates job site to assess optimal placement of satellite dish and communicates with clients to re
+2581	suggesting preventive maintenance and customer interactions.<br>	suggesting preventive maintenance and customer interactions.<br>
+2582	shop drawings	hydraulic and electrical schematics to ensure proper application and installation of equipment.<br>
+2583	Klodzko County	Polska
+2584	verlonen en factureren vinden plaats in dit pakket en nagenoeg alle KPI&#x2019;s komen hieruit. <br>	verlonen en factureren vinden plaats in dit pakket en nagenoeg alle KPI&#x2019;s komen hieruit. <br>
+2585	Chase Manhattan Leasing Company<br>	Chase Manhattan Leasing Company<br>
+2586	P.T. Chase Leasing Indonesia<br>	P.T. Chase Leasing Indonesia<br>
+2587	Investment Banking Group<br>	Investment Banking Group<br>
+2588	Mlawa County	Polska
+2589	Argentinien	Argentinien
+2590	Gathering data<br>	Gathering data<br>
+2591	Playing football	Playing football
+2592	chutes	feeders
+2593	Mills (Sag milland Ball mill) meintence jobs.<br>	Mills (Sag milland Ball mill) meintence jobs.<br>
+2594	Workshops<br>	Workshops<br>
+2595	Maluku	Indonesia
+2596	and child advocate<br>	and child advocate<br>
+2597	Inggris (UK)	Inggris (UK)
+2598	- Responsible for managing a staff of 25 &#x2013; 50 event personnel<br>	- Responsible for managing a staff of 25 &#x2013; 50 event personnel<br>
+2599	- Oversee design of costumes and mascots for large corporate clients<br>	- Oversee design of costumes and mascots for large corporate clients<br>
+2600	Generated sales through event bookings and weekly specials<br>	Generated sales through event bookings and weekly specials<br>
+2601	California</span></span><p class="description">Merchandised fashion products within current trends<b	California</span></span><p class="description">Merchandised fashion products within current trends<b
+2602	organized and input recruit information into a database and utilized sales techniques to recruit and	New York</span></span><p class="description">- Sorted and delivered the &#x2018;hottest trend&#x2019
+2603	VietnÃ£	VietnÃ£
+2604	Emirados Ãrabes Unidos	Emirados Ãrabes Unidos
+2605	Timor Leste	Timor Leste
+2606	Avalia&#xe7;&#xe3;o e caracteriza&#xe7;&#xe3;o dos sistemas de produ&#xe7;&#xe3;o.<br>	Avalia&#xe7;&#xe3;o e caracteriza&#xe7;&#xe3;o dos sistemas de produ&#xe7;&#xe3;o.<br>
+2607	Qualified Retirement Plan Administration</p></div></div><div id="experience-94801283" class="editabl	KS</span></span><p class="description">Approved commercial loan reserve disbursement requests for a 
+2608	Butan	Butan
+2609	Bayi kanal&#x131; &#xfc;zerinden Sat&#x131;&#x15f; Pazarlama<br>	Bayi kanal&#x131; &#xfc;zerinden Sat&#x131;&#x15f; Pazarlama<br>
+2610	OEM&#39;lere direk Sat&#x131;&#x15f; Pazarlama<br>	OEM&#39;lere direk Sat&#x131;&#x15f; Pazarlama<br>
+2611	OEM&#39;lere direk Sat&#x131;&#x15f; ve Pazarlama<br>	OEM&#39;lere direk Sat&#x131;&#x15f; ve Pazarlama<br>
+2612	Danimarka	Danimarka
+2613	Ä°talya	Ä°talya
+2614	Fransa	Fransa
+2615	DiÄŸer	DiÄŸer
+2616	NorveÃ§	NorveÃ§
+2617	Bulgaristan	Bulgaristan
+2618	- &#xe9;laboration du plan de communication de l&#39;Etat dans le d&#xe9;partement<br>	- &#xe9;laboration du plan de communication de l&#39;Etat dans le d&#xe9;partement<br>
+2619	devenue Int&#xe9;riale	j&#39;ai &#xe9;t&#xe9; &#xe9;lu &#xe0; plusieurs reprises d&#xe9;l&#xe9;gu&#xe9; et particip&#xe9; &
+2620	GOOM Radio	SNCF la Radio
+2621	2001 <br>	2001 <br>
+2622	Avustralya	Avustralya
+2623	L&#39;Oreal Luxe<br>	L&#39;Oreal Luxe<br>
+2624	Zimbabve	Zimbabve
+2625	Ä°rlanda	Ä°rlanda
+2626	2011<br>	2011<br>
+2627	TurquÃ­a	TurquÃ­a
+2628	E.coli	Koliform
+2629	Salmonella ssp.	Toplam Mezofili Aerobik Canl&#x131;
+2630	ECOtour &#39;12 is the company&#39;s released product. It is a three wheeler vehicle and runs only w	ECOtour &#39;12 is the company&#39;s released product. It is a three wheeler vehicle and runs only w
+2631	after determining the all points we focused on volume manufacturing for body of the car.<br>	after determining the all points we focused on volume manufacturing for body of the car.<br>
+2632	vacum infusion	lamination.</p></div></div><div id="experience-520871057" class="editable-item section-item"><div id
+2633	sun-louvres and aluminium claddings. <br>	sun-louvres and aluminium claddings. <br>
+2634	Producer PSN Turkey<br>	Producer PSN Turkey<br>
+2635	Lublin District	Poland
+2636	Macaristan	Macaristan
+2637	Malte	Malte
+2638	Fyn	Danmark
+2639	&#x2022;Pioneered product strategies and marketing plans in conjunction with USA Head Office (includ	&#x2022;Pioneered product strategies and marketing plans in conjunction with USA Head Office (includ
+2640	RepÃºblica DemocrÃ¡tica do Congo	RepÃºblica DemocrÃ¡tica do Congo
+2641	Central Kalimantan	Indonesia
+2642	- Promoting culture and festival activities.<br>	- Promoting culture and festival activities.<br>
+2643	- Explaining the art work.<br>	- Explaining the art work.<br>
+2644	- Answering telephone calls.<br>	- Answering telephone calls.<br>
+2645	- Helping to maintain a safe and secure environment<br>	- Helping to maintain a safe and secure environment<br>
+2646	then to determine the content and to find connection betwen locaation with ANOVA method. We were use	the first annalysis was qualitative annalysis to determine kind elements and two annalysis to count 
+2647	Deal with clients event promotion new design as request and suggest the best creative arts design.<b	Deal with clients event promotion new design as request and suggest the best creative arts design.<b
+2648	effect	editing
+2649	Gerenciamento e supervis&#xe3;o das obras de reforma voltadas ao segmento do varejo.<br>	Gerenciamento e supervis&#xe3;o das obras de reforma voltadas ao segmento do varejo.<br>
+2650	Responsible for Main Contract Issues regarding;<br>	Responsible for Main Contract Issues regarding;<br>
+2651	cost control and planning<br>	cost control and planning<br>
+2652	Filipinler	Filipinler
+2653	Cibuti	Cibuti
+2654	acquisition and implementation of the SAP TM	FICA and SAP CRM<br>
+2655	2009<br>	2009<br>
+2656	Bosna ve Hersek	Bosna ve Hersek
+2657	&#x2022;\	Managing and developing cross-border trading activities<br>	&#x2022;\	Managing and developing cross-border trading activities<br>
+2658	Ä°spanya	Ä°spanya
+2659	Key Account Manager for LSI &amp; DFI Group (2012)<br>	Key Account Manager for LSI &amp; DFI Group (2012)<br>
+2660	&#x2022;Assists in the identification and development of business building ideas and works with othe	&#x2022;Assists in the identification and development of business building ideas and works with othe
+2661	Nusa Tenggara Barat	Indonesia
+2662	Norwegia	Norwegia
+2663	1. Monthly inspection of all safety Equipment.<br>	1. Monthly inspection of all safety Equipment.<br>
+2664	- Penanaman 1000 Pohon di kaki merapi 2011<br>	- Penanaman 1000 Pohon di kaki merapi 2011<br>
+2665	Plan &amp; Execution supply to Customer Wholesale	Sales &amp; Distribution Performance
+2666	East Nusa Tenggara	Indonesia
+2667	Job Responsibilities&#xff1a;<br>	Job Responsibilities&#xff1a;<br>
+2668	S detector	and CH detector
+2669	China</span></span><p class="description">Launch projects transfered from oversea; <br>	China</span></span><p class="description">Launch projects transfered from oversea; <br>
+2670	Internal quality control and continually inprove thru activities like six sigma /QCC etc.<br>	Internal quality control and continually inprove thru activities like six sigma /QCC etc.<br>
+2671	&#x2022;\	Collected data from samples all around China. Use VBA to rearrange the data and make it eas	&#x2022;\	Collected data from samples all around China. Use VBA to rearrange the data and make it eas
+2672	&#x2022;\	Worked with the researcher to find out relationships of stock price among industries during	&#x2022;\	Worked with the researcher to find out relationships of stock price among industries during
+2673	&#x2022;\	Tutor or mentor students about GMAT questions<br>	&#x2022;\	Tutor or mentor students about GMAT questions<br>
+2674	Phase	Amplitude)<br>
+2675	Ceredigion	United Kingdom
+2676	à¸¥à¸²à¸§	à¸¥à¸²à¸§
+2677	&#x2022; Owner of the measurement procedures for technical instruction and training to lab inspector	&#x2022; Owner of the measurement procedures for technical instruction and training to lab inspector
+2678	Gwynedd	United Kingdom
+2679	- Managed fundraising expense receipts<br>	- Managed fundraising expense receipts<br>
+2680	- Created original digital content: including videos and interviews with Al Murray and Dan Snow<br>	- Created original digital content: including videos and interviews with Al Murray and Dan Snow<br>
+2681	- Produced blog posts<br>	- Produced blog posts<br>
+2682	- Sat on student panels<br>	- Sat on student panels<br>
+2683	Conwy	United Kingdom
+2684	&#x25cb;\	Scheduling<br>	&#x25cb;\	Scheduling<br>
+2685	Student teacher	Afternoon preschool
+2686	æ¾³é–€	æ¾³é–€
+2687	- Creating proposals incorporate with marketing campaign ideas and partnerships;<br>	- Creating proposals incorporate with marketing campaign ideas and partnerships;<br>
+2688	factsheet	Q&amp;A and etc;<br>
+2689	including 2011 Spring / Autumn Bonhams Auction Previews in both Beijing and Shanghai; 2012 MGM Grand	including 2011 Spring / Autumn Bonhams Auction Previews in both Beijing and Shanghai; 2012 MGM Grand
+2690	äº‘å— æ˜†æ˜Ž	äº‘å— æ˜†æ˜Ž
+2691	Ltd. is DTS system project implementation at nationwide.</p></div></div><script>$(function(){if(LI.D	args){var positionID;if
+2692	Kambodja	Kambodja
+2693	troubleshoot and resolve problems associated with missing or erroneous data<br>	troubleshoot and resolve problems associated with missing or erroneous data<br>
+2694	&#x2022;\	Ensure accurate input of trade data to match settlement instructions<br>	&#x2022;\	Ensure accurate input of trade data to match settlement instructions<br>
+2695	å°ç£ å°åŒ—å¸‚	å°ç£ å°åŒ—å¸‚
+2696	estoque	almoxarife
+2697	Colombie	Colombie
+2698	Advertising	and Talent divisions
+2699	&#x2022; Hosted &#x201c;Auburn Sports Report&#x201d; for AuburnTigers.com<br>	&#x2022; Hosted &#x201c;Auburn Sports Report&#x201d; for AuburnTigers.com<br>
+2700	&#x2022; Shot practices during training camp as well as post practice interviews<br>	&#x2022; Shot practices during training camp as well as post practice interviews<br>
+2701	&#x2022;\	Enter and upload 60 daily invoices into the Simply Accounting software system<br>	&#x2022;\	Enter and upload 60 daily invoices into the Simply Accounting software system<br>
+2702	&#x2022;\	Collaborated with a supervisor on structured learning<br>	&#x2022;\	Collaborated with a supervisor on structured learning<br>
+2703	&#x2022;\	Tasks involved listening to each participant&#x2019;s 3 hour session and coding data of int	&#x2022;\	Tasks involved listening to each participant&#x2019;s 3 hour session and coding data of int
+2704	staff uniforms and pool chemicals as per budget and policy<br>	staff uniforms and pool chemicals as per budget and policy<br>
+2705	000+ square feet into Manhattan CenterStone CAFM software across multiple clients <br>	000+ square feet into Manhattan CenterStone CAFM software across multiple clients <br>
+2706	CA	CA
+2707	Pensylviania	Pensylviania
+2708	Pensyvalnia	Pensyvalnia
+2709	New Orleans	New Orleans
+2710	Washington DC	Washington DC
+2711	Massachusette	Massachusette

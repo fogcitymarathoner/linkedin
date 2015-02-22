@@ -1,0 +1,793 @@
+alias,ItaliÃ«,Italy
+alias,BahreÃ¯n,Bahrain
+alias,Азербайджан,Azerbaijan
+alias,Berlín,Berlin
+alias,Frankfurt Am Main,Frankfurt
+alias,Cidade de Nova Iorque e Região,New York City
+alias,Nueva York,New York
+alias,AK,Alaska
+alias,AL,Alabama
+alias,AR,Arkansas
+alias,AZ,Arizona
+alias,Adélaïde,Adelaide
+alias,Afganistán,Afghanistan
+alias,Afrique du Sud,South Africa
+alias,Albanie,Albania
+alias,Alemania,Germany
+alias,Alemenha,Germany
+alias,AlgÃ©rie,Algeria
+alias,Algérie,Algeria
+alias,Allemagne,Germany
+alias,Almere Stad,Almere-Stad
+alias,Altherton,Atherton
+alias,Amerika BirleÅŸik Devletleri,Unitd States
+alias,Amerika Birleşik Devletleri,United States
+alias,Andorre,Andorra
+alias,Antarctique,Antarctica
+alias,Antigua-et-Barbuda,Antigua and Barbuda
+alias,Antilles Néerlandaises,Netherlands Antilles
+alias,Antilles nÃ©erlandaises,Netherlands Antilles
+alias,Antilles néerlandaises,Netherlands Antilles
+alias,Antwerpen,Antwerp
+alias,Aquitania,Aquitaine
+alias,Arabie Saoudite,Saudi Arabia
+alias,Argentine,Argentina
+alias,Arménie,Armenia
+alias,Australie,Australia
+alias,Australien,Australia
+alias,AustrÃ¡lie,Australia
+alias,Autorité Nationale Palestinienne,Palestinian territories
+alias,Autriche,Austria
+alias,Azerbaycan,Azerbaijan
+alias,Azerbaïdjan,Azerbaijan
+alias,Açores,Azores
+alias,Bahamas,The Bahamas
+alias,BahreÃ¯n,Bahrain
+alias,Bahreïn,Bahrain
+alias,Bahía de San Francisco,San Francisco Bay Area
+alias,Baleares,Balearic Islands
+alias,Bangkok Metropolitan,Bangkok
+alias,Baotou City,Baotou
+alias,Barbade,Barbados
+alias,Basse-Normandië,Basse-Normandie
+alias,Bay,Bay Area
+alias,Beijing City,Beijing
+alias,Belgien,Belgium
+alias,Belgio,Belgium
+alias,Belgique,Belgium
+alias,België,Belgium
+alias,Belçika,Belgium
+alias,Benín,Benin
+alias,Berlín,Berlin
+alias,Bermudes,Bermuda
+alias,Berna,Bern
+alias,Berne,Bern
+alias,Bhoutan,Bhutan
+alias,Białoruś,Belarus
+alias,Bielorrússia,Belarus
+alias,Bingöl,Bingol
+alias,Bolivie,Bolivia
+alias,Bosnie-Herzégovine,Bosnia and Herzegovina
+alias,Brasil,Brazil
+alias,Brasile,Brazil
+alias,Brasília,Brasilia
+alias,Brazilië,Brazil
+alias,Britain,United Kingdom
+alias,Brugge,Bruges
+alias,Brunéi Darussalam,Brunei Darussalam
+alias,Bruselas,Brussels
+alias,Brussel,Brussels
+alias,Bruxelas,Brussels
+alias,Bruxelles,Brussels
+alias,Brésil,Brazil
+alias,Brüssel,Brussels
+alias,București,Bucharest
+alias,Buffalo/Niagara,Buffalo
+alias,Bulgarie,Bulgaria
+alias,Bulgária,Bulgaria
+alias,Burlinggame,Burlingame
+alias,Burma,Myanmar
+alias,Bélarus,Belarus
+alias,Bélgica,Belgium
+alias,Bénin,Benin
+alias,Bósnia e Herzegovina,Bosnia and Herzegovina
+alias,CA,California
+alias,CO,Colorado
+alias,CT,Connecticut
+alias,Calif,California
+alias,Cambodge,Cambodia
+alias,Cameroun,Cameroon
+alias,Canadá,Canada
+alias,Cancún,Cancun
+alias,Cap-Vert,Cape Verde
+alias,Caïmanes,Cayman Islands
+alias,Centrafricaine,Central African Republic
+alias,Chili,Chile
+alias,Chine,China
+alias,Chypre,Cyprus
+alias,Colombie,Colombia
+alias,Comores,Comoros
+alias,Congo,Democratic Republic of the Congo
+alias,Corée du Sud,South Korea
+alias,Croatie,Croatia
+alias,Côte D'ivoire,Ivory Coast
+alias,DC,District of Columbia
+alias,DE,Delaware
+alias,Danemark,Denmark
+alias,Danmark,Denmark
+alias,Democratic People's Rep.,South Korea
+alias,Deutschland,Germany
+alias,District Of Columbia,District of Columbia
+alias,Dominicaine,Dominican Republic
+alias,Dominique,Dominica
+alias,Duitsland,Netherlands
+alias,England,United Kingdom
+alias,Espagne,Spain
+alias,España,Spain
+alias,Estados Unidos,United States
+alias,Estonie,Estonia
+alias,FL,Florida
+alias,Falkland,Falkland Islands
+alias,Federal States of,Micronesia
+alias,Femont,Fremont
+alias,Fidji,Fiji
+alias,Finlande,Finland
+alias,Francia,France
+alias,Francie,France
+alias,Frankreich,France
+alias,GA,Georgia
+alias,Gambia,The Gambia
+alias,Gambie,Gambia
+alias,Germania,Germany
+alias,Grande-Bretagne,Great Britain
+alias,Great Britain,United Kingdom
+alias,Grenade,Grenada
+alias,Groenland,Greenland
+alias,Großbritannien,United Kingdom
+alias,Grèce,Greece
+alias,Guinée Équatoriale,Equatorial Guinea
+alias,Guinée-Bissau,Guinea-Bissau
+alias,Guinéee,Guinea
+alias,Guyane Française,French Guiana
+alias,Géorgie,Georgia
+alias,HI,Hawaii
+alias,Haïti,Haiti
+alias,Holandia,Netherlands
+alias,Holland,Netherlands
+alias,Hong-Kong,Hong Kong
+alias,Hongrie,Hungary
+alias,IA,Iowa
+alias,ID,Idaho
+alias,IL,Illinois
+alias,IN,Indiana
+alias,Ile de la Réunion,Reunion Island
+alias,Inde,India
+alias,Indonésie,Indonesia
+alias,Irlande,Ireland
+alias,Islande,Iceland
+alias,Israël,Israel
+alias,Italia,Italy
+alias,Italie,Italy
+alias,Italien,Italy
+alias,Jamaïque,Jamaica
+alias,Japon,Japan
+alias,Japão,Japan
+alias,Java Barat,West Java
+alias,Jawa Barat,West Java
+alias,Jawa,Java
+alias,Jordanie,Jordan
+alias,KS,Kansas
+alias,KY,Kentucky
+alias,Kazakstan,Kazakhstan
+alias,Kirghizistan,Kyrgyzstan
+alias,Korea,South Korea
+alias,Koweït,Kuwait
+alias,LA,Louisiana
+alias,Lettonie,Latvia
+alias,Liban,Lebanon
+alias,Libye,Libya
+alias,Libéria,Liberia
+alias,Lituanie,Lithuania
+alias,MA,Massachusetts
+alias,MD,Maryland
+alias,ME,Maine
+alias,MI,Michigan
+alias,MN,Minnesota
+alias,MO,Missouri
+alias,MS,Mississippi
+alias,MT,Montana
+alias,Macao,Macau
+alias,Malaisie,Malaysia
+alias,Malte,Malta
+alias,Maroc,Morocco
+alias,Mauritanie,Mauritania
+alias,Mexique,Mexico
+alias,Milbrae,Millbrae
+alias,Minneapolis-St. Paul Are,Minneapolis-St.Paul
+alias,Mongolie,Mongolia
+alias,Monténégro,Montenegro
+alias,Moucou,Moscow
+alias,México,Mexico
+alias,NC,North Carolina
+alias,ND,North Dakota
+alias,NE,Nebraska
+alias,NH,New Hampshire
+alias,NJ,New Jersey
+alias,NM,New Mexico
+alias,NV,Nevada
+alias,NY,New York
+alias,Namibie,Namibia
+alias,Nederland,Netherlands
+alias,New York City,New York
+alias,Niederlande,Netherlands
+alias,Niemcy,Germany
+alias,Nigéria,Nigeria
+alias,Nioué,Niue
+alias,Norge,Norway
+alias,Norvège,Norway
+alias,Nouvelle-Calédonie,New Caledonia
+alias,Nouvelle-Zélande,New Zealand
+alias,Népal,Nepal
+alias,OH,Ohio
+alias,OK,Oklahoma
+alias,OR,Oregon
+alias,Ouganda,Uganda
+alias,Ouzbékistan,Uzbekistan
+alias,PA,Pennsylvania
+alias,Paesi Bassi,Netherlands
+alias,Pal Alto,Palo Alto
+alias,Palaos,Palau
+alias,PaloAlto,Palo Alto
+alias,Papouasie-Nouvelle-Guinée,Papua New Guinea
+alias,Pays-Bas,Netherlands
+alias,Países Bajos,Netherlands
+alias,People's Democratic Republic,Lao
+alias,PerÃº,Peru
+alias,Perú,Peru
+alias,Pitcairn,Pitcairn Island
+alias,Pittburgh,Pittsburgh
+alias,Pittsburge,Pittsburgh
+alias,Pologne,Poland
+alias,Polska,Poland
+alias,Polynésie Française,French Polynesia
+alias,Porto Rico,Puerto Rico
+alias,Pérou,Peru
+alias,Québec,Quebec
+alias,RI,Rhode Island
+alias,Regno Unito,United Kingdom
+alias,Reino Unido,United Kingdom
+alias,Rep. of,Macedonia
+alias,Republic of,Congo
+alias,Republic of,Moldova
+alias,România,Romania
+alias,Roumanie,Romania
+alias,Royaume-Uni,United Kingdom
+alias,Rumänien,Romania
+alias,Russian Federation,Russia
+alias,Russie,Russia
+alias,Russie,Russian Federation
+alias,République Islamique d' Iran,Iran
+alias,République Tchèque,Czech Republic
+alias,République tchèque,Czech Republic
+alias,SC,South Carolina
+alias,SD,South Dakota
+alias,SF Bay,San Francisco
+alias,Sahara Occidental,Western Sahara
+alias,Saint-Kitts-et-Nevis,Saint Kitts and Nevis
+alias,Saint-Marin,San Marino
+alias,Saint-Siège,Holy See
+alias,Saint-Siège,Vatican City State
+alias,Saint-Vincent-et-les Grenadines,Saint Vincent and the Grenadines
+alias,Sainte-Lucie,Saint Lucia
+alias,Salomon,Solomon Islands
+alias,Samoa Américaines,American Samoa
+alias,San Francisco Bay Area,San Francisco
+alias,San Francisco Bay,San Francisco
+alias,SanJose,San Jose
+alias,Sao Tomé-et-Principe,Sao Tome and Principe
+alias,Schweiz,Switzerland
+alias,Serbie,Serbia
+alias,Singapour,Singapore
+alias,Slovaquie,Slovakia
+alias,Slovénie,Slovenia
+alias,Somalie,Somalia
+alias,Soudan du Sud,South Sudan
+alias,Soudan,Sudan
+alias,Spagna,Spain
+alias,Spanien,Spain
+alias,Spanje,Spain
+alias,Suisse,Switzerland
+alias,Suiza,Switzerland
+alias,Sultanate of Oman,Oman
+alias,Sumatera,Sumatra
+alias,Suède,Sweden
+alias,Sverige,Sweden
+alias,Svizzera,Switzerland
+alias,Syrian Arab Republic,Syria
+alias,SÃ©nÃ©gal,Senegal
+alias,São Francisco,San Francisco
+alias,Sénégal,Senegal
+alias,TN,Tennessee
+alias,TX,Texas
+alias,Tadjikistan,Tajikistan
+alias,Tanzanie,Tanzania; officially the United Republic of Tanzania
+alias,Taïwan,Taiwan
+alias,Tchad,Chad
+alias,Terres Australes Françaises,French Southern Territories
+alias,Thaïlande,Thailand
+alias,Timor-Leste,East Timor
+alias,Trinité-et-Tobago,Trinidad and Tobago
+alias,Tunisie,Tunisia
+alias,Turkménistan,Turkmenistan
+alias,Turks et Caïques,Turks and Caicos Islands
+alias,Turquie,Turkey
+alias,Turquía,Turkey
+alias,Turquía,Turkey
+alias,ThaÃ¯lande,Thailand
+alias,Taiwán,Taiwan
+alias,TaiwÃ¡n,Taiwan
+alias,Thaïlande,Thailand
+alias,TÃ¼rkiye,Turkey
+alias,Türkei,Turkey
+alias,Türkiye,Turkey
+alias,U.K.,United Kingdom
+alias,U.S,United States
+alias,U.S.A,United States
+alias,US,United States
+alias,USA,United States
+alias,UT,Utah
+alias,United States of America,United States
+alias,VA,Virginia
+alias,VT,Vermont
+alias,Verneigde Staten,United States
+alias,Virgin Islands (U.S.),Virgin Islands
+alias,Viêt Nam,Vietnam
+alias,WA,Washington
+alias,WI,Wisconsin
+alias,WV,West Virginia
+alias,WY,Wyoming
+alias,Wallis et Futuna,Wallis and Futuna Islands
+alias,Yémen,Yemen
+alias,Zambie,Zambia
+alias,Zürich,Zurich
+alias,d'Orléans,d'Orleans
+alias,Área Metropolitana de Washington D.C,Washington D.C.
+alias,Égypte,Egypt
+alias,Émirats Arabes Unis,United Arab Emirates
+alias,Équateur,Ecuador
+alias,Érythrée,Eritrea
+alias,Étati Uniti,United States
+alias,États-Unis,United States
+alias,Éthiopie,Ethiopia
+alias,Île Christmas,Christmas Island
+alias,Île Maurice,Mauritius
+alias,Îles Cocos,Cocos
+alias,Îles Cook,Cook Islands
+alias,Îles Féroé,Faroe Islands
+alias,Îles Mariannes du Nord,Northern Mariana Islands
+alias,Îles Marshall,Marshall Islands
+alias,Îles Vierges (U.S.A.),Virgin Islands
+alias,Îles Vierges Britanniques,Virgin Islands
+alias,Îles Vierges,Virgin Islands
+alias,Россия,Russia
+alias,Малайзия,Malaysia
+alias,ประเทศไทย,Thailand
+country,Afghanistan
+country,Albania
+country,Algeria
+country,Andorra
+country,Angola
+country,Antigua and Barbuda
+country,Argentina
+country,Armenia
+country,Aruba
+country,Australia
+country,Austria
+country,Azerbaijan
+country,Bahamas
+country,Bahrain
+country,Bangladesh
+country,Barbados
+country,Belarus
+country,Belgium
+country,Belize
+country,Benin
+country,Bhutan
+country,Bolivia
+country,Bosnia and Herzegovina
+country,Botswana
+country,Brazil
+country,Brunei 
+country,Bulgaria
+country,Burkina Faso
+country,Burma
+country,Burundi
+country,Cambodia
+country,Cameroon
+country,Canada
+country,Cape Verde
+country,Central African Republic
+country,Chad
+country,Chile
+country,China
+country,Colombia
+country,Comoros
+country,Congo
+country,Costa Rica
+country,Cote d'Ivoire
+country,Croatia
+country,Cuba
+country,Curacao
+country,Cyprus
+country,Czech Republic
+country,Czechoslovakia
+country,Democratic Republic of the Congo
+country,Denmark
+country,Djibouti
+country,Dominica
+country,Dominican Republic
+country,East Timor
+country,Ecuador
+country,Egypt
+country,El Salvador
+country,Equatorial Guinea
+country,Eritrea
+country,Estonia
+country,Ethiopia
+country,Fiji
+country,Finland
+country,France
+country,Gabon
+country,Gambia
+country,Georgia
+country,Germany
+country,Ghana
+country,Greece
+country,Grenada
+country,Guatemala
+country,Guinea
+country,Guinea-Bissau
+country,Guyana
+country,Haiti
+country,Holy See
+country,Honduras
+country,Hong Kong
+country,Hungary
+country,Iceland
+country,India
+country,Indonesia
+country,Iran
+country,Iraq
+country,Ireland
+country,Israel
+country,Italia
+country,Italy
+country,Jamaica
+country,Japan
+country,Jordan
+country,Kazakhstan
+country,Kenya
+country,Kiribati
+country,Kosovo
+country,Kuwait
+country,Kyrgyzstan
+country,Laos
+country,Latvia
+country,Lebanon
+country,Lesotho
+country,Liberia
+country,Libya
+country,Liechtenstein
+country,Lithuania
+country,Luxembourg
+country,Macau
+country,Macedonia
+country,Madagascar
+country,Malawi
+country,Malaysia
+country,Maldives
+country,Mali
+country,Malta
+country,Marshall Islands
+country,Mauritania
+country,Mauritius
+country,Mexico
+country,Micronesia
+country,Moldova
+country,Monaco
+country,Mongolia
+country,Montenegro
+country,Morocco
+country,Mozambique
+country,Namibia
+country,Nauru
+country,Nepal
+country,Netherlands
+country,Netherlands Antilles
+country,New Zealand
+country,Nicaragua
+country,Niger
+country,Nigeria
+country,North Korea
+country,Norway
+country,Oman
+country,Pakistan
+country,Palau
+country,Palestinian Territories
+country,Panama
+country,Papua New Guinea
+country,Paraguay
+country,Peru
+country,Philippines
+country,Poland
+country,Portugal
+country,Qatar
+country,Republic of the Congo
+country,Romania
+country,Russia
+country,Rwanda
+country,Saint Kitts and Nevis
+country,Saint Lucia
+country,Saint Vincent and the Grenadines
+country,Samoa 
+country,San Marino
+country,Sao Tome and Principe
+country,Saudi Arabia
+country,Senegal
+country,Serbia
+country,Seychelles
+country,Sierra Leone
+country,Singapore
+country,Sint Maarten
+country,Slovakia
+country,Slovenia
+country,Solomon Islands
+country,Somalia
+country,South Africa
+country,South Korea
+country,South Sudan
+country,Spain 
+country,Sri Lanka
+country,Sudan
+country,Suriname
+country,Swaziland 
+country,Sweden
+country,Switzerland
+country,Syria
+country,Taiwan
+country,Tajikistan
+country,Tanzania
+country,Thailand 
+country,The Bahamas
+country,The Gambia
+country,Timor-Leste
+country,Togo
+country,Tonga
+country,Trinidad and Tobago
+country,Tunisia
+country,Turkey
+country,Turkmenistan
+country,Tuvalu
+country,Uganda
+country,Ukraine
+country,United Arab Emirates
+country,United Kingdom
+country,United States
+country,Uruguay
+country,Uzbekistan
+country,Vanuatu
+country,Venezuela
+country,Vietnam
+country,Yemen
+country,Zambia
+country,Zimbabwe
+state,Alabama,United States
+state,Alaska,United States
+state,Alberta,Canada
+state,Andaman & Nicobar Islands,India
+state,Andhra Pradesh,India
+state,Arizona,United States
+state,Arkansas,United States
+state,Arunachal Pradesh,India
+state,Assam,India
+state,Baluchistan,Pakistan
+state,Bihar,India
+state,California,United States
+state,Chattisgarh,India
+state,Colorado,United States
+state,Connecticut,United States
+state,Delaware,United States
+state,Delhi,India
+state,Derbyshire,United Kingdom
+state,District of Columbia,United States
+state,Durham,United Kingdom
+state,Essex,United Kingdom
+state,Florida,United States
+state,Georgia,United States
+state,Gloucestershire,United Kingdom
+state,Goa,India
+state,Gujarat,India
+state,Hampshire,United Kingdom
+state,Haryana,India
+state,Hawaii,United States
+state,Himachal Pradesh,India
+state,Idaho,United States
+state,Illinois,United States
+state,Indiana,United States
+state,Iowa,United States
+state,Jammy & Kashmir,India
+state,Jharkhand,India
+state,Kansas,United States
+state,Karnataka,India
+state,Kent,United Kingdom
+state,Kentucky,United States
+state,Kerala,India
+state,Lancashire,United Kingdom
+state,Louisiana,United States
+state,Madhya Pradesh,India
+state,Maharashtra,India
+state,Maine,United States
+state,Manipur,India
+state,Maryland,United States
+state,Massachusetts,United States
+state,Meghalaya,India
+state,Michigan,United States
+state,Middlesex,United Kingdom
+state,Minnesota,United States
+state,Mississippi,United States
+state,Missouri,United States
+state,Mizoram,India
+state,Montana,United States
+state,Nagaland,India
+state,Nebraska,United States
+state,Nevada,United States
+state,New Hampshire,United States
+state,New Jersey,United States
+state,New Mexico,United States
+state,New South Wales,Australia
+state,New York,United States
+state,North Carolina,United States
+state,North Dakota,United States
+state,Ohio,United States
+state,Oklahoma,United States
+state,Ontario,Canada
+state,Oregon,United States
+state,Orissa,India
+state,Pennsylvania,United States
+state,Pondicherry,India
+state,Punjab,India
+state,Quebec,Canada
+state,Queensland,Australia
+state,Rajasthan,India
+state,Rhode Island,United States
+state,Sikkim,India
+state,Somerset,United Kingdom
+state,South Astralia,Australia
+state,South Carolina,United States
+state,South Dakota,United States
+state,Surrey,United Kingdom
+state,Sussex,United Kingdom
+state,Tamil Nadu,India
+state,Tasmania,Australia
+state,Telengana,India
+state,Tennessee,United States
+state,Texas,United States
+state,Utah,United States
+state,Uttar Pradesh,India
+state,Uttarakhand,India
+state,Vermont,United States
+state,Victoria,Australia
+state,Virginia,United States
+state,Warwickshire,United Kingdom
+state,Washington,United States
+state,West Bengal,India
+state,West Virginia,United States
+state,Wisconsin,United States
+state,Worcestershire,United Kingdom
+state,Wyoming,United States
+state,Yorkshire,United Kingdom
+city,Atherton#United States,California
+city,Bay Point#UnitedStates,California
+city,Budapest#UnitedStates,Hungary
+city,Burlingame#UnitedStates,California
+city,Campbell#UnitedStates,California
+city,Charlotte#United States,North Carolina
+city,Cupertino#United States,Califronia
+city,Dallas/Fort Worth#Dallas/Fort Worth,Texas
+city,Dallas/Fort Worth#United States,Texas
+city,Daly city#United States,California
+city,Foster City#United States,California
+city,Fremont#United States,California
+city,Greenbrae#United States,California
+city,Greensboro/Winston-Salem#United States,North Carolina
+city,Greenville#United States,South Carolina
+city,Hercules#United States,California
+city,Ignacio#United States,California
+city,Los Angeles#United States,California
+city,Menlo Park#United States,California
+city,Miami/Fort Lauderdale#Miami/Fort Lauderdale,Florida
+city,Miami/Fort Lauderdale#United States,Florida
+city,Millbrae#United States,California
+city,Minneapolis-St.Paul#Minneapolis-St.Paul,Minnesota
+city,North CA#United States,California
+city,Palo Alto#United States,California
+city,Pittsburg#United States,California
+city,Raleigh-Durham#United States,North Carolina
+city,Redwood City#United States,California
+city,Redwood Shores#United States,California
+city,Salinas#United States,California
+city,San Diego#United States,California
+city,San Rafael#United States,California
+city,San Ramon#United States,California
+city,Saratoga#United States,California
+city,Tracy#United States,California
+city,Walnut Creek#United States,California
+city,Willow Glen#United States,California
+city,United Arab Emirates#Algeria,United Arab Emirates
+alias,Antilles nÃ©erlandaises,Netherland Antilles
+alias,Antilles nÃ©erlandaises,Netherland Antilles
+alias,Antilles néerlandaises,Netherland Antilles
+alias,Adélaïde,Adelaide
+alias,Sídney,Sidney
+city,Tasmania#Australia,Tasmania
+alias,AustrÃ¡lie,Australia
+alias,AustrÃ¡lie,Australia
+alias,Melbourne,Melbourne a okolí
+alias,Azerbaycan,Azerbaijan
+alias,Азербайджан,Azerbaijan
+alias,BahreÃ¯n,Bahrain
+alias,Bahreïn,Bahrain
+alias,Belgio,Belgium
+alias,Antwerpen,Antwerp
+alias,Liège,Lieja
+alias,BelÃ§ika,Belgium
+alias,Belçika,Belgium
+alias,BenÃ­n,Benin
+alias,Benín,Benin
+alias,BiaÅ‚oruÅ›,Belarus
+alias,Białoruś,Belarus
+alias,BielorrÃºssia,Belarus
+alias,Bielorrússia,Belarus
+alias,BraziliÃ«,Brazil
+alias,Brazilië,Brazil
+alias,BulgÃ¡ria,Bulgaria
+alias,Bulgária,Bulgaria
+alias,BÃ©nin,Benin
+alias,Bénin,Benin
+alias,BÃ³snia e Herzegovina,Bosnia and Herzegovina
+alias,Bósnia e Herzegovina,Bosnia and Herzegovina
+city,Miami/Fort Lauderdale#California,Florida
+city,British Columbia#Canada,British Columbia
+city,Manitoba#Canada,Manitoba
+alias,Alemanha,Germany
+alias,ColÃ´mbia,Columbia
+alias,CroÃ¡cia,Croatia
+alias,ElfenbeinkÃ¼ste,Ivory Coast
+alias,FederaciÃ³n Rusa,Russia
+alias,Frankrijk,France
+alias,FranÃ§a,France
+alias,FÃ¦rÃ¸erne,Faroe Islands
+alias,FÃ©dÃ©ration de Russie,Russia
+alias,GabÃ³n,Gabon
+alias,GrÃ¨ce,Greece
+alias,Guayana Francesa,French Guiana
+alias,GuinÃ©e Ã©quatoriale,Equatorial Guinea
+alias,GuinÃ©e,Guinea
+alias,Guyane franÃ§aise,French Guiana
+alias,HaitÃ­,Haiti
+alias,HaÃ¯ti,Haiti
+alias,HungrÃ­a,Hungary
+alias,IslÃ¢ndia,Iceland
+alias,IsraÃ«l,Israel
+alias,Italy,ItaliÃ«
+alias,ItÃ¡lia,Italy
+alias,JapÃ³n,Japan
+alias,KaapverdiÃ«,Cape Verde
+alias,KoweÃ¯t,Kuwait
+alias,KÄ±brÄ±s,Cyprus
+alias,KÄ±rgÄ±zistan,Kyrgyzstan
+alias,LÃ­bano,Lebanon
+alias,MacÃ©doine,Macedonia
+alias,MoÃ§ambique,Mozambique
+alias,MÃ©xico,Mexico
+alias,MÃ´naco,Monaco
