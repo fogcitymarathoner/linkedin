@@ -917,7 +917,7 @@ sub scrape_url {
 sub connect_to_vidlink {
 	my %attr;
 	$attr{mysql_socket} = get_mysql_socket();
-	my $dbname = "DBI:mysql:" . get_mysql_db();
+	my $dbname = "DBI:mysql:" . get_mysql_db().";host=127.0.0.1";
 	#$dbh=DBI->connect(
 	#	$dbname,
 	#	get_mysql_login(),

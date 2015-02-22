@@ -8,6 +8,7 @@ from fabric.api import settings
 
 
 SRC = '/home/marc/development/personal/python_apps/linkedin/'
+SRC = '/home/marc/development/python_apps/linkedin/'
 
 
 
